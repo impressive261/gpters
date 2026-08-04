@@ -1,0 +1,14 @@
+{
+  "name": "유나와 동재의 커플 셀피 월드컵",
+  "short_name": "셀피 월드컵",
+  "description": "사진을 골라 바로 시작하는 모바일 커플 셀피 월드컵",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#fff8fa",
+  "theme_color": "#ff769f",
+  "icons": [
+    {"src": "./icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable"}
+  ]
+}
