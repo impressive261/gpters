@@ -1,0 +1,157 @@
+<!doctype html>
+<html lang="ko">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+  <meta name="theme-color" content="#ff769f" />
+  <meta name="color-scheme" content="light" />
+  <meta name="apple-mobile-web-app-capable" content="yes" />
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+  <meta name="apple-mobile-web-app-title" content="커플 셀피 월드컵" />
+  <meta name="description" content="사진을 골라 바로 시작하는 유나와 동재의 커플 셀피 월드컵" />
+  <link rel="manifest" href="./manifest.webmanifest" />
+  <link rel="icon" href="./icon.svg" type="image/svg+xml" />
+  <link rel="apple-touch-icon" href="./icon.svg" />
+  <link rel="stylesheet" href="./styles.css" />
+  <title>유나와 동재의 커플 셀피 월드컵</title>
+</head>
+<body>
+  <input class="native-file-input" id="photoInput" type="file" accept="image/*,.heic,.heif" multiple />
+  <main class="app-shell">
+    <section class="screen active" id="uploadScreen" aria-label="사진 선택 화면">
+      <header class="home-hero">
+        <div class="sky-sparkles" aria-hidden="true"></div>
+        <svg class="city city-seoul" viewBox="0 0 240 150" aria-hidden="true">
+          <path d="M0 135h240v15H0zM0 118h28v17H0zm33-31h22v48H33zm27 17h30v31H60zm38-54h10v85H98zm-8 0h26l-5-9h-16zM103 10h3v31h-3zm17 78h29v47h-29zm36 13h24v34h-24zm30-34h18v68h-18zm25 38h29v30h-29z" fill="currentColor" opacity=".72"/>
+          <path d="M18 118c11-17 25-25 42-25s31 8 42 25H18zm10-9h64c-7-7-18-11-32-11s-25 4-32 11z" fill="#fff5f8" opacity=".96"/>
+        </svg>
+        <svg class="city city-ny" viewBox="0 0 240 150" aria-hidden="true">
+          <path d="M0 135h240v15H0zM0 112h22v23H0zm28-49h23v72H28zm29 27h18v45H57zm25-66h28v111H82zm10-16h8v16h-8zm25 79h27v48h-27zm34-38h21v86h-21zm28 60h26v26h-26zm33-76h17v102h-17zm23 56h25v46h-25z" fill="currentColor" opacity=".72"/>
+          <path d="M142 113c12-22 28-33 48-33 17 0 32 9 45 28l-5 4c-11-17-24-25-40-25-17 0-31 10-42 29z" fill="#fff" opacity=".85"/>
+        </svg>
+        <svg class="travel-route" viewBox="0 0 320 90" aria-hidden="true">
+          <path d="M12 62c78-61 150 45 228-12 21-15 39-21 68-8" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-dasharray="6 9"/>
+          <path d="m220 43 18-13-6 20 13 9-21 1-10 17 1-21-17-12z" fill="currentColor" transform="scale(.7) translate(100 20)"/>
+        </svg>
+        <div class="hero-copy">
+          <p class="mini-route"><span>SEOUL</span><b>♥</b><span>NEW YORK</span></p>
+          <h1>유나와 동재의<br /><em>커플 셀피 월드컵</em></h1>
+        </div>
+      </header>
+
+      <div class="upload-stage">
+        <label class="upload-label" for="photoInput" id="uploadLabel">
+          <span class="upload-camera" aria-hidden="true">
+            <svg viewBox="0 0 24 24"><path d="M7.5 5.5 9 3h6l1.5 2.5H19A3 3 0 0 1 22 8.5v8A3.5 3.5 0 0 1 18.5 20h-13A3.5 3.5 0 0 1 2 16.5v-8a3 3 0 0 1 3-3z" fill="none" stroke="currentColor" stroke-width="1.8"/><circle cx="12" cy="12.5" r="4" fill="none" stroke="currentColor" stroke-width="1.8"/></svg>
+          </span>
+          <strong>사진 선택</strong>
+          <small id="uploadHint">여러 장을 한 번에 골라주세요</small>
+        </label>
+
+        <div class="upload-progress hidden" id="uploadProgress" aria-live="polite">
+          <div class="spinner"></div>
+          <strong id="uploadProgressText">사진 준비 중</strong>
+          <div class="mini-progress"><i id="uploadProgressBar"></i></div>
+        </div>
+
+        <div class="selected-area hidden" id="selectedArea">
+          <div class="selected-head">
+            <div><strong id="selectedCount">0장</strong><span> 준비됨</span></div>
+            <label class="tiny-add" for="photoInput" aria-label="사진 더 추가">＋</label>
+          </div>
+          <div class="thumb-strip" id="thumbStrip"></div>
+          <button class="start-button" id="startButton" type="button" disabled>
+            <span>START</span>
+            <svg viewBox="0 0 24 24" aria-hidden="true"><path d="m9 6 6 6-6 6" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/></svg>
+          </button>
+          <button class="text-button" id="clearButton" type="button">전체 지우기</button>
+        </div>
+      </div>
+    </section>
+
+    <section class="screen game-screen" id="gameScreen" aria-label="사진 대결 화면">
+      <header class="game-topbar">
+        <button class="round-icon" id="gameHomeButton" type="button" aria-label="처음으로">
+          <svg viewBox="0 0 24 24"><path d="m4 11 8-7 8 7v8a1 1 0 0 1-1 1h-5v-6h-4v6H5a1 1 0 0 1-1-1z" fill="none" stroke="currentColor" stroke-width="2" stroke-linejoin="round"/></svg>
+        </button>
+        <div class="round-copy"><strong id="roundLabel">ROUND</strong><span id="matchLabel">1 / 1</span></div>
+        <button class="round-icon" id="undoButton" type="button" aria-label="이전 선택 취소" disabled>
+          <svg viewBox="0 0 24 24"><path d="M9 7H4v-5M4 7c3-4 10-5 14-1 4 4 3 11-1 14-3 2-7 2-10 0" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+        </button>
+      </header>
+      <div class="game-progress"><i id="gameProgressBar"></i></div>
+
+      <div class="battle-stage" id="battleStage">
+        <button class="candidate candidate-left" id="leftCandidate" type="button">
+          <img id="leftImage" alt="왼쪽 후보" />
+          <span class="pick-heart" aria-hidden="true">♥</span>
+        </button>
+        <button class="candidate candidate-right" id="rightCandidate" type="button">
+          <img id="rightImage" alt="오른쪽 후보" />
+          <span class="pick-heart" aria-hidden="true">♥</span>
+        </button>
+        <div class="vs-chip" aria-hidden="true">VS</div>
+      </div>
+      <p class="tap-hint">더 좋은 사진을 터치</p>
+    </section>
+
+    <section class="screen winner-screen" id="winnerScreen" aria-label="우승 사진 화면">
+      <img class="winner-backdrop" id="winnerBackdrop" alt="" />
+      <div class="winner-overlay"></div>
+      <div class="confetti" id="confetti" aria-hidden="true"></div>
+      <header class="winner-topbar">
+        <button class="glass-icon" id="winnerHomeButton" type="button" aria-label="처음으로">
+          <svg viewBox="0 0 24 24"><path d="m4 11 8-7 8 7v8a1 1 0 0 1-1 1h-5v-6h-4v6H5a1 1 0 0 1-1-1z" fill="none" stroke="currentColor" stroke-width="2" stroke-linejoin="round"/></svg>
+        </button>
+        <button class="glass-icon" id="shareWinnerButton" type="button" aria-label="우승 사진 공유">
+          <svg viewBox="0 0 24 24"><path d="M12 15V3m0 0L8 7m4-4 4 4M5 12v7a2 2 0 0 0 2 2h10a2 2 0 0 0 2-2v-7" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+        </button>
+      </header>
+      <div class="winner-content">
+        <div class="crown-badge" aria-hidden="true">♛</div>
+        <p>THE BEST SELFIE</p>
+        <h2>우리의 1등</h2>
+        <div class="winner-actions">
+          <button id="openWinnerButton" type="button">원본 보기</button>
+          <button class="primary" id="rankingButton" type="button">전체 순위</button>
+        </div>
+      </div>
+    </section>
+
+    <section class="screen ranking-screen" id="rankingScreen" aria-label="전체 순위 화면">
+      <header class="ranking-header">
+        <button class="round-icon" id="rankingBackButton" type="button" aria-label="우승 화면으로">
+          <svg viewBox="0 0 24 24"><path d="m14 6-6 6 6 6" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/></svg>
+        </button>
+        <div><span>YUNA ♥ DONGJAE</span><h2>셀피 랭킹</h2></div>
+        <button class="round-icon" id="rankingHomeButton" type="button" aria-label="처음으로">
+          <svg viewBox="0 0 24 24"><path d="m4 11 8-7 8 7v8a1 1 0 0 1-1 1h-5v-6h-4v6H5a1 1 0 0 1-1-1z" fill="none" stroke="currentColor" stroke-width="2" stroke-linejoin="round"/></svg>
+        </button>
+      </header>
+      <div class="podium" id="podium"></div>
+      <div class="ranking-grid" id="rankingGrid"></div>
+      <div class="ranking-footer">
+        <button id="rematchButton" type="button">다시 대결</button>
+        <label for="photoInput" id="newSetLabel">새 사진</label>
+      </div>
+    </section>
+  </main>
+
+  <div class="lightbox" id="lightbox" role="dialog" aria-modal="true" aria-label="원본 사진 보기">
+    <div class="lightbox-bar">
+      <button id="lightboxClose" type="button" aria-label="닫기">×</button>
+      <strong id="lightboxRank">1위</strong>
+      <button id="lightboxShare" type="button" aria-label="사진 공유">
+        <svg viewBox="0 0 24 24"><path d="M12 15V3m0 0L8 7m4-4 4 4M5 12v7a2 2 0 0 0 2 2h10a2 2 0 0 0 2-2v-7" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+      </button>
+    </div>
+    <button class="lightbox-nav prev" id="lightboxPrev" type="button" aria-label="이전 사진">‹</button>
+    <img id="lightboxImage" alt="원본 사진" />
+    <button class="lightbox-nav next" id="lightboxNext" type="button" aria-label="다음 사진">›</button>
+    <div class="lightbox-bottom"><span id="lightboxName"></span><a id="downloadOriginal" download>원본 저장</a></div>
+  </div>
+
+  <div class="toast" id="toast" role="status" aria-live="polite"></div>
+  <script src="./app.js" defer></script>
+</body>
+</html>
