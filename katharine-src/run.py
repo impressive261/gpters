@@ -14,3 +14,9 @@ with (A/'Vocabulary_Complete.csv').open('w',encoding='utf-8-sig',newline='') as 
  for w in words:wr.writerow([w[k] for k in keys])
 for name in ['build.py','assets.py']:runpy.run_path(str(S/name),run_name='__main__')
 p=A/'README.md';p.write_text(p.read_text().replace('Run enrich.py, questions.py, patterns.py, build.py and assets.py in that order.','Run `python katharine-src/run.py` from the repository root. This applies curated notes and correct source-chapter labels before the vocabulary audit.'))
+# Idempotent UI migration: an exact polite-form match must precede a longer word containing it.
+p=A/'app.js';text=p.read_text();marker="includes(search.toLowerCase())));$('#main').innerHTML=heading('Word library'"
+replacement="includes(search.toLowerCase()))).sort((a,b)=>{const q=K.normalize(search),rank=w=>[w.ko,w.yo,...w.aliases].some(x=>K.normalize(x)===q)?0:1;return rank(a)-rank(b);});$('#main').innerHTML=heading('Word library'"
+if marker in text:text=text.replace(marker,replacement,1)
+elif replacement not in text:raise ValueError('Search ranking migration target changed; inspect before rebuilding.')
+p.write_text(text)
