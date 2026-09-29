@@ -1,0 +1,2492 @@
+[
+  {
+    "id": "S01_CORE_01",
+    "title": "About me / 1",
+    "url": "pdfs/01_Daily_Conversation/S01_CORE_01.pdf",
+    "ch": 4,
+    "extension": false,
+    "kind": "conversation",
+    "questions": [
+      "이름이 뭐예요?",
+      "학생이에요? 직장인이에요?",
+      "한국어를 공부해요?",
+      "영어도 공부해요?",
+      "한국어가 재미있어요?",
+      "한국어가 쉬워요, 어려워요?",
+      "오늘 시간이 많아요?",
+      "오늘 숙제가 있어요?"
+    ],
+    "questionIds": [
+      "S01-01",
+      "S01-02",
+      "S01-03",
+      "S01-04",
+      "S01-05",
+      "S01-06",
+      "S01-07",
+      "S01-08"
+    ]
+  },
+  {
+    "id": "S01_CORE_02",
+    "title": "About me / 2",
+    "url": "pdfs/01_Daily_Conversation/S01_CORE_02.pdf",
+    "ch": 4,
+    "extension": false,
+    "kind": "conversation",
+    "questions": [
+      "책을 자주 읽어요?",
+      "영화를 자주 봐요?",
+      "음악을 좋아해요?",
+      "게임도 좋아해요?",
+      "커피를 마셔요?",
+      "우유도 마셔요?",
+      "빵을 좋아해요?",
+      "사과를 좋아해요?"
+    ],
+    "questionIds": [
+      "S01-09",
+      "S01-10",
+      "S01-11",
+      "S01-12",
+      "S01-13",
+      "S01-14",
+      "S01-15",
+      "S01-16"
+    ]
+  },
+  {
+    "id": "S01_CORE_03",
+    "title": "About me / 3",
+    "url": "pdfs/01_Daily_Conversation/S01_CORE_03.pdf",
+    "ch": 4,
+    "extension": false,
+    "kind": "conversation",
+    "questions": [
+      "한국 음식을 좋아해요?",
+      "사진을 자주 봐요?",
+      "한국어 단어를 많이 알아요?",
+      "한국어 수업이 재미있어요?"
+    ],
+    "questionIds": [
+      "S01-17",
+      "S01-18",
+      "S01-19",
+      "S01-20"
+    ]
+  },
+  {
+    "id": "S02_CORE_01",
+    "title": "Family and people / 1",
+    "url": "pdfs/01_Daily_Conversation/S02_CORE_01.pdf",
+    "ch": 4,
+    "extension": false,
+    "kind": "conversation",
+    "questions": [
+      "가족이 많아요?",
+      "부모님은 어디에 살아요?",
+      "형이 있어요?",
+      "누나가 있어요?",
+      "언니가 있어요?",
+      "오빠가 있어요?",
+      "동생이 있어요?",
+      "할머니는 가까이 살아요?"
+    ],
+    "questionIds": [
+      "S02-01",
+      "S02-02",
+      "S02-03",
+      "S02-04",
+      "S02-05",
+      "S02-06",
+      "S02-07",
+      "S02-08"
+    ]
+  },
+  {
+    "id": "S02_CORE_02",
+    "title": "Family and people / 2",
+    "url": "pdfs/01_Daily_Conversation/S02_CORE_02.pdf",
+    "ch": 4,
+    "extension": false,
+    "kind": "conversation",
+    "questions": [
+      "할아버지도 가까이 살아요?",
+      "가족을 자주 만나요?",
+      "가족도 한국 음식을 좋아해요?",
+      "친구가 많아요?",
+      "친구도 한국어를 공부해요?",
+      "친구는 학생이에요, 직장인이에요?",
+      "친구의 이름이 뭐예요?",
+      "가족의 사진이 있어요?"
+    ],
+    "questionIds": [
+      "S02-09",
+      "S02-10",
+      "S02-11",
+      "S02-12",
+      "S02-13",
+      "S02-14",
+      "S02-15",
+      "S02-16"
+    ]
+  },
+  {
+    "id": "S02_CORE_03",
+    "title": "Family and people / 3",
+    "url": "pdfs/01_Daily_Conversation/S02_CORE_03.pdf",
+    "ch": 4,
+    "extension": false,
+    "kind": "conversation",
+    "questions": [
+      "누구의 휴대폰이에요?",
+      "누구의 가방이에요?",
+      "누구의 책이에요?"
+    ],
+    "questionIds": [
+      "S02-17",
+      "S02-18",
+      "S02-19"
+    ]
+  },
+  {
+    "id": "S02_EXT_01",
+    "title": "Family and people / 1",
+    "url": "pdfs/02_Optional_Extension/S02_EXT_01.pdf",
+    "ch": 4,
+    "extension": true,
+    "kind": "conversation",
+    "questions": [
+      "가족 중에서 누가 커피를 좋아해요?"
+    ],
+    "questionIds": [
+      "S02-20"
+    ]
+  },
+  {
+    "id": "S03_CORE_01",
+    "title": "Home and location / 1",
+    "url": "pdfs/01_Daily_Conversation/S03_CORE_01.pdf",
+    "ch": 2,
+    "extension": false,
+    "kind": "conversation",
+    "questions": [
+      "지금 어디에 있어요?",
+      "집에 있어요?",
+      "방에 있어요?",
+      "휴대폰이 어디에 있어요?",
+      "가방이 어디에 있어요?",
+      "책이 어디에 있어요?",
+      "지갑이 가방 안에 있어요?",
+      "휴대폰이 책상 위에 있어요?"
+    ],
+    "questionIds": [
+      "S03-01",
+      "S03-02",
+      "S03-03",
+      "S03-04",
+      "S03-05",
+      "S03-06",
+      "S03-07",
+      "S03-08"
+    ]
+  },
+  {
+    "id": "S03_CORE_02",
+    "title": "Home and location / 2",
+    "url": "pdfs/01_Daily_Conversation/S03_CORE_02.pdf",
+    "ch": 2,
+    "extension": false,
+    "kind": "conversation",
+    "questions": [
+      "신발이 집 안에 있어요, 밖에 있어요?",
+      "부엌에서 뭐를 해요?",
+      "거실에서 뭐를 해요?",
+      "침실에서 뭐를 해요?",
+      "집에서 공부해요?",
+      "집에서 자주 영화를 봐요?",
+      "집에서 커피를 마셔요?",
+      "집에서 혼자 공부해요?"
+    ],
+    "questionIds": [
+      "S03-09",
+      "S03-10",
+      "S03-11",
+      "S03-12",
+      "S03-13",
+      "S03-14",
+      "S03-15",
+      "S03-16"
+    ]
+  },
+  {
+    "id": "S03_CORE_03",
+    "title": "Home and location / 3",
+    "url": "pdfs/01_Daily_Conversation/S03_CORE_03.pdf",
+    "ch": 2,
+    "extension": false,
+    "kind": "conversation",
+    "questions": [
+      "가족은 거실에서 뭐를 해요?",
+      "집 근처에 편의점이 있어요?",
+      "집 근처에 카페가 있어요?",
+      "집이 역에 가까워요?"
+    ],
+    "questionIds": [
+      "S03-17",
+      "S03-18",
+      "S03-19",
+      "S03-20"
+    ]
+  },
+  {
+    "id": "S04_CORE_01",
+    "title": "My neighborhood / 1",
+    "url": "pdfs/01_Daily_Conversation/S04_CORE_01.pdf",
+    "ch": 2,
+    "extension": false,
+    "kind": "conversation",
+    "questions": [
+      "집 근처에 뭐가 있어요?",
+      "카페가 있어요?",
+      "편의점이 있어요?",
+      "병원이 있어요?",
+      "약국이 있어요?",
+      "은행이 있어요?",
+      "공원이 있어요?",
+      "도서관이 있어요?"
+    ],
+    "questionIds": [
+      "S04-01",
+      "S04-02",
+      "S04-03",
+      "S04-04",
+      "S04-05",
+      "S04-06",
+      "S04-07",
+      "S04-08"
+    ]
+  },
+  {
+    "id": "S04_CORE_02",
+    "title": "My neighborhood / 2",
+    "url": "pdfs/01_Daily_Conversation/S04_CORE_02.pdf",
+    "ch": 2,
+    "extension": false,
+    "kind": "conversation",
+    "questions": [
+      "영화관이 있어요?",
+      "서점이 있어요?",
+      "카페에서 뭐를 해요?",
+      "공원에서 뭐를 해요?",
+      "식당에서 뭐를 자주 먹어요?",
+      "편의점에서 뭐를 사요?",
+      "서점에서 책을 사요?",
+      "도서관에서 공부해요?"
+    ],
+    "questionIds": [
+      "S04-09",
+      "S04-10",
+      "S04-12",
+      "S04-13",
+      "S04-14",
+      "S04-15",
+      "S04-16",
+      "S04-17"
+    ]
+  },
+  {
+    "id": "S04_CORE_03",
+    "title": "My neighborhood / 3",
+    "url": "pdfs/01_Daily_Conversation/S04_CORE_03.pdf",
+    "ch": 2,
+    "extension": false,
+    "kind": "conversation",
+    "questions": [
+      "영화관에서 영화를 자주 봐요?",
+      "미용실에 자주 가요?",
+      "병원에 자주 가요?"
+    ],
+    "questionIds": [
+      "S04-18",
+      "S04-19",
+      "S04-20"
+    ]
+  },
+  {
+    "id": "S04_EXT_01",
+    "title": "My neighborhood / 1",
+    "url": "pdfs/02_Optional_Extension/S04_EXT_01.pdf",
+    "ch": 2,
+    "extension": true,
+    "kind": "conversation",
+    "questions": [
+      "자주 가는 카페가 있어요?"
+    ],
+    "questionIds": [
+      "S04-11"
+    ]
+  },
+  {
+    "id": "S05_CORE_01",
+    "title": "Transportation / 1",
+    "url": "pdfs/01_Daily_Conversation/S05_CORE_01.pdf",
+    "ch": 3,
+    "extension": false,
+    "kind": "conversation",
+    "questions": [
+      "학교에 어떻게 가요?",
+      "회사에 어떻게 가요?",
+      "카페에 어떻게 가요?",
+      "공원에 어떻게 가요?",
+      "병원에 어떻게 가요?",
+      "공항에 어떻게 가요?",
+      "버스로 자주 가요?",
+      "지하철로 자주 이동해요?"
+    ],
+    "questionIds": [
+      "S05-01",
+      "S05-02",
+      "S05-03",
+      "S05-04",
+      "S05-05",
+      "S05-06",
+      "S05-07",
+      "S05-08"
+    ]
+  },
+  {
+    "id": "S05_CORE_02",
+    "title": "Transportation / 2",
+    "url": "pdfs/01_Daily_Conversation/S05_CORE_02.pdf",
+    "ch": 3,
+    "extension": false,
+    "kind": "conversation",
+    "questions": [
+      "택시도 자주 타요?",
+      "자동차가 있어요?",
+      "자전거가 있어요?",
+      "자전거로 공원에 가요?",
+      "기차로 여행해요?",
+      "택시가 비싸요?",
+      "지하철이 편해요?"
+    ],
+    "questionIds": [
+      "S05-09",
+      "S05-10",
+      "S05-11",
+      "S05-12",
+      "S05-13",
+      "S05-19",
+      "S05-20"
+    ]
+  },
+  {
+    "id": "S05_EXT_01",
+    "title": "Transportation / 1",
+    "url": "pdfs/02_Optional_Extension/S05_EXT_01.pdf",
+    "ch": 3,
+    "extension": true,
+    "kind": "conversation",
+    "questions": [
+      "비행기로 어디에 가고 싶어요?",
+      "배로 여행한 적이 있어요?",
+      "집에서 학교까지 뭐로 가요?",
+      "집에서 회사까지 뭐로 가요?",
+      "버스와 지하철 중에 뭐가 좋아요?"
+    ],
+    "questionIds": [
+      "S05-14",
+      "S05-15",
+      "S05-16",
+      "S05-17",
+      "S05-18"
+    ]
+  },
+  {
+    "id": "S06_CORE_01",
+    "title": "Directions / 1",
+    "url": "pdfs/01_Daily_Conversation/S06_CORE_01.pdf",
+    "ch": 3,
+    "extension": false,
+    "kind": "conversation",
+    "questions": [
+      "카페가 어디에 있어요?",
+      "학교 앞에 뭐가 있어요?",
+      "학교 뒤에 뭐가 있어요?",
+      "편의점이 카페 앞에 있어요?",
+      "약국이 병원 옆에 있어요?",
+      "오른쪽으로 가요, 왼쪽으로 가요?",
+      "먼저 어디로 가요?",
+      "그다음 어디로 가요?"
+    ],
+    "questionIds": [
+      "S06-01",
+      "S06-02",
+      "S06-03",
+      "S06-04",
+      "S06-05",
+      "S06-06",
+      "S06-07",
+      "S06-08"
+    ]
+  },
+  {
+    "id": "S06_CORE_02",
+    "title": "Directions / 2",
+    "url": "pdfs/01_Daily_Conversation/S06_CORE_02.pdf",
+    "ch": 3,
+    "extension": false,
+    "kind": "conversation",
+    "questions": [
+      "오른쪽으로 천천히 가요?",
+      "왼쪽으로 빨리 가요?",
+      "카페가 역에서 가까워요?",
+      "회사가 집에서 멀어요?",
+      "학교가 집에서 가까워요?",
+      "공원이 어디에 있어요?"
+    ],
+    "questionIds": [
+      "S06-09",
+      "S06-10",
+      "S06-12",
+      "S06-13",
+      "S06-14",
+      "S06-15"
+    ]
+  },
+  {
+    "id": "S06_EXT_01",
+    "title": "Directions / 1",
+    "url": "pdfs/02_Optional_Extension/S06_EXT_01.pdf",
+    "ch": 3,
+    "extension": true,
+    "kind": "conversation",
+    "questions": [
+      "역에서 카페까지 어떻게 가요?"
+    ],
+    "questionIds": [
+      "S06-11"
+    ]
+  },
+  {
+    "id": "S07_CORE_01",
+    "title": "Tools and everyday actions / 1",
+    "url": "pdfs/01_Daily_Conversation/S07_CORE_01.pdf",
+    "ch": 4,
+    "extension": false,
+    "kind": "conversation",
+    "questions": [
+      "이름을 뭐로 써요?",
+      "볼펜으로 이름을 써요?",
+      "연필로도 써요?",
+      "종이를 뭐로 잘라요?",
+      "가위로 종이를 잘라요?",
+      "칼로 무엇을 잘라요?",
+      "밥을 뭐로 먹어요?",
+      "숟가락으로 먹어요?"
+    ],
+    "questionIds": [
+      "S07-01",
+      "S07-02",
+      "S07-03",
+      "S07-04",
+      "S07-05",
+      "S07-06",
+      "S07-07",
+      "S07-08"
+    ]
+  },
+  {
+    "id": "S07_CORE_02",
+    "title": "Tools and everyday actions / 2",
+    "url": "pdfs/01_Daily_Conversation/S07_CORE_02.pdf",
+    "ch": 4,
+    "extension": false,
+    "kind": "conversation",
+    "questions": [
+      "젓가락으로도 먹어요?",
+      "물을 뭐로 마셔요?",
+      "사진을 뭐로 찍어요?",
+      "휴대폰으로 사진을 찍어요?",
+      "카메라로도 사진을 찍어요?",
+      "컴퓨터로 뭐를 해요?",
+      "인터넷으로 뭐를 찾아요?",
+      "휴대폰으로 메시지를 보내요?"
+    ],
+    "questionIds": [
+      "S07-09",
+      "S07-10",
+      "S07-11",
+      "S07-12",
+      "S07-13",
+      "S07-14",
+      "S07-15",
+      "S07-16"
+    ]
+  },
+  {
+    "id": "S07_CORE_03",
+    "title": "Tools and everyday actions / 3",
+    "url": "pdfs/01_Daily_Conversation/S07_CORE_03.pdf",
+    "ch": 4,
+    "extension": false,
+    "kind": "conversation",
+    "questions": [
+      "물건을 카드로 자주 사요?",
+      "현금만 사용해요?",
+      "영어로 말해요?",
+      "한국어로도 말해요?"
+    ],
+    "questionIds": [
+      "S07-17",
+      "S07-18",
+      "S07-19",
+      "S07-20"
+    ]
+  },
+  {
+    "id": "S08_CORE_01",
+    "title": "Also and only / 1",
+    "url": "pdfs/01_Daily_Conversation/S08_CORE_01.pdf",
+    "ch": 4,
+    "extension": false,
+    "kind": "conversation",
+    "questions": [
+      "커피를 마셔요?",
+      "차도 마셔요?",
+      "커피만 마셔요?",
+      "빵을 먹어요?",
+      "사과도 먹어요?",
+      "영화를 봐요?",
+      "음악도 들어요?",
+      "영화만 좋아해요?"
+    ],
+    "questionIds": [
+      "S08-01",
+      "S08-02",
+      "S08-03",
+      "S08-04",
+      "S08-05",
+      "S08-07",
+      "S08-08",
+      "S08-09"
+    ]
+  },
+  {
+    "id": "S08_CORE_02",
+    "title": "Also and only / 2",
+    "url": "pdfs/01_Daily_Conversation/S08_CORE_02.pdf",
+    "ch": 4,
+    "extension": false,
+    "kind": "conversation",
+    "questions": [
+      "한국어를 공부해요?",
+      "영어도 공부해요?",
+      "한국어만 공부해요?",
+      "친구도 한국어를 공부해요?",
+      "가족도 영화를 좋아해요?",
+      "오늘 수업만 있어요?",
+      "오늘 일도 해요?",
+      "컴퓨터도 있어요?"
+    ],
+    "questionIds": [
+      "S08-10",
+      "S08-11",
+      "S08-12",
+      "S08-13",
+      "S08-14",
+      "S08-15",
+      "S08-16",
+      "S08-18"
+    ]
+  },
+  {
+    "id": "S08_CORE_03",
+    "title": "Also and only / 3",
+    "url": "pdfs/01_Daily_Conversation/S08_CORE_03.pdf",
+    "ch": 4,
+    "extension": false,
+    "kind": "conversation",
+    "questions": [
+      "카드만 사용해요?",
+      "현금도 사용해요?"
+    ],
+    "questionIds": [
+      "S08-19",
+      "S08-20"
+    ]
+  },
+  {
+    "id": "S08_EXT_01",
+    "title": "Also and only / 1",
+    "url": "pdfs/02_Optional_Extension/S08_EXT_01.pdf",
+    "ch": 4,
+    "extension": true,
+    "kind": "conversation",
+    "questions": [
+      "아침에 빵만 먹어요?",
+      "휴대폰만 가지고 있어요?"
+    ],
+    "questionIds": [
+      "S08-06",
+      "S08-17"
+    ]
+  },
+  {
+    "id": "S09_CORE_01",
+    "title": "Whose is it? / 1",
+    "url": "pdfs/01_Daily_Conversation/S09_CORE_01.pdf",
+    "ch": 4,
+    "extension": false,
+    "kind": "conversation",
+    "questions": [
+      "이건 누구의 휴대폰이에요?",
+      "이건 누구의 가방이에요?",
+      "이건 누구의 책이에요?",
+      "이건 누구의 지갑이에요?",
+      "이건 누구의 우산이에요?",
+      "이건 누구의 시계예요?",
+      "친구의 이름이 뭐예요?",
+      "선생님의 이름이 뭐예요?"
+    ],
+    "questionIds": [
+      "S09-01",
+      "S09-02",
+      "S09-03",
+      "S09-04",
+      "S09-05",
+      "S09-06",
+      "S09-07",
+      "S09-08"
+    ]
+  },
+  {
+    "id": "S09_CORE_02",
+    "title": "Whose is it? / 2",
+    "url": "pdfs/01_Daily_Conversation/S09_CORE_02.pdf",
+    "ch": 4,
+    "extension": false,
+    "kind": "conversation",
+    "questions": [
+      "어머니의 휴대폰이 커요?",
+      "아버지의 자동차가 집에 있어요?",
+      "가족의 사진이 있어요?",
+      "친구의 사진이 있어요?",
+      "학교의 이름이 뭐예요?",
+      "회사의 이름이 뭐예요?",
+      "한국어 수업의 숙제가 많아요?"
+    ],
+    "questionIds": [
+      "S09-09",
+      "S09-10",
+      "S09-11",
+      "S09-12",
+      "S09-13",
+      "S09-14",
+      "S09-15"
+    ]
+  },
+  {
+    "id": "S10_CORE_01",
+    "title": "Giving and sending / 1",
+    "url": "pdfs/01_Daily_Conversation/S10_CORE_01.pdf",
+    "ch": 5,
+    "extension": false,
+    "kind": "conversation",
+    "questions": [
+      "친구한테 선물을 자주 줘요?",
+      "가족한테 선물을 줘요?",
+      "누구한테 책을 줘요?",
+      "아기한테 뭐를 줘요?",
+      "강아지한테 뭐를 줘요?",
+      "고양이한테 물을 줘요?",
+      "손님한테 물을 줘요?",
+      "친구한테 사진을 보내요?"
+    ],
+    "questionIds": [
+      "S10-02",
+      "S10-03",
+      "S10-04",
+      "S10-05",
+      "S10-06",
+      "S10-07",
+      "S10-08",
+      "S10-09"
+    ]
+  },
+  {
+    "id": "S10_CORE_02",
+    "title": "Giving and sending / 2",
+    "url": "pdfs/01_Daily_Conversation/S10_CORE_02.pdf",
+    "ch": 5,
+    "extension": false,
+    "kind": "conversation",
+    "questions": [
+      "가족한테 메시지를 보내요?",
+      "누구한테 문자를 자주 보내요?",
+      "누구한테 이메일을 보내요?",
+      "동료에게 이메일을 보내요?",
+      "교수님에게 이메일을 보내요?",
+      "누구한테 전화를 자주 해요?",
+      "부모님한테 전화해요?",
+      "친구한테도 전화해요?"
+    ],
+    "questionIds": [
+      "S10-10",
+      "S10-11",
+      "S10-12",
+      "S10-13",
+      "S10-14",
+      "S10-15",
+      "S10-16",
+      "S10-17"
+    ]
+  },
+  {
+    "id": "S10_CORE_03",
+    "title": "Giving and sending / 3",
+    "url": "pdfs/01_Daily_Conversation/S10_CORE_03.pdf",
+    "ch": 5,
+    "extension": false,
+    "kind": "conversation",
+    "questions": [
+      "누구한테 도움을 부탁해요?",
+      "누구한테 질문해요?"
+    ],
+    "questionIds": [
+      "S10-18",
+      "S10-19"
+    ]
+  },
+  {
+    "id": "S10_EXT_01",
+    "title": "Giving and sending / 1",
+    "url": "pdfs/02_Optional_Extension/S10_EXT_01.pdf",
+    "ch": 5,
+    "extension": true,
+    "kind": "conversation",
+    "questions": [
+      "생일에 누구한테 선물을 줘요?",
+      "누구한테 한국어를 가르치고 싶어요?"
+    ],
+    "questionIds": [
+      "S10-01",
+      "S10-20"
+    ]
+  },
+  {
+    "id": "S11_CORE_01",
+    "title": "Communication / 1",
+    "url": "pdfs/01_Daily_Conversation/S11_CORE_01.pdf",
+    "ch": 5,
+    "extension": false,
+    "kind": "conversation",
+    "questions": [
+      "선생님한테 무엇을 물어요?",
+      "경찰에게 무엇을 물어요?",
+      "간호사에게 질문해요?",
+      "사장님에게 연락해요?",
+      "동료한테 자주 연락해요?",
+      "부모님한테 자주 전화해요?",
+      "친구한테 문자를 보내요?",
+      "가족한테 사진을 보내요?"
+    ],
+    "questionIds": [
+      "S11-02",
+      "S11-03",
+      "S11-04",
+      "S11-05",
+      "S11-06",
+      "S11-07",
+      "S11-08",
+      "S11-09"
+    ]
+  },
+  {
+    "id": "S11_CORE_02",
+    "title": "Communication / 2",
+    "url": "pdfs/01_Daily_Conversation/S11_CORE_02.pdf",
+    "ch": 5,
+    "extension": false,
+    "kind": "conversation",
+    "questions": [
+      "누구한테 주소를 알려줘요?",
+      "누구한테 전화번호를 알려줘요?",
+      "친구한테 소식을 전해요?",
+      "후배에게 조언을 해요?",
+      "선배에게 도움을 부탁해요?",
+      "외국인에게 한국어를 가르쳐요?",
+      "한국인한테 한국어를 물어봐요?",
+      "선생님에게 대답해요?"
+    ],
+    "questionIds": [
+      "S11-10",
+      "S11-11",
+      "S11-12",
+      "S11-13",
+      "S11-14",
+      "S11-15",
+      "S11-16",
+      "S11-17"
+    ]
+  },
+  {
+    "id": "S11_CORE_03",
+    "title": "Communication / 3",
+    "url": "pdfs/01_Daily_Conversation/S11_CORE_03.pdf",
+    "ch": 5,
+    "extension": false,
+    "kind": "conversation",
+    "questions": [
+      "어른에게 인사해요?",
+      "손님에게 친절해요?",
+      "누구에게 고마워요?"
+    ],
+    "questionIds": [
+      "S11-18",
+      "S11-19",
+      "S11-20"
+    ]
+  },
+  {
+    "id": "S11_EXT_01",
+    "title": "Communication / 1",
+    "url": "pdfs/02_Optional_Extension/S11_EXT_01.pdf",
+    "ch": 5,
+    "extension": true,
+    "kind": "conversation",
+    "questions": [
+      "문제가 있으면 누구한테 물어요?"
+    ],
+    "questionIds": [
+      "S11-01"
+    ]
+  },
+  {
+    "id": "S12_CORE_01",
+    "title": "One day in my life / 1",
+    "url": "pdfs/01_Daily_Conversation/S12_CORE_01.pdf",
+    "ch": 5,
+    "extension": false,
+    "kind": "conversation",
+    "questions": [
+      "오늘 어디에 가요?",
+      "거기에 어떻게 가요?",
+      "누구를 만나요?",
+      "어디에서 만나요?",
+      "거기에서 뭐를 해요?",
+      "뭐를 먹어요?",
+      "뭐를 마셔요?",
+      "친구는 뭐만 먹어요?"
+    ],
+    "questionIds": [
+      "S12-01",
+      "S12-02",
+      "S12-03",
+      "S12-04",
+      "S12-05",
+      "S12-06",
+      "S12-07",
+      "S12-09"
+    ]
+  },
+  {
+    "id": "S12_CORE_02",
+    "title": "One day in my life / 2",
+    "url": "pdfs/01_Daily_Conversation/S12_CORE_02.pdf",
+    "ch": 5,
+    "extension": false,
+    "kind": "conversation",
+    "questions": [
+      "사진을 찍어요?",
+      "뭐로 사진을 찍어요?",
+      "사진을 누구한테 보내요?",
+      "그 사람한테 메시지도 보내요?",
+      "그다음 어디에 가요?",
+      "거기에 어떻게 가요?",
+      "집에서 뭐를 해요?",
+      "누구한테 전화해요?"
+    ],
+    "questionIds": [
+      "S12-10",
+      "S12-11",
+      "S12-12",
+      "S12-13",
+      "S12-14",
+      "S12-15",
+      "S12-17",
+      "S12-18"
+    ]
+  },
+  {
+    "id": "S12_CORE_03",
+    "title": "One day in my life / 3",
+    "url": "pdfs/01_Daily_Conversation/S12_CORE_03.pdf",
+    "ch": 5,
+    "extension": false,
+    "kind": "conversation",
+    "questions": [
+      "숙제도 해요?",
+      "오늘 뭐가 재미있어요?"
+    ],
+    "questionIds": [
+      "S12-19",
+      "S12-20"
+    ]
+  },
+  {
+    "id": "S12_EXT_01",
+    "title": "One day in my life / 1",
+    "url": "pdfs/02_Optional_Extension/S12_EXT_01.pdf",
+    "ch": 5,
+    "extension": true,
+    "kind": "conversation",
+    "questions": [
+      "친구도 같은 음식을 먹어요?",
+      "집에 언제 와요?"
+    ],
+    "questionIds": [
+      "S12-08",
+      "S12-16"
+    ]
+  },
+  {
+    "id": "S13_CORE_01",
+    "title": "At a cafe / 1",
+    "url": "pdfs/01_Daily_Conversation/S13_CORE_01.pdf",
+    "ch": 5,
+    "extension": false,
+    "kind": "conversation",
+    "questions": [
+      "어디에 가요?",
+      "카페에 어떻게 가요?",
+      "버스로 가요, 지하철로 가요?",
+      "누구를 만나요?",
+      "친구는 어디에 있어요?",
+      "카페 안에 있어요, 밖에 있어요?",
+      "카페에서 뭐를 마셔요?",
+      "커피를 마셔요?"
+    ],
+    "questionIds": [
+      "S13-01",
+      "S13-02",
+      "S13-03",
+      "S13-04",
+      "S13-05",
+      "S13-06",
+      "S13-07",
+      "S13-08"
+    ]
+  },
+  {
+    "id": "S13_CORE_02",
+    "title": "At a cafe / 2",
+    "url": "pdfs/01_Daily_Conversation/S13_CORE_02.pdf",
+    "ch": 5,
+    "extension": false,
+    "kind": "conversation",
+    "questions": [
+      "친구도 커피를 마셔요?",
+      "커피만 마셔요?",
+      "빵도 먹어요?",
+      "친구한테 선물을 줘요?",
+      "누구의 선물이에요?",
+      "휴대폰으로 사진을 찍어요?",
+      "카메라로도 찍어요?",
+      "사진을 누구한테 보내요?"
+    ],
+    "questionIds": [
+      "S13-09",
+      "S13-10",
+      "S13-11",
+      "S13-12",
+      "S13-13",
+      "S13-14",
+      "S13-15",
+      "S13-16"
+    ]
+  },
+  {
+    "id": "S13_CORE_03",
+    "title": "At a cafe / 3",
+    "url": "pdfs/01_Daily_Conversation/S13_CORE_03.pdf",
+    "ch": 5,
+    "extension": false,
+    "kind": "conversation",
+    "questions": [
+      "가족한테도 보내요?",
+      "그다음 어디에 가요?",
+      "집에 어떻게 가요?"
+    ],
+    "questionIds": [
+      "S13-17",
+      "S13-19",
+      "S13-20"
+    ]
+  },
+  {
+    "id": "S13_EXT_01",
+    "title": "At a cafe / 1",
+    "url": "pdfs/02_Optional_Extension/S13_EXT_01.pdf",
+    "ch": 5,
+    "extension": true,
+    "kind": "conversation",
+    "questions": [
+      "카페에 얼마나 오래 있어요?"
+    ],
+    "questionIds": [
+      "S13-18"
+    ]
+  },
+  {
+    "id": "S14_CORE_01",
+    "title": "Shopping / 1",
+    "url": "pdfs/01_Daily_Conversation/S14_CORE_01.pdf",
+    "ch": 5,
+    "extension": false,
+    "kind": "conversation",
+    "questions": [
+      "어디에 가요?",
+      "가게에 어떻게 가요?",
+      "가게에서 뭐를 사요?",
+      "옷을 사요?",
+      "신발도 사요?",
+      "옷만 사요?",
+      "모자가 필요해요?",
+      "우산도 필요해요?"
+    ],
+    "questionIds": [
+      "S14-01",
+      "S14-02",
+      "S14-03",
+      "S14-04",
+      "S14-05",
+      "S14-06",
+      "S14-07",
+      "S14-08"
+    ]
+  },
+  {
+    "id": "S14_CORE_02",
+    "title": "Shopping / 2",
+    "url": "pdfs/01_Daily_Conversation/S14_CORE_02.pdf",
+    "ch": 5,
+    "extension": false,
+    "kind": "conversation",
+    "questions": [
+      "어떤 물건이 비싸요?",
+      "어떤 물건이 싸요?",
+      "카드로 사요?",
+      "현금으로 사요?",
+      "선물도 사요?",
+      "누구한테 선물을 줘요?",
+      "어머니한테 뭐를 줘요?",
+      "아버지한테 뭐를 줘요?"
+    ],
+    "questionIds": [
+      "S14-09",
+      "S14-10",
+      "S14-11",
+      "S14-12",
+      "S14-13",
+      "S14-14",
+      "S14-15",
+      "S14-16"
+    ]
+  },
+  {
+    "id": "S14_CORE_03",
+    "title": "Shopping / 3",
+    "url": "pdfs/01_Daily_Conversation/S14_CORE_03.pdf",
+    "ch": 5,
+    "extension": false,
+    "kind": "conversation",
+    "questions": [
+      "친구에게도 선물을 줘요?",
+      "가게에서 누구에게 질문해요?",
+      "직원에게 무엇을 물어요?"
+    ],
+    "questionIds": [
+      "S14-17",
+      "S14-18",
+      "S14-19"
+    ]
+  },
+  {
+    "id": "S14_EXT_01",
+    "title": "Shopping / 1",
+    "url": "pdfs/02_Optional_Extension/S14_EXT_01.pdf",
+    "ch": 5,
+    "extension": true,
+    "kind": "conversation",
+    "questions": [
+      "산 물건을 어디에 넣어요?"
+    ],
+    "questionIds": [
+      "S14-20"
+    ]
+  },
+  {
+    "id": "S15_CORE_01",
+    "title": "Korean class / 1",
+    "url": "pdfs/01_Daily_Conversation/S15_CORE_01.pdf",
+    "ch": 5,
+    "extension": false,
+    "kind": "conversation",
+    "questions": [
+      "어디에서 한국어를 공부해요?",
+      "교실에서 공부해요?",
+      "집에서도 공부해요?",
+      "누구에게 한국어를 배워요?",
+      "선생님의 이름이 뭐예요?",
+      "한국어 수업이 재미있어요?",
+      "뭐가 어려워요?",
+      "단어가 어려워요?"
+    ],
+    "questionIds": [
+      "S15-01",
+      "S15-02",
+      "S15-03",
+      "S15-04",
+      "S15-05",
+      "S15-06",
+      "S15-07",
+      "S15-08"
+    ]
+  },
+  {
+    "id": "S15_CORE_02",
+    "title": "Korean class / 2",
+    "url": "pdfs/01_Daily_Conversation/S15_CORE_02.pdf",
+    "ch": 5,
+    "extension": false,
+    "kind": "conversation",
+    "questions": [
+      "문장도 어려워요?",
+      "뭐가 쉬워요?",
+      "책을 읽어요?",
+      "문장도 읽어요?",
+      "공책에 써요?",
+      "볼펜으로 써요?",
+      "연필로도 써요?",
+      "숙제가 많아요?"
+    ],
+    "questionIds": [
+      "S15-09",
+      "S15-10",
+      "S15-11",
+      "S15-12",
+      "S15-13",
+      "S15-14",
+      "S15-15",
+      "S15-16"
+    ]
+  },
+  {
+    "id": "S15_CORE_03",
+    "title": "Korean class / 3",
+    "url": "pdfs/01_Daily_Conversation/S15_CORE_03.pdf",
+    "ch": 5,
+    "extension": false,
+    "kind": "conversation",
+    "questions": [
+      "오늘은 숙제만 해요?",
+      "선생님에게 질문해요?",
+      "친구한테도 물어봐요?",
+      "인터넷으로 단어를 찾아요?",
+      "컴퓨터로 공부해요?",
+      "휴대폰으로도 공부해요?",
+      "한국인한테 한국어로 말해요?"
+    ],
+    "questionIds": [
+      "S15-17",
+      "S15-19",
+      "S15-20",
+      "S15-21",
+      "S15-22",
+      "S15-23",
+      "S15-24"
+    ]
+  },
+  {
+    "id": "S15_EXT_01",
+    "title": "Korean class / 1",
+    "url": "pdfs/02_Optional_Extension/S15_EXT_01.pdf",
+    "ch": 5,
+    "extension": true,
+    "kind": "conversation",
+    "questions": [
+      "모르는 단어가 있으면 누구에게 물어요?",
+      "한국어로 누구와 이야기하고 싶어요?"
+    ],
+    "questionIds": [
+      "S15-18",
+      "S15-25"
+    ]
+  },
+  {
+    "id": "S16_CORE_01",
+    "title": "Travel / 1",
+    "url": "pdfs/01_Daily_Conversation/S16_CORE_01.pdf",
+    "ch": 5,
+    "extension": false,
+    "kind": "conversation",
+    "questions": [
+      "어디에 가요?",
+      "한국에 가요?",
+      "공항에 어떻게 가요?",
+      "택시로 가요?",
+      "비행기로 어디에 가요?",
+      "공항에서 누구를 만나요?",
+      "친구도 같이 가요?",
+      "혼자 가요?"
+    ],
+    "questionIds": [
+      "S16-01",
+      "S16-02",
+      "S16-03",
+      "S16-04",
+      "S16-06",
+      "S16-08",
+      "S16-09",
+      "S16-10"
+    ]
+  },
+  {
+    "id": "S16_CORE_02",
+    "title": "Travel / 2",
+    "url": "pdfs/01_Daily_Conversation/S16_CORE_02.pdf",
+    "ch": 5,
+    "extension": false,
+    "kind": "conversation",
+    "questions": [
+      "가방이 있어요?",
+      "가방 안에 뭐가 있어요?",
+      "휴대폰도 있어요?",
+      "돈도 있어요?",
+      "카드만 있어요?",
+      "여권은 어디에 있어요?",
+      "공항에서 음식도 먹어요?",
+      "누구한테 여행 소식을 보내요?"
+    ],
+    "questionIds": [
+      "S16-11",
+      "S16-12",
+      "S16-13",
+      "S16-14",
+      "S16-15",
+      "S16-16",
+      "S16-17",
+      "S16-18"
+    ]
+  },
+  {
+    "id": "S16_CORE_03",
+    "title": "Travel / 3",
+    "url": "pdfs/01_Daily_Conversation/S16_CORE_03.pdf",
+    "ch": 5,
+    "extension": false,
+    "kind": "conversation",
+    "questions": [
+      "가족한테 사진을 보내요?"
+    ],
+    "questionIds": [
+      "S16-19"
+    ]
+  },
+  {
+    "id": "S16_EXT_01",
+    "title": "Travel / 1",
+    "url": "pdfs/02_Optional_Extension/S16_EXT_01.pdf",
+    "ch": 5,
+    "extension": true,
+    "kind": "conversation",
+    "questions": [
+      "버스로도 갈 수 있어요?",
+      "공항에 언제 도착해요?",
+      "여행지에서 뭐를 하고 싶어요?"
+    ],
+    "questionIds": [
+      "S16-05",
+      "S16-07",
+      "S16-20"
+    ]
+  },
+  {
+    "id": "S17_CORE_01",
+    "title": "A missing item / 1",
+    "url": "pdfs/01_Daily_Conversation/S17_CORE_01.pdf",
+    "ch": 5,
+    "extension": false,
+    "kind": "conversation",
+    "questions": [
+      "뭐가 없어요?",
+      "휴대폰이 없어요?",
+      "지갑이 없어요?",
+      "누구에게 물어요?",
+      "직원에게 물어요?",
+      "경찰에게도 물어요?",
+      "친구한테 전화해요?",
+      "친구의 휴대폰으로 전화해요?"
+    ],
+    "questionIds": [
+      "S17-01",
+      "S17-02",
+      "S17-03",
+      "S17-07",
+      "S17-08",
+      "S17-09",
+      "S17-10",
+      "S17-13"
+    ]
+  },
+  {
+    "id": "S17_CORE_02",
+    "title": "A missing item / 2",
+    "url": "pdfs/01_Daily_Conversation/S17_CORE_02.pdf",
+    "ch": 5,
+    "extension": false,
+    "kind": "conversation",
+    "questions": [
+      "경찰에게 전화번호를 알려줘요?",
+      "주소도 알려줘요?",
+      "가방 안에 지갑이 있어요?",
+      "책상 아래에 있어요?",
+      "카페 밖에 있어요?",
+      "가족한테도 연락해요?"
+    ],
+    "questionIds": [
+      "S17-14",
+      "S17-15",
+      "S17-16",
+      "S17-17",
+      "S17-18",
+      "S17-20"
+    ]
+  },
+  {
+    "id": "S17_EXT_01",
+    "title": "A missing item / 1",
+    "url": "pdfs/02_Optional_Extension/S17_EXT_01.pdf",
+    "ch": 5,
+    "extension": true,
+    "kind": "conversation",
+    "questions": [
+      "열쇠를 잃어버렸어요?",
+      "어디에서 잃어버렸어요?",
+      "카페에서 잃어버렸어요?",
+      "친구한테 뭐라고 말해요?",
+      "휴대폰이 없으면 누구의 휴대폰을 사용해요?",
+      "찾으면 누구에게 소식을 보내요?"
+    ],
+    "questionIds": [
+      "S17-04",
+      "S17-05",
+      "S17-06",
+      "S17-11",
+      "S17-12",
+      "S17-19"
+    ]
+  },
+  {
+    "id": "S18_CORE_01",
+    "title": "Add one more detail / 1",
+    "url": "pdfs/01_Daily_Conversation/S18_CORE_01.pdf",
+    "ch": 5,
+    "extension": false,
+    "kind": "conversation",
+    "questions": [
+      "어디에 가요?",
+      "어떻게 가요?",
+      "어디에서 공부해요?",
+      "뭐를 공부해요?",
+      "누구한테 메시지를 보내요?",
+      "뭐를 보내요?",
+      "누구한테 선물을 줘요?",
+      "어떤 선물이에요?"
+    ],
+    "questionIds": [
+      "S18-01",
+      "S18-02",
+      "S18-03",
+      "S18-04",
+      "S18-05",
+      "S18-06",
+      "S18-07",
+      "S18-08"
+    ]
+  },
+  {
+    "id": "S19_CORE_01",
+    "title": "Quick speaking review / 1",
+    "url": "pdfs/01_Daily_Conversation/S19_CORE_01.pdf",
+    "ch": 5,
+    "extension": false,
+    "kind": "conversation",
+    "questions": [
+      "어디에 있어요?",
+      "뭐를 마셔요?",
+      "뭐를 먹어요?",
+      "어디에서 공부해요?",
+      "어디에서 일해요?",
+      "어디에 가요?",
+      "어떻게 가요?",
+      "누구를 만나요?"
+    ],
+    "questionIds": [
+      "S19-01",
+      "S19-02",
+      "S19-03",
+      "S19-04",
+      "S19-05",
+      "S19-06",
+      "S19-07",
+      "S19-08"
+    ]
+  },
+  {
+    "id": "S19_CORE_02",
+    "title": "Quick speaking review / 2",
+    "url": "pdfs/01_Daily_Conversation/S19_CORE_02.pdf",
+    "ch": 5,
+    "extension": false,
+    "kind": "conversation",
+    "questions": [
+      "누구한테 전화해요?",
+      "누구한테 메시지를 보내요?",
+      "누구한테 선물을 줘요?",
+      "뭐로 사진을 찍어요?",
+      "뭐로 이름을 써요?",
+      "뭐로 밥을 먹어요?",
+      "한국어도 공부해요?",
+      "영어도 공부해요?"
+    ],
+    "questionIds": [
+      "S19-09",
+      "S19-10",
+      "S19-11",
+      "S19-12",
+      "S19-13",
+      "S19-14",
+      "S19-15",
+      "S19-16"
+    ]
+  },
+  {
+    "id": "S19_CORE_03",
+    "title": "Quick speaking review / 3",
+    "url": "pdfs/01_Daily_Conversation/S19_CORE_03.pdf",
+    "ch": 5,
+    "extension": false,
+    "kind": "conversation",
+    "questions": [
+      "커피만 마셔요?",
+      "친구도 커피를 좋아해요?",
+      "누구의 가방이에요?",
+      "휴대폰이 어디에 있어요?",
+      "집에서 뭐를 해요?",
+      "카페에서 뭐를 해요?",
+      "공원에서 뭐를 해요?",
+      "편의점에서 뭐를 사요?"
+    ],
+    "questionIds": [
+      "S19-17",
+      "S19-18",
+      "S19-19",
+      "S19-20",
+      "S19-21",
+      "S19-22",
+      "S19-23",
+      "S19-24"
+    ]
+  },
+  {
+    "id": "S19_CORE_04",
+    "title": "Quick speaking review / 4",
+    "url": "pdfs/01_Daily_Conversation/S19_CORE_04.pdf",
+    "ch": 5,
+    "extension": false,
+    "kind": "conversation",
+    "questions": [
+      "한국어가 쉬워요?",
+      "뭐가 어려워요?",
+      "시간이 많아요?",
+      "숙제가 있어요?",
+      "가족이 많아요?",
+      "친구가 많아요?"
+    ],
+    "questionIds": [
+      "S19-25",
+      "S19-26",
+      "S19-27",
+      "S19-28",
+      "S19-29",
+      "S19-30"
+    ]
+  },
+  {
+    "id": "S20_CORE_01",
+    "title": "Follow-up questions / 1",
+    "url": "pdfs/01_Daily_Conversation/S20_CORE_01.pdf",
+    "ch": 5,
+    "extension": false,
+    "kind": "conversation",
+    "questions": [
+      "뭐를 좋아해요?",
+      "뭐를 자주 먹어요?",
+      "뭐를 자주 마셔요?",
+      "뭐를 자주 봐요?",
+      "뭐를 공부해요?",
+      "뭐가 어려워요?",
+      "뭐가 재미있어요?",
+      "아버지는 커피를 좋아해요?"
+    ],
+    "questionIds": [
+      "S20-01",
+      "S20-02",
+      "S20-03",
+      "S20-04",
+      "S20-05",
+      "S20-06",
+      "S20-07",
+      "S20-08"
+    ]
+  },
+  {
+    "id": "S20_CORE_02",
+    "title": "Follow-up questions / 2",
+    "url": "pdfs/01_Daily_Conversation/S20_CORE_02.pdf",
+    "ch": 5,
+    "extension": false,
+    "kind": "conversation",
+    "questions": [
+      "어머니도 커피를 좋아해요?",
+      "카페에 가요?",
+      "카페에서 뭐를 해요?",
+      "도서관에 가요?",
+      "도서관에서 뭐를 해요?",
+      "공원에 가요?",
+      "공원에서 뭐를 해요?",
+      "공원에 어떻게 가요?"
+    ],
+    "questionIds": [
+      "S20-09",
+      "S20-10",
+      "S20-11",
+      "S20-12",
+      "S20-13",
+      "S20-14",
+      "S20-15",
+      "S20-17"
+    ]
+  },
+  {
+    "id": "S20_CORE_03",
+    "title": "Follow-up questions / 3",
+    "url": "pdfs/01_Daily_Conversation/S20_CORE_03.pdf",
+    "ch": 5,
+    "extension": false,
+    "kind": "conversation",
+    "questions": [
+      "친구도 같이 먹어요?",
+      "누구한테 사진을 보내요?"
+    ],
+    "questionIds": [
+      "S20-19",
+      "S20-20"
+    ]
+  },
+  {
+    "id": "S20_EXT_01",
+    "title": "Follow-up questions / 1",
+    "url": "pdfs/02_Optional_Extension/S20_EXT_01.pdf",
+    "ch": 5,
+    "extension": true,
+    "kind": "conversation",
+    "questions": [
+      "누구하고 운동해요?",
+      "운동 후에 뭐를 먹어요?"
+    ],
+    "questionIds": [
+      "S20-16",
+      "S20-18"
+    ]
+  },
+  {
+    "id": "S21_CORE_01",
+    "title": "One question, three sentences / 1",
+    "url": "pdfs/01_Daily_Conversation/S21_CORE_01.pdf",
+    "ch": 5,
+    "extension": false,
+    "kind": "conversation",
+    "questions": [
+      "오늘 뭐 해요?"
+    ],
+    "questionIds": [
+      "S21-01"
+    ]
+  },
+  {
+    "id": "S21_EXT_01",
+    "title": "One question, three sentences / 1",
+    "url": "pdfs/02_Optional_Extension/S21_EXT_01.pdf",
+    "ch": 5,
+    "extension": true,
+    "kind": "conversation",
+    "questions": [
+      "주말에 뭐 해요?",
+      "친구를 만나면 뭐 해요?"
+    ],
+    "questionIds": [
+      "S21-02",
+      "S21-03"
+    ]
+  },
+  {
+    "id": "S22_CORE_01",
+    "title": "Materials, languages and jobs / 1",
+    "url": "pdfs/01_Daily_Conversation/S22_CORE_01.pdf",
+    "ch": 3,
+    "extension": false,
+    "kind": "conversation",
+    "questions": [
+      "나무로 뭐를 만들어요?",
+      "유리로 뭐를 만들어요?",
+      "플라스틱으로 뭐를 만들어요?",
+      "종이로 뭐를 만들어요?",
+      "쇠로 뭐를 만들어요?",
+      "중국어로 말해요?",
+      "일본어로 말해요?",
+      "의사로 일해요?"
+    ],
+    "questionIds": [
+      "S22-01",
+      "S22-02",
+      "S22-03",
+      "S22-04",
+      "S22-05",
+      "S22-06",
+      "S22-07",
+      "S22-08"
+    ]
+  },
+  {
+    "id": "S22_CORE_02",
+    "title": "Materials, languages and jobs / 2",
+    "url": "pdfs/01_Daily_Conversation/S22_CORE_02.pdf",
+    "ch": 3,
+    "extension": false,
+    "kind": "conversation",
+    "questions": [
+      "요리사로 일해요?",
+      "사진을 서울로 보내요?"
+    ],
+    "questionIds": [
+      "S22-09",
+      "S22-10"
+    ]
+  },
+  {
+    "id": "CH001_Sentences_01",
+    "title": "Chapter 001 / Build a sentence 1",
+    "url": "pdfs/03_Sentence_Practice/CH001_Sentences_01.pdf",
+    "ch": 1,
+    "extension": false,
+    "kind": "sentence-practice",
+    "questions": [
+      "A friend is coming.",
+      "The student reads a book.",
+      "The weather is good.",
+      "The question is difficult.",
+      "I drink water.",
+      "My friend drinks coffee.",
+      "My younger sibling eats a meal.",
+      "The student studies Korean."
+    ],
+    "questionIds": [
+      "P01-1",
+      "P01-2",
+      "P02-1",
+      "P02-2",
+      "P03-1",
+      "P03-2",
+      "P04-1",
+      "P04-2"
+    ]
+  },
+  {
+    "id": "CH001_Sentences_02",
+    "title": "Chapter 001 / Build a sentence 2",
+    "url": "pdfs/03_Sentence_Practice/CH001_Sentences_02.pdf",
+    "ch": 1,
+    "extension": false,
+    "kind": "sentence-practice",
+    "questions": [
+      "I have time.",
+      "I do not have homework.",
+      "I am a student.",
+      "This is my bag."
+    ],
+    "questionIds": [
+      "P05-1",
+      "P05-2",
+      "P06-1",
+      "P06-2"
+    ]
+  },
+  {
+    "id": "CH001_Words_A",
+    "title": "Chapter 001 / Word review A",
+    "url": "pdfs/04_Word_Review/CH001_Words_A.pdf",
+    "ch": 1,
+    "extension": false,
+    "kind": "word-test",
+    "questions": [
+      "저",
+      "나",
+      "친구",
+      "학생",
+      "선생님",
+      "사람",
+      "가족",
+      "아이"
+    ],
+    "questionIds": [
+      "W001-A-01",
+      "W001-A-02",
+      "W001-A-03",
+      "W001-A-04",
+      "W001-A-05",
+      "W001-A-06",
+      "W001-A-07",
+      "W001-A-08"
+    ]
+  },
+  {
+    "id": "CH001_Words_B",
+    "title": "Chapter 001 / Word review B",
+    "url": "pdfs/04_Word_Review/CH001_Words_B.pdf",
+    "ch": 1,
+    "extension": false,
+    "kind": "word-test",
+    "questions": [
+      "parents (respectful)",
+      "younger sibling",
+      "name",
+      "book",
+      "notebook",
+      "pencil",
+      "bag",
+      "photo"
+    ],
+    "questionIds": [
+      "W001-B-01",
+      "W001-B-02",
+      "W001-B-03",
+      "W001-B-04",
+      "W001-B-05",
+      "W001-B-06",
+      "W001-B-07",
+      "W001-B-08"
+    ]
+  },
+  {
+    "id": "CH001_Words_C",
+    "title": "Chapter 001 / Word review C",
+    "url": "pdfs/04_Word_Review/CH001_Words_C.pdf",
+    "ch": 1,
+    "extension": false,
+    "kind": "word-test",
+    "questions": [
+      "____는 물을 마셔요. (저 / 가족 / 책)",
+      "____는 밥을 먹어요. (나 / 아이 / 공책)",
+      "____가 와요. (친구 / 부모님 / 연필)",
+      "____은 공부해요. (학생 / 동생 / 가방)",
+      "____이 답을 써요. (선생님 / 이름 / 사진)",
+      "____이 많아요. (사람 / 책 / 숙제)"
+    ],
+    "questionIds": [
+      "W001-C-01",
+      "W001-C-02",
+      "W001-C-03",
+      "W001-C-04",
+      "W001-C-05",
+      "W001-C-06"
+    ]
+  },
+  {
+    "id": "CH001_Words_D",
+    "title": "Chapter 001 / Word review D",
+    "url": "pdfs/04_Word_Review/CH001_Words_D.pdf",
+    "ch": 1,
+    "extension": false,
+    "kind": "word-test",
+    "questions": [
+      "____를 해요. [homework]",
+      "____을 마셔요. [water]",
+      "____을 먹어요. [meal]",
+      "____를 마셔요. [coffee]",
+      "____이 좋아요. [home]",
+      "____가 커요. [school]",
+      "____는 커요. [company]",
+      "____은 좋아요. [Korea]"
+    ],
+    "questionIds": [
+      "W001-D-01",
+      "W001-D-02",
+      "W001-D-03",
+      "W001-D-04",
+      "W001-D-05",
+      "W001-D-06",
+      "W001-D-07",
+      "W001-D-08"
+    ]
+  },
+  {
+    "id": "CH002_Sentences_01",
+    "title": "Chapter 002 / Build a sentence 1",
+    "url": "pdfs/03_Sentence_Practice/CH002_Sentences_01.pdf",
+    "ch": 2,
+    "extension": false,
+    "kind": "sentence-practice",
+    "questions": [
+      "I am in the room.",
+      "The bag is in the classroom.",
+      "My friend goes to school.",
+      "The taxi arrives at the airport.",
+      "I study at the library.",
+      "My friend waits at the cafe.",
+      "The pharmacy is in front of the convenience store.",
+      "The phone is inside the bag."
+    ],
+    "questionIds": [
+      "P07-1",
+      "P07-2",
+      "P08-1",
+      "P08-2",
+      "P09-1",
+      "P09-2",
+      "P10-1",
+      "P10-2"
+    ]
+  },
+  {
+    "id": "CH002_Sentences_02",
+    "title": "Chapter 002 / Build a sentence 2",
+    "url": "pdfs/03_Sentence_Practice/CH002_Sentences_02.pdf",
+    "ch": 2,
+    "extension": false,
+    "kind": "sentence-practice",
+    "questions": [
+      "I live in Korea.",
+      "My home is near the station."
+    ],
+    "questionIds": [
+      "P11-1",
+      "P11-2"
+    ]
+  },
+  {
+    "id": "CH002_Words_A",
+    "title": "Chapter 002 / Word review A",
+    "url": "pdfs/04_Word_Review/CH002_Words_A.pdf",
+    "ch": 2,
+    "extension": false,
+    "kind": "word-test",
+    "questions": [
+      "방",
+      "교실",
+      "식당",
+      "카페",
+      "가게",
+      "병원",
+      "공원",
+      "도서관"
+    ],
+    "questionIds": [
+      "W002-A-01",
+      "W002-A-02",
+      "W002-A-03",
+      "W002-A-04",
+      "W002-A-05",
+      "W002-A-06",
+      "W002-A-07",
+      "W002-A-08"
+    ]
+  },
+  {
+    "id": "CH002_Words_B",
+    "title": "Chapter 002 / Word review B",
+    "url": "pdfs/04_Word_Review/CH002_Words_B.pdf",
+    "ch": 2,
+    "extension": false,
+    "kind": "word-test",
+    "questions": [
+      "convenience store",
+      "bank",
+      "pharmacy",
+      "post office",
+      "station",
+      "airport",
+      "restroom / bathroom",
+      "market"
+    ],
+    "questionIds": [
+      "W002-B-01",
+      "W002-B-02",
+      "W002-B-03",
+      "W002-B-04",
+      "W002-B-05",
+      "W002-B-06",
+      "W002-B-07",
+      "W002-B-08"
+    ]
+  },
+  {
+    "id": "CH002_Words_C",
+    "title": "Chapter 002 / Word review C",
+    "url": "pdfs/04_Word_Review/CH002_Words_C.pdf",
+    "ch": 2,
+    "extension": false,
+    "kind": "word-test",
+    "questions": [
+      "____에 있어요. (방 / 공원 / 우체국)",
+      "____에서 공부해요. (교실 / 도서관 / 역)",
+      "____에서 먹어요. (식당 / 편의점 / 공항)",
+      "____에서 만나요. (카페 / 은행 / 화장실)",
+      "____에서 물을 사요. (가게 / 약국 / 시장)",
+      "____에 가요. (병원 / 우체국 / 미용실)"
+    ],
+    "questionIds": [
+      "W002-C-01",
+      "W002-C-02",
+      "W002-C-03",
+      "W002-C-04",
+      "W002-C-05",
+      "W002-C-06"
+    ]
+  },
+  {
+    "id": "CH002_Words_D",
+    "title": "Chapter 002 / Word review D",
+    "url": "pdfs/04_Word_Review/CH002_Words_D.pdf",
+    "ch": 2,
+    "extension": false,
+    "kind": "word-test",
+    "questions": [
+      "____에 가요. [hair salon]",
+      "____에서 책을 사요. [bookstore]",
+      "____에서 봐요. [movie theater]",
+      "____에서 물을 마셔요. [kitchen]",
+      "____에서 쉬어요. [living room]",
+      "____에 있어요. [bedroom]",
+      "____에서 일해요. [office]",
+      "____에서 만나요. [meeting room]"
+    ],
+    "questionIds": [
+      "W002-D-01",
+      "W002-D-02",
+      "W002-D-03",
+      "W002-D-04",
+      "W002-D-05",
+      "W002-D-06",
+      "W002-D-07",
+      "W002-D-08"
+    ]
+  },
+  {
+    "id": "CH003_Sentences_01",
+    "title": "Chapter 003 / Build a sentence 1",
+    "url": "pdfs/03_Sentence_Practice/CH003_Sentences_01.pdf",
+    "ch": 3,
+    "extension": false,
+    "kind": "sentence-practice",
+    "questions": [
+      "I go by bus.",
+      "My friend comes by subway.",
+      "I go to the right.",
+      "I go slowly to the left.",
+      "I write my name with a ballpoint pen.",
+      "I cut paper with scissors.",
+      "I make a desk out of wood.",
+      "I make a gift out of paper."
+    ],
+    "questionIds": [
+      "P12-1",
+      "P12-2",
+      "P13-1",
+      "P13-2",
+      "P14-1",
+      "P14-2",
+      "P15-1",
+      "P15-2"
+    ]
+  },
+  {
+    "id": "CH003_Sentences_02",
+    "title": "Chapter 003 / Build a sentence 2",
+    "url": "pdfs/03_Sentence_Practice/CH003_Sentences_02.pdf",
+    "ch": 3,
+    "extension": false,
+    "kind": "sentence-practice",
+    "questions": [
+      "I speak in English.",
+      "I speak in Korean.",
+      "I work as a doctor.",
+      "I work as a chef."
+    ],
+    "questionIds": [
+      "P16-1",
+      "P16-2",
+      "P17-1",
+      "P17-2"
+    ]
+  },
+  {
+    "id": "CH003_Words_A",
+    "title": "Chapter 003 / Word review A",
+    "url": "pdfs/04_Word_Review/CH003_Words_A.pdf",
+    "ch": 3,
+    "extension": false,
+    "kind": "word-test",
+    "questions": [
+      "버스",
+      "지하철",
+      "택시",
+      "자동차",
+      "자전거",
+      "기차",
+      "비행기",
+      "배"
+    ],
+    "questionIds": [
+      "W003-A-01",
+      "W003-A-02",
+      "W003-A-03",
+      "W003-A-04",
+      "W003-A-05",
+      "W003-A-06",
+      "W003-A-07",
+      "W003-A-08"
+    ]
+  },
+  {
+    "id": "CH003_Words_B",
+    "title": "Chapter 003 / Word review B",
+    "url": "pdfs/04_Word_Review/CH003_Words_B.pdf",
+    "ch": 3,
+    "extension": false,
+    "kind": "word-test",
+    "questions": [
+      "motorcycle",
+      "right side",
+      "left side",
+      "east",
+      "west",
+      "south",
+      "north",
+      "pen"
+    ],
+    "questionIds": [
+      "W003-B-01",
+      "W003-B-02",
+      "W003-B-03",
+      "W003-B-04",
+      "W003-B-05",
+      "W003-B-06",
+      "W003-B-07",
+      "W003-B-08"
+    ]
+  },
+  {
+    "id": "CH003_Words_C",
+    "title": "Chapter 003 / Word review C",
+    "url": "pdfs/04_Word_Review/CH003_Words_C.pdf",
+    "ch": 3,
+    "extension": false,
+    "kind": "word-test",
+    "questions": [
+      "____로 학교에 가요. (버스 / 비행기 / 동쪽)",
+      "____로 회사에 가요. (지하철 / 배 / 서쪽)",
+      "____로 병원에 가요. (택시 / 오토바이 / 남쪽)",
+      "____로 공항에 가요. (자동차 / 오른쪽 / 북쪽)",
+      "____로 공원에 가요. (자전거 / 왼쪽 / 펜)",
+      "____로 가요. (기차 / 동쪽 / 볼펜)"
+    ],
+    "questionIds": [
+      "W003-C-01",
+      "W003-C-02",
+      "W003-C-03",
+      "W003-C-04",
+      "W003-C-05",
+      "W003-C-06"
+    ]
+  },
+  {
+    "id": "CH003_Words_D",
+    "title": "Chapter 003 / Word review D",
+    "url": "pdfs/04_Word_Review/CH003_Words_D.pdf",
+    "ch": 3,
+    "extension": false,
+    "kind": "word-test",
+    "questions": [
+      "____으로 이름을 써요. [ballpoint pen]",
+      "____로 만들어요. [paper]",
+      "____로 잘라요. [knife]",
+      "____로 잘라요. [scissors]",
+      "____으로 먹어요. [spoon]",
+      "____으로 먹어요. [chopsticks]",
+      "____으로 물을 마셔요. [cup]",
+      "____로 사진을 찍어요. [camera]"
+    ],
+    "questionIds": [
+      "W003-D-01",
+      "W003-D-02",
+      "W003-D-03",
+      "W003-D-04",
+      "W003-D-05",
+      "W003-D-06",
+      "W003-D-07",
+      "W003-D-08"
+    ]
+  },
+  {
+    "id": "CH004_Sentences_01",
+    "title": "Chapter 004 / Build a sentence 1",
+    "url": "pdfs/03_Sentence_Practice/CH004_Sentences_01.pdf",
+    "ch": 4,
+    "extension": false,
+    "kind": "sentence-practice",
+    "questions": [
+      "I am a student too.",
+      "My younger sibling eats bread too.",
+      "I drink only coffee.",
+      "My friend eats only bread.",
+      "It is my mother’s umbrella.",
+      "I write my friend’s name."
+    ],
+    "questionIds": [
+      "P18-1",
+      "P18-2",
+      "P19-1",
+      "P19-2",
+      "P20-1",
+      "P20-2"
+    ]
+  },
+  {
+    "id": "CH004_Words_A",
+    "title": "Chapter 004 / Word review A",
+    "url": "pdfs/04_Word_Review/CH004_Words_A.pdf",
+    "ch": 4,
+    "extension": false,
+    "kind": "word-test",
+    "questions": [
+      "아버지",
+      "어머니",
+      "형",
+      "누나",
+      "언니",
+      "오빠",
+      "할머니",
+      "할아버지"
+    ],
+    "questionIds": [
+      "W004-A-01",
+      "W004-A-02",
+      "W004-A-03",
+      "W004-A-04",
+      "W004-A-05",
+      "W004-A-06",
+      "W004-A-07",
+      "W004-A-08"
+    ]
+  },
+  {
+    "id": "CH004_Words_B",
+    "title": "Chapter 004 / Word review B",
+    "url": "pdfs/04_Word_Review/CH004_Words_B.pdf",
+    "ch": 4,
+    "extension": false,
+    "kind": "word-test",
+    "questions": [
+      "man",
+      "woman",
+      "mobile phone",
+      "wallet",
+      "money",
+      "key",
+      "watch / clock",
+      "clothes"
+    ],
+    "questionIds": [
+      "W004-B-01",
+      "W004-B-02",
+      "W004-B-03",
+      "W004-B-04",
+      "W004-B-05",
+      "W004-B-06",
+      "W004-B-07",
+      "W004-B-08"
+    ]
+  },
+  {
+    "id": "CH004_Words_C",
+    "title": "Chapter 004 / Word review C",
+    "url": "pdfs/04_Word_Review/CH004_Words_C.pdf",
+    "ch": 4,
+    "extension": false,
+    "kind": "word-test",
+    "questions": [
+      "____의 시계예요. (아버지 / 할머니 / 지갑)",
+      "____의 휴대폰이에요. (어머니 / 할아버지 / 돈)",
+      "____도 학생이에요. (형 / 남자 / 열쇠)",
+      "____도 와요. (누나 / 여자 / 시계)",
+      "____의 선물이에요. (언니 / 휴대폰 / 옷)",
+      "____만 와요. (오빠 / 지갑 / 신발)"
+    ],
+    "questionIds": [
+      "W004-C-01",
+      "W004-C-02",
+      "W004-C-03",
+      "W004-C-04",
+      "W004-C-05",
+      "W004-C-06"
+    ]
+  },
+  {
+    "id": "CH004_Words_D",
+    "title": "Chapter 004 / Word review D",
+    "url": "pdfs/04_Word_Review/CH004_Words_D.pdf",
+    "ch": 4,
+    "extension": false,
+    "kind": "word-test",
+    "questions": [
+      "____만 사요. [shoes]",
+      "____도 써요. [hat]",
+      "____만 써요. [glasses]",
+      "____도 있어요. [umbrella]",
+      "____만 줘요. [gift]",
+      "____도 좋아해요. [flower]",
+      "____도 좋아해요. [food]",
+      "____만 먹어요. [apple]"
+    ],
+    "questionIds": [
+      "W004-D-01",
+      "W004-D-02",
+      "W004-D-03",
+      "W004-D-04",
+      "W004-D-05",
+      "W004-D-06",
+      "W004-D-07",
+      "W004-D-08"
+    ]
+  },
+  {
+    "id": "CH005_Sentences_01",
+    "title": "Chapter 005 / Build a sentence 1",
+    "url": "pdfs/03_Sentence_Practice/CH005_Sentences_01.pdf",
+    "ch": 5,
+    "extension": false,
+    "kind": "sentence-practice",
+    "questions": [
+      "I give my friend a gift.",
+      "I give the baby milk.",
+      "I send a letter to my friend.",
+      "I send a message to my colleague.",
+      "I call my wife.",
+      "The student answers the teacher.",
+      "I tell the nurse the address.",
+      "I tell the junior colleague the phone number."
+    ],
+    "questionIds": [
+      "P21-1",
+      "P21-2",
+      "P22-1",
+      "P22-2",
+      "P23-1",
+      "P23-2",
+      "P24-1",
+      "P24-2"
+    ]
+  },
+  {
+    "id": "CH005_Sentences_02",
+    "title": "Chapter 005 / Build a sentence 2",
+    "url": "pdfs/03_Sentence_Practice/CH005_Sentences_02.pdf",
+    "ch": 5,
+    "extension": false,
+    "kind": "sentence-practice",
+    "questions": [
+      "I am grateful to my senior colleague.",
+      "I am kind to customers.",
+      "I go to the cafe by bus.",
+      "I meet a friend at the cafe."
+    ],
+    "questionIds": [
+      "P25-1",
+      "P25-2",
+      "P26-1",
+      "P26-2"
+    ]
+  },
+  {
+    "id": "CH005_Words_A",
+    "title": "Chapter 005 / Word review A",
+    "url": "pdfs/04_Word_Review/CH005_Words_A.pdf",
+    "ch": 5,
+    "extension": false,
+    "kind": "word-test",
+    "questions": [
+      "손님",
+      "사장님",
+      "경찰",
+      "간호사",
+      "남편",
+      "아내",
+      "아들",
+      "딸"
+    ],
+    "questionIds": [
+      "W005-A-01",
+      "W005-A-02",
+      "W005-A-03",
+      "W005-A-04",
+      "W005-A-05",
+      "W005-A-06",
+      "W005-A-07",
+      "W005-A-08"
+    ]
+  },
+  {
+    "id": "CH005_Words_B",
+    "title": "Chapter 005 / Word review B",
+    "url": "pdfs/04_Word_Review/CH005_Words_B.pdf",
+    "ch": 5,
+    "extension": false,
+    "kind": "word-test",
+    "questions": [
+      "baby",
+      "child / children (neutral-polite term)",
+      "adult / grown-up",
+      "relative",
+      "neighbor",
+      "colleague / coworker",
+      "senior / more experienced peer",
+      "junior / less experienced peer"
+    ],
+    "questionIds": [
+      "W005-B-01",
+      "W005-B-02",
+      "W005-B-03",
+      "W005-B-04",
+      "W005-B-05",
+      "W005-B-06",
+      "W005-B-07",
+      "W005-B-08"
+    ]
+  },
+  {
+    "id": "CH005_Words_C",
+    "title": "Chapter 005 / Word review C",
+    "url": "pdfs/04_Word_Review/CH005_Words_C.pdf",
+    "ch": 5,
+    "extension": false,
+    "kind": "word-test",
+    "questions": [
+      "____한테 물을 줘요. (손님 / 아들 / 친척)",
+      "____에게 연락해요. (사장님 / 딸 / 이웃)",
+      "____에게 말해요. (경찰 / 아기 / 동료)",
+      "____에게 질문해요. (간호사 / 어린이 / 선배)",
+      "____한테 전화해요. (남편 / 어른 / 후배)",
+      "____에게 선물을 줘요. (아내 / 친척 / 교수)"
+    ],
+    "questionIds": [
+      "W005-C-01",
+      "W005-C-02",
+      "W005-C-03",
+      "W005-C-04",
+      "W005-C-05",
+      "W005-C-06"
+    ]
+  },
+  {
+    "id": "CH005_Words_D",
+    "title": "Chapter 005 / Word review D",
+    "url": "pdfs/04_Word_Review/CH005_Words_D.pdf",
+    "ch": 5,
+    "extension": false,
+    "kind": "word-test",
+    "questions": [
+      "____님에게 질문해요. [professor]",
+      "____에게 시간이 필요해요. [working adult]",
+      "____에게 한국어를 가르쳐요. [foreigner]",
+      "____한테 물어봐요. [Korean person]",
+      "____에게 말해요. [you all]",
+      "____한테 줘요? [who]",
+      "____한테 물을 줘요. [animal]",
+      "____한테 밥을 줘요. [puppy]"
+    ],
+    "questionIds": [
+      "W005-D-01",
+      "W005-D-02",
+      "W005-D-03",
+      "W005-D-04",
+      "W005-D-05",
+      "W005-D-06",
+      "W005-D-07",
+      "W005-D-08"
+    ]
+  },
+  {
+    "id": "Final_Speaking_Mission",
+    "title": "Your day / One connected story",
+    "url": "pdfs/03_Sentence_Practice/Final_Speaking_Mission.pdf",
+    "ch": 5,
+    "extension": false,
+    "kind": "mission",
+    "questions": [
+      "Who are you? Say one sentence.",
+      "Where do you go today? How do you go there?",
+      "What do you do there? Say two sentences.",
+      "What do you also do? What do you only do?",
+      "Describe one item and its owner.",
+      "Who do you contact? What do you send or give?",
+      "Tell your whole story again in five short sentences.",
+      "Ask your teacher one question about their day."
+    ],
+    "questionIds": [
+      "M-1",
+      "M-2",
+      "M-3",
+      "M-4",
+      "M-5",
+      "M-6",
+      "M-7",
+      "M-8"
+    ]
+  },
+  {
+    "id": "Also_Only_Contrast",
+    "title": "Also or only / Change the meaning",
+    "url": "pdfs/03_Sentence_Practice/Also_Only_Contrast.pdf",
+    "ch": 4,
+    "extension": false,
+    "kind": "contrast",
+    "questions": [
+      "커피도 / 커피만",
+      "한국어도 / 한국어만",
+      "친구도 / 친구만",
+      "영화도 / 영화만",
+      "빵도 / 빵만"
+    ],
+    "questionIds": [
+      "C-1",
+      "C-2",
+      "C-3",
+      "C-4",
+      "C-5"
+    ]
+  }
+]

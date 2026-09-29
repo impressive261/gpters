@@ -1,0 +1,470 @@
+[
+  {
+    "id": "P01-1",
+    "ch": 1,
+    "ko": "A friend is coming.",
+    "model": "친구가 와요.",
+    "extension": false,
+    "kind": "sentence-practice",
+    "instruction": "Say this in Korean. Change one detail and say your new sentence."
+  },
+  {
+    "id": "P01-2",
+    "ch": 1,
+    "ko": "The student reads a book.",
+    "model": "학생이 책을 읽어요.",
+    "extension": false,
+    "kind": "sentence-practice",
+    "instruction": "Say this in Korean. Change one detail and say your new sentence."
+  },
+  {
+    "id": "P02-1",
+    "ch": 1,
+    "ko": "The weather is good.",
+    "model": "날씨가 좋아요.",
+    "extension": false,
+    "kind": "sentence-practice",
+    "instruction": "Say this in Korean. Change one detail and say your new sentence."
+  },
+  {
+    "id": "P02-2",
+    "ch": 1,
+    "ko": "The question is difficult.",
+    "model": "문제가 어려워요.",
+    "extension": false,
+    "kind": "sentence-practice",
+    "instruction": "Say this in Korean. Change one detail and say your new sentence."
+  },
+  {
+    "id": "P03-1",
+    "ch": 1,
+    "ko": "I drink water.",
+    "model": "저는 물을 마셔요.",
+    "extension": false,
+    "kind": "sentence-practice",
+    "instruction": "Say this in Korean. Change one detail and say your new sentence."
+  },
+  {
+    "id": "P03-2",
+    "ch": 1,
+    "ko": "My friend drinks coffee.",
+    "model": "친구는 커피를 마셔요.",
+    "extension": false,
+    "kind": "sentence-practice",
+    "instruction": "Say this in Korean. Change one detail and say your new sentence."
+  },
+  {
+    "id": "P04-1",
+    "ch": 1,
+    "ko": "My younger sibling eats a meal.",
+    "model": "동생은 밥을 먹어요.",
+    "extension": false,
+    "kind": "sentence-practice",
+    "instruction": "Say this in Korean. Change one detail and say your new sentence."
+  },
+  {
+    "id": "P04-2",
+    "ch": 1,
+    "ko": "The student studies Korean.",
+    "model": "학생은 한국어를 공부해요.",
+    "extension": false,
+    "kind": "sentence-practice",
+    "instruction": "Say this in Korean. Change one detail and say your new sentence."
+  },
+  {
+    "id": "P05-1",
+    "ch": 1,
+    "ko": "I have time.",
+    "model": "시간이 있어요.",
+    "extension": false,
+    "kind": "sentence-practice",
+    "instruction": "Say this in Korean. Change one detail and say your new sentence."
+  },
+  {
+    "id": "P05-2",
+    "ch": 1,
+    "ko": "I do not have homework.",
+    "model": "숙제가 없어요.",
+    "extension": false,
+    "kind": "sentence-practice",
+    "instruction": "Say this in Korean. Change one detail and say your new sentence."
+  },
+  {
+    "id": "P06-1",
+    "ch": 1,
+    "ko": "I am a student.",
+    "model": "저는 학생이에요.",
+    "extension": false,
+    "kind": "sentence-practice",
+    "instruction": "Say this in Korean. Change one detail and say your new sentence."
+  },
+  {
+    "id": "P06-2",
+    "ch": 1,
+    "ko": "This is my bag.",
+    "model": "이건 제 가방이에요.",
+    "extension": false,
+    "kind": "sentence-practice",
+    "instruction": "Say this in Korean. Change one detail and say your new sentence."
+  },
+  {
+    "id": "P07-1",
+    "ch": 2,
+    "ko": "I am in the room.",
+    "model": "저는 방에 있어요.",
+    "extension": false,
+    "kind": "sentence-practice",
+    "instruction": "Say this in Korean. Change one detail and say your new sentence."
+  },
+  {
+    "id": "P07-2",
+    "ch": 2,
+    "ko": "The bag is in the classroom.",
+    "model": "가방은 교실에 있어요.",
+    "extension": false,
+    "kind": "sentence-practice",
+    "instruction": "Say this in Korean. Change one detail and say your new sentence."
+  },
+  {
+    "id": "P08-1",
+    "ch": 2,
+    "ko": "My friend goes to school.",
+    "model": "친구는 학교에 가요.",
+    "extension": false,
+    "kind": "sentence-practice",
+    "instruction": "Say this in Korean. Change one detail and say your new sentence."
+  },
+  {
+    "id": "P08-2",
+    "ch": 2,
+    "ko": "The taxi arrives at the airport.",
+    "model": "택시는 공항에 도착해요.",
+    "extension": false,
+    "kind": "sentence-practice",
+    "instruction": "Say this in Korean. Change one detail and say your new sentence."
+  },
+  {
+    "id": "P09-1",
+    "ch": 2,
+    "ko": "I study at the library.",
+    "model": "저는 도서관에서 공부해요.",
+    "extension": false,
+    "kind": "sentence-practice",
+    "instruction": "Say this in Korean. Change one detail and say your new sentence."
+  },
+  {
+    "id": "P09-2",
+    "ch": 2,
+    "ko": "My friend waits at the cafe.",
+    "model": "친구는 카페에서 기다려요.",
+    "extension": false,
+    "kind": "sentence-practice",
+    "instruction": "Say this in Korean. Change one detail and say your new sentence."
+  },
+  {
+    "id": "P10-1",
+    "ch": 2,
+    "ko": "The pharmacy is in front of the convenience store.",
+    "model": "약국은 편의점 앞에 있어요.",
+    "extension": false,
+    "kind": "sentence-practice",
+    "instruction": "Say this in Korean. Change one detail and say your new sentence."
+  },
+  {
+    "id": "P10-2",
+    "ch": 2,
+    "ko": "The phone is inside the bag.",
+    "model": "휴대폰이 가방 안에 있어요.",
+    "extension": false,
+    "kind": "sentence-practice",
+    "instruction": "Say this in Korean. Change one detail and say your new sentence."
+  },
+  {
+    "id": "P11-1",
+    "ch": 2,
+    "ko": "I live in Korea.",
+    "model": "한국에 살아요.",
+    "extension": false,
+    "kind": "sentence-practice",
+    "instruction": "Say this in Korean. Change one detail and say your new sentence."
+  },
+  {
+    "id": "P11-2",
+    "ch": 2,
+    "ko": "My home is near the station.",
+    "model": "집이 역에 가까워요.",
+    "extension": false,
+    "kind": "sentence-practice",
+    "instruction": "Say this in Korean. Change one detail and say your new sentence."
+  },
+  {
+    "id": "P12-1",
+    "ch": 3,
+    "ko": "I go by bus.",
+    "model": "저는 버스로 가요.",
+    "extension": false,
+    "kind": "sentence-practice",
+    "instruction": "Say this in Korean. Change one detail and say your new sentence."
+  },
+  {
+    "id": "P12-2",
+    "ch": 3,
+    "ko": "My friend comes by subway.",
+    "model": "친구는 지하철로 와요.",
+    "extension": false,
+    "kind": "sentence-practice",
+    "instruction": "Say this in Korean. Change one detail and say your new sentence."
+  },
+  {
+    "id": "P13-1",
+    "ch": 3,
+    "ko": "I go to the right.",
+    "model": "오른쪽으로 가요.",
+    "extension": false,
+    "kind": "sentence-practice",
+    "instruction": "Say this in Korean. Change one detail and say your new sentence."
+  },
+  {
+    "id": "P13-2",
+    "ch": 3,
+    "ko": "I go slowly to the left.",
+    "model": "왼쪽으로 천천히 가요.",
+    "extension": false,
+    "kind": "sentence-practice",
+    "instruction": "Say this in Korean. Change one detail and say your new sentence."
+  },
+  {
+    "id": "P14-1",
+    "ch": 3,
+    "ko": "I write my name with a ballpoint pen.",
+    "model": "볼펜으로 이름을 써요.",
+    "extension": false,
+    "kind": "sentence-practice",
+    "instruction": "Say this in Korean. Change one detail and say your new sentence."
+  },
+  {
+    "id": "P14-2",
+    "ch": 3,
+    "ko": "I cut paper with scissors.",
+    "model": "종이를 가위로 잘라요.",
+    "extension": false,
+    "kind": "sentence-practice",
+    "instruction": "Say this in Korean. Change one detail and say your new sentence."
+  },
+  {
+    "id": "P15-1",
+    "ch": 3,
+    "ko": "I make a desk out of wood.",
+    "model": "나무로 책상을 만들어요.",
+    "extension": false,
+    "kind": "sentence-practice",
+    "instruction": "Say this in Korean. Change one detail and say your new sentence."
+  },
+  {
+    "id": "P15-2",
+    "ch": 3,
+    "ko": "I make a gift out of paper.",
+    "model": "종이로 선물을 만들어요.",
+    "extension": false,
+    "kind": "sentence-practice",
+    "instruction": "Say this in Korean. Change one detail and say your new sentence."
+  },
+  {
+    "id": "P16-1",
+    "ch": 3,
+    "ko": "I speak in English.",
+    "model": "영어로 말해요.",
+    "extension": false,
+    "kind": "sentence-practice",
+    "instruction": "Say this in Korean. Change one detail and say your new sentence."
+  },
+  {
+    "id": "P16-2",
+    "ch": 3,
+    "ko": "I speak in Korean.",
+    "model": "한국어로 말해요.",
+    "extension": false,
+    "kind": "sentence-practice",
+    "instruction": "Say this in Korean. Change one detail and say your new sentence."
+  },
+  {
+    "id": "P17-1",
+    "ch": 3,
+    "ko": "I work as a doctor.",
+    "model": "의사로 일해요.",
+    "extension": false,
+    "kind": "sentence-practice",
+    "instruction": "Say this in Korean. Change one detail and say your new sentence."
+  },
+  {
+    "id": "P17-2",
+    "ch": 3,
+    "ko": "I work as a chef.",
+    "model": "요리사로 일해요.",
+    "extension": false,
+    "kind": "sentence-practice",
+    "instruction": "Say this in Korean. Change one detail and say your new sentence."
+  },
+  {
+    "id": "P18-1",
+    "ch": 4,
+    "ko": "I am a student too.",
+    "model": "저도 학생이에요.",
+    "extension": false,
+    "kind": "sentence-practice",
+    "instruction": "Say this in Korean. Change one detail and say your new sentence."
+  },
+  {
+    "id": "P18-2",
+    "ch": 4,
+    "ko": "My younger sibling eats bread too.",
+    "model": "동생도 빵을 먹어요.",
+    "extension": false,
+    "kind": "sentence-practice",
+    "instruction": "Say this in Korean. Change one detail and say your new sentence."
+  },
+  {
+    "id": "P19-1",
+    "ch": 4,
+    "ko": "I drink only coffee.",
+    "model": "저는 커피만 마셔요.",
+    "extension": false,
+    "kind": "sentence-practice",
+    "instruction": "Say this in Korean. Change one detail and say your new sentence."
+  },
+  {
+    "id": "P19-2",
+    "ch": 4,
+    "ko": "My friend eats only bread.",
+    "model": "친구는 빵만 먹어요.",
+    "extension": false,
+    "kind": "sentence-practice",
+    "instruction": "Say this in Korean. Change one detail and say your new sentence."
+  },
+  {
+    "id": "P20-1",
+    "ch": 4,
+    "ko": "It is my mother’s umbrella.",
+    "model": "어머니의 우산이에요.",
+    "extension": false,
+    "kind": "sentence-practice",
+    "instruction": "Say this in Korean. Change one detail and say your new sentence."
+  },
+  {
+    "id": "P20-2",
+    "ch": 4,
+    "ko": "I write my friend’s name.",
+    "model": "친구의 이름을 써요.",
+    "extension": false,
+    "kind": "sentence-practice",
+    "instruction": "Say this in Korean. Change one detail and say your new sentence."
+  },
+  {
+    "id": "P21-1",
+    "ch": 5,
+    "ko": "I give my friend a gift.",
+    "model": "친구한테 선물을 줘요.",
+    "extension": false,
+    "kind": "sentence-practice",
+    "instruction": "Say this in Korean. Change one detail and say your new sentence."
+  },
+  {
+    "id": "P21-2",
+    "ch": 5,
+    "ko": "I give the baby milk.",
+    "model": "아기한테 우유를 줘요.",
+    "extension": false,
+    "kind": "sentence-practice",
+    "instruction": "Say this in Korean. Change one detail and say your new sentence."
+  },
+  {
+    "id": "P22-1",
+    "ch": 5,
+    "ko": "I send a letter to my friend.",
+    "model": "친구한테 편지를 보내요.",
+    "extension": false,
+    "kind": "sentence-practice",
+    "instruction": "Say this in Korean. Change one detail and say your new sentence."
+  },
+  {
+    "id": "P22-2",
+    "ch": 5,
+    "ko": "I send a message to my colleague.",
+    "model": "동료한테 메시지를 보내요.",
+    "extension": false,
+    "kind": "sentence-practice",
+    "instruction": "Say this in Korean. Change one detail and say your new sentence."
+  },
+  {
+    "id": "P23-1",
+    "ch": 5,
+    "ko": "I call my wife.",
+    "model": "저는 아내한테 전화해요.",
+    "extension": false,
+    "kind": "sentence-practice",
+    "instruction": "Say this in Korean. Change one detail and say your new sentence."
+  },
+  {
+    "id": "P23-2",
+    "ch": 5,
+    "ko": "The student answers the teacher.",
+    "model": "학생은 선생님에게 대답해요.",
+    "extension": false,
+    "kind": "sentence-practice",
+    "instruction": "Say this in Korean. Change one detail and say your new sentence."
+  },
+  {
+    "id": "P24-1",
+    "ch": 5,
+    "ko": "I tell the nurse the address.",
+    "model": "간호사에게 주소를 알려줘요.",
+    "extension": false,
+    "kind": "sentence-practice",
+    "instruction": "Say this in Korean. Change one detail and say your new sentence."
+  },
+  {
+    "id": "P24-2",
+    "ch": 5,
+    "ko": "I tell the junior colleague the phone number.",
+    "model": "후배에게 전화번호를 알려줘요.",
+    "extension": false,
+    "kind": "sentence-practice",
+    "instruction": "Say this in Korean. Change one detail and say your new sentence."
+  },
+  {
+    "id": "P25-1",
+    "ch": 5,
+    "ko": "I am grateful to my senior colleague.",
+    "model": "선배에게 고마워요.",
+    "extension": false,
+    "kind": "sentence-practice",
+    "instruction": "Say this in Korean. Change one detail and say your new sentence."
+  },
+  {
+    "id": "P25-2",
+    "ch": 5,
+    "ko": "I am kind to customers.",
+    "model": "손님에게 친절해요.",
+    "extension": false,
+    "kind": "sentence-practice",
+    "instruction": "Say this in Korean. Change one detail and say your new sentence."
+  },
+  {
+    "id": "P26-1",
+    "ch": 5,
+    "ko": "I go to the cafe by bus.",
+    "model": "저는 버스로 카페에 가요.",
+    "extension": false,
+    "kind": "sentence-practice",
+    "instruction": "Say this in Korean. Change one detail and say your new sentence."
+  },
+  {
+    "id": "P26-2",
+    "ch": 5,
+    "ko": "I meet a friend at the cafe.",
+    "model": "카페에서 친구를 만나요.",
+    "extension": false,
+    "kind": "sentence-practice",
+    "instruction": "Say this in Korean. Change one detail and say your new sentence."
+  }
+]

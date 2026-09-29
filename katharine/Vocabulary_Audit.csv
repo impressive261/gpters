@@ -1,0 +1,4092 @@
+﻿source,surface token,headword / grammar,status
+w001 example,저는,저,covered
+w001 example,물을,물,covered
+w001 example,마셔요,마시다,covered
+w002 example,나는,나,covered
+w002 example,밥을,밥,covered
+w002 example,먹어요,먹다,covered
+w003 example,여기에,여기,covered
+w003 example,있어요,있다,covered
+w004 example,거기에서,거기,covered
+w004 example,만나요,만나다,covered
+w005 example,저기에,저기,covered
+w005 example,가요,가다,covered
+w006 example,어디에,어디,covered
+w006 example,가요,가다,covered
+w007 example,여러분에게,여러분,covered
+w007 example,말해요,말하다,covered
+w008 example,누가,누구,covered
+w008 example,와요,오다,covered
+w009 example,친구가,친구,covered
+w009 example,와요,오다,covered
+w010 example,학생은,학생,covered
+w010 example,공부해요,공부하다,covered
+w011 example,선생님이,선생님,covered
+w011 example,답을,답,covered
+w011 example,써요,쓰다,covered
+w012 example,사람이,사람,covered
+w012 example,많아요,많다,covered
+w013 example,가족은,가족,covered
+w013 example,사진을,사진,covered
+w013 example,봐요,보다,covered
+w014 example,아이가,아이,covered
+w014 example,와요,오다,covered
+w015 example,부모님은,부모님,covered
+w015 example,커피를,커피,covered
+w015 example,마셔요,마시다,covered
+w016 example,동생이,동생,covered
+w016 example,밥을,밥,covered
+w016 example,먹어요,먹다,covered
+w017 example,이름을,이름,covered
+w017 example,써요,쓰다,covered
+w018 example,책을,책,covered
+w018 example,읽어요,읽다,covered
+w019 example,공책을,공책,covered
+w019 example,봐요,보다,covered
+w020 example,연필로,연필,covered
+w020 example,이름을,이름,covered
+w020 example,써요,쓰다,covered
+w021 example,가방이,가방,covered
+w021 example,커요,크다,covered
+w022 example,사진을,사진,covered
+w022 example,봐요,보다,covered
+w023 example,숙제를,숙제,covered
+w023 example,해요,하다,covered
+w024 example,물을,물,covered
+w024 example,마셔요,마시다,covered
+w025 example,밥을,밥,covered
+w025 example,먹어요,먹다,covered
+w026 example,커피를,커피,covered
+w026 example,마셔요,마시다,covered
+w027 example,집이,집,covered
+w027 example,커요,크다,covered
+w028 example,학교가,학교,covered
+w028 example,커요,크다,covered
+w029 example,회사에,회사,covered
+w029 example,가요,가다,covered
+w030 example,한국에,한국,covered
+w030 example,가요,가다,covered
+w031 example,한국어가,한국어,covered
+w031 example,어려워요,어렵다,covered
+w032 example,시간이,시간,covered
+w032 example,있어요,있다,covered
+w033 example,날씨가,날씨,covered
+w033 example,좋아요,좋다,covered
+w034 example,문제가,문제,covered
+w034 example,어려워요,어렵다,covered
+w035 example,답을,답,covered
+w035 example,써요,쓰다,covered
+w036 example,친구가,친구,covered
+w036 example,와요,오다,covered
+w037 example,학교에,학교,covered
+w037 example,가요,가다,covered
+w038 example,밥을,밥,covered
+w038 example,먹어요,먹다,covered
+w039 example,물을,물,covered
+w039 example,마셔요,마시다,covered
+w040 example,사진을,사진,covered
+w040 example,봐요,보다,covered
+w041 example,책을,책,covered
+w041 example,읽어요,읽다,covered
+w042 example,볼펜으로,볼펜,covered
+w042 example,이름을,이름,covered
+w042 example,써요,쓰다,covered
+w043 example,숙제를,숙제,covered
+w043 example,해요,하다,covered
+w044 example,커피를,커피,covered
+w044 example,좋아해요,좋아하다,covered
+w045 example,한국어를,한국어,covered
+w045 example,공부해요,공부하다,covered
+w046 example,시간이,시간,covered
+w046 example,있어요,있다,covered
+w047 example,시간이,시간,covered
+w047 example,없어요,없다,covered
+w048 example,날씨가,날씨,covered
+w048 example,좋아요,좋다,covered
+w049 example,가방이,가방,covered
+w049 example,커요,크다,covered
+w050 example,공책이,공책,covered
+w050 example,작아요,작다,covered
+w051 example,사람이,사람,covered
+w051 example,많아요,많다,covered
+w052 example,문제가,문제,covered
+w052 example,쉬워요,쉽다,covered
+w053 example,한국어가,한국어,covered
+w053 example,어려워요,어렵다,covered
+w054 example,한국어가,한국어,covered
+w054 example,재미있어요,재미있다,covered
+w055 example,아이가,아이,covered
+w055 example,아파요,아프다,covered
+w056 example,오늘은,오늘,covered
+w056 example,시간이,시간,covered
+w056 example,많아요,많다,covered
+w057 example,방에,방,covered
+w057 example,있어요,있다,covered
+w058 example,교실에서,교실,covered
+w058 example,공부해요,공부하다,covered
+w059 example,식당에서,식당,covered
+w059 example,밥을,밥,covered
+w059 example,먹어요,먹다,covered
+w060 example,카페에서,카페,covered
+w060 example,만나요,만나다,covered
+w061 example,가게에서,가게,covered
+w061 example,물을,물,covered
+w061 example,사요,사다,covered
+w062 example,병원에,병원,covered
+w062 example,가요,가다,covered
+w063 example,공원에서,공원,covered
+w063 example,쉬어요,쉬다,covered
+w064 example,도서관에서,도서관,covered
+w064 example,책을,책,covered
+w064 example,읽어요,읽다,covered
+w065 example,편의점에서,편의점,covered
+w065 example,물을,물,covered
+w065 example,사요,사다,covered
+w066 example,은행에,은행,covered
+w066 example,가요,가다,covered
+w067 example,약국에서,약국,covered
+w067 example,약을,약,covered
+w067 example,사요,사다,covered
+w068 example,우체국에,우체국,covered
+w068 example,가요,가다,covered
+w069 example,역에서,역,covered
+w069 example,기다려요,기다리다,covered
+w070 example,공항에,공항,covered
+w070 example,도착해요,도착하다,covered
+w071 example,화장실에,화장실,covered
+w071 example,가요,가다,covered
+w072 example,시장에서,시장,covered
+w072 example,사과를,사과,covered
+w072 example,사요,사다,covered
+w073 example,미용실에,미용실,covered
+w073 example,가요,가다,covered
+w074 example,서점에서,서점,covered
+w074 example,책을,책,covered
+w074 example,사요,사다,covered
+w075 example,영화관에서,영화관,covered
+w075 example,영화를,영화,covered
+w075 example,봐요,보다,covered
+w076 example,부엌에서,부엌,covered
+w076 example,물을,물,covered
+w076 example,마셔요,마시다,covered
+w077 example,거실에서,거실,covered
+w077 example,쉬어요,쉬다,covered
+w078 example,침실에,침실,covered
+w078 example,있어요,있다,covered
+w079 example,사무실에서,사무실,covered
+w079 example,일해요,일하다,covered
+w080 example,회의실에서,회의실,covered
+w080 example,만나요,만나다,covered
+w081 example,엘리베이터에,엘리베이터,covered
+w081 example,사람이,사람,covered
+w081 example,있어요,있다,covered
+w082 example,계단에서,계단,covered
+w082 example,기다려요,기다리다,covered
+w083 example,학교,학교,covered
+w083 example,앞에서,앞,covered
+w083 example,만나요,만나다,covered
+w084 example,학교,학교,covered
+w084 example,뒤에,뒤,covered
+w084 example,있어요,있다,covered
+w085 example,방,방,covered
+w085 example,안에,안,covered
+w085 example,있어요,있다,covered
+w086 example,집,집,covered
+w086 example,밖에,밖,covered
+w086 example,있어요,있다,covered
+w087 example,책상,책상,covered
+w087 example,위에,위,covered
+w087 example,있어요,있다,covered
+w088 example,책상,책상,covered
+w088 example,아래에,아래,covered
+w088 example,있어요,있다,covered
+w089 example,한국에,한국,covered
+w089 example,살아요,살다,covered
+w090 example,사무실에서,사무실,covered
+w090 example,일해요,일하다,covered
+w091 example,역에서,역,covered
+w091 example,기다려요,기다리다,covered
+w092 example,집에서,집,covered
+w092 example,쉬어요,쉬다,covered
+w093 example,편의점에서,편의점,covered
+w093 example,물을,물,covered
+w093 example,사요,사다,covered
+w094 example,카페에서,카페,covered
+w094 example,친구를,친구,covered
+w094 example,만나요,만나다,covered
+w095 example,공원에서,공원,covered
+w095 example,운동해요,운동하다,covered
+w096 example,공항에,공항,covered
+w096 example,도착해요,도착하다,covered
+w097 example,집이,집,covered
+w097 example,역에,역,covered
+w097 example,가까워요,가깝다,covered
+w098 example,회사가,회사,covered
+w098 example,집에서,집,covered
+w098 example,멀어요,멀다,covered
+w099 example,카페에서,카페,covered
+w099 example,자주,자주,covered
+w099 example,만나요,만나다,covered
+w100 example,공원에서,공원,covered
+w100 example,같이,같이,covered
+w100 example,쉬어요,쉬다,covered
+w101 example,방에,방,covered
+w101 example,혼자,혼자,covered
+w101 example,있어요,있다,covered
+w102 example,교실에,교실,covered
+w102 example,먼저,먼저,covered
+w102 example,가요,가다,covered
+w103 example,버스로,버스,covered
+w103 example,학교에,학교,covered
+w103 example,가요,가다,covered
+w104 example,지하철로,지하철,covered
+w104 example,회사에,회사,covered
+w104 example,가요,가다,covered
+w105 example,택시로,택시,covered
+w105 example,병원에,병원,covered
+w105 example,가요,가다,covered
+w106 example,자동차로,자동차,covered
+w106 example,공항에,공항,covered
+w106 example,가요,가다,covered
+w107 example,자전거로,자전거,covered
+w107 example,공원에,공원,covered
+w107 example,가요,가다,covered
+w108 example,기차로,기차,covered
+w108 example,가요,가다,covered
+w109 example,비행기로,비행기,covered
+w109 example,한국에,한국,covered
+w109 example,가요,가다,covered
+w110 example,배로,배,covered
+w110 example,가요,가다,covered
+w111 example,오토바이로,오토바이,covered
+w111 example,가요,가다,covered
+w112 example,오른쪽으로,오른쪽,covered
+w112 example,가요,가다,covered
+w113 example,왼쪽으로,왼쪽,covered
+w113 example,가요,가다,covered
+w114 example,동쪽으로,동쪽,covered
+w114 example,가요,가다,covered
+w115 example,서쪽으로,서쪽,covered
+w115 example,가요,가다,covered
+w116 example,남쪽으로,남쪽,covered
+w116 example,가요,가다,covered
+w117 example,북쪽으로,북쪽,covered
+w117 example,가요,가다,covered
+w118 example,펜으로,펜,covered
+w118 example,써요,쓰다,covered
+w119 example,볼펜으로,볼펜,covered
+w119 example,이름을,이름,covered
+w119 example,써요,쓰다,covered
+w120 example,종이로,종이,covered
+w120 example,만들어요,만들다,covered
+w121 example,칼로,칼,covered
+w121 example,사과를,사과,covered
+w121 example,잘라요,자르다,covered
+w122 example,가위로,가위,covered
+w122 example,종이를,종이,covered
+w122 example,잘라요,자르다,covered
+w123 example,숟가락으로,숟가락,covered
+w123 example,밥을,밥,covered
+w123 example,먹어요,먹다,covered
+w124 example,젓가락으로,젓가락,covered
+w124 example,먹어요,먹다,covered
+w125 example,컵으로,컵,covered
+w125 example,물을,물,covered
+w125 example,마셔요,마시다,covered
+w126 example,카메라로,카메라,covered
+w126 example,사진을,사진,covered
+w126 example,찍어요,찍다,covered
+w127 example,전화로,전화,covered
+w127 example,말해요,말하다,covered
+w128 example,컴퓨터로,컴퓨터,covered
+w128 example,찾아요,찾다,covered
+w129 example,인터넷으로,인터넷,covered
+w129 example,찾아요,찾다,covered
+w130 example,카드로,카드,covered
+w130 example,사요,사다,covered
+w131 example,영어로,영어,covered
+w131 example,말해요,말하다,covered
+w132 example,중국어로,중국어,covered
+w132 example,말해요,말하다,covered
+w133 example,일본어로,일본어,covered
+w133 example,말해요,말하다,covered
+w134 example,나무로,나무,covered
+w134 example,책상을,책상,covered
+w134 example,만들어요,만들다,covered
+w135 example,유리로,유리,covered
+w135 example,컵을,컵,covered
+w135 example,만들어요,만들다,covered
+w136 example,플라스틱으로,플라스틱,covered
+w136 example,만들어요,만들다,covered
+w137 example,쇠로,쇠,covered
+w137 example,만들어요,만들다,covered
+w138 example,의사로,의사,covered
+w138 example,일해요,일하다,covered
+w139 example,요리사로,요리사,covered
+w139 example,일해요,일하다,covered
+w140 example,가수로,가수,covered
+w140 example,일해요,일하다,covered
+w141 example,배우로,배우,covered
+w141 example,일해요,일하다,covered
+w142 example,직원으로,직원,covered
+w142 example,일해요,일하다,covered
+w143 example,영어로,영어,covered
+w143 example,말해요,말하다,covered
+w144 example,친구에게,친구,covered
+w144 example,사진을,사진,covered
+w144 example,보내요,보내다,covered
+w145 example,종이로,종이,covered
+w145 example,만들어요,만들다,covered
+w146 example,칼로,칼,covered
+w146 example,사과를,사과,covered
+w146 example,잘라요,자르다,covered
+w147 example,카메라로,카메라,covered
+w147 example,사진을,사진,covered
+w147 example,찍어요,찍다,covered
+w148 example,인터넷으로,인터넷,covered
+w148 example,정보를,정보,covered
+w148 example,찾아요,찾다,covered
+w149 example,영어를,영어,covered
+w149 example,한국어로,한국어,covered
+w149 example,바꿔요,바꾸다,covered
+w150 example,버스로,버스,covered
+w150 example,이동해요,이동하다,covered
+w151 example,오른쪽으로,오른쪽,covered
+w151 example,빨리,빨리,covered
+w151 example,가요,가다,covered
+w152 example,왼쪽으로,왼쪽,covered
+w152 example,천천히,천천히,covered
+w152 example,가요,가다,covered
+w153 example,아버지의,아버지,covered
+w153 example,시계예요,시계,covered
+w154 example,어머니의,어머니,covered
+w154 example,휴대폰이에요,휴대폰,covered
+w155 example,형도,형,covered
+w155 example,학생이에요,학생,covered
+w156 example,누나도,누나,covered
+w156 example,와요,오다,covered
+w157 example,언니의,언니,covered
+w157 example,선물이에요,선물,covered
+w158 example,오빠만,오빠,covered
+w158 example,와요,오다,covered
+w159 example,할머니의,할머니,covered
+w159 example,우산이에요,우산,covered
+w160 example,할아버지도,할아버지,covered
+w160 example,가요,가다,covered
+w161 example,남자도,남자,covered
+w161 example,와요,오다,covered
+w162 example,여자만,여자,covered
+w162 example,와요,오다,covered
+w163 example,휴대폰만,휴대폰,covered
+w163 example,있어요,있다,covered
+w164 example,지갑도,지갑,covered
+w164 example,있어요,있다,covered
+w165 example,돈이,돈,covered
+w165 example,있어요,있다,covered
+w166 example,열쇠도,열쇠,covered
+w166 example,있어요,있다,covered
+w167 example,시계만,시계,covered
+w167 example,봐요,보다,covered
+w168 example,옷도,옷,covered
+w168 example,사요,사다,covered
+w169 example,신발만,신발,covered
+w169 example,사요,사다,covered
+w170 example,모자도,모자,covered
+w170 example,써요,쓰다,covered
+w171 example,안경을,안경,covered
+w171 example,써요,쓰다,covered
+w172 example,우산도,우산,covered
+w172 example,있어요,있다,covered
+w173 example,친구한테,친구,covered
+w173 example,선물을,선물,covered
+w173 example,줘요,주다,covered
+w174 example,꽃도,꽃,covered
+w174 example,좋아해요,좋아하다,covered
+w175 example,한국,한국,covered
+w175 example,음식을,음식,covered
+w175 example,좋아해요,좋아하다,covered
+w176 example,사과만,사과,covered
+w176 example,먹어요,먹다,covered
+w177 example,빵도,빵,covered
+w177 example,먹어요,먹다,covered
+w178 example,우유만,우유,covered
+w178 example,마셔요,마시다,covered
+w179 example,주스도,주스,covered
+w179 example,마셔요,마시다,covered
+w180 example,영화도,영화,covered
+w180 example,봐요,보다,covered
+w181 example,음악을,음악,covered
+w181 example,들어요,듣다,covered
+w182 example,게임도,게임,covered
+w182 example,해요,하다,covered
+w183 example,노래만,노래,covered
+w183 example,들어요,듣다,covered
+w184 example,수업도,수업,covered
+w184 example,있어요,있다,covered
+w185 example,시험을,시험,covered
+w185 example,봐요,보다,covered
+w186 example,단어도,단어,covered
+w186 example,써요,쓰다,covered
+w187 example,문장만,문장,covered
+w187 example,읽어요,읽다,covered
+w188 example,이,이,covered
+w188 example,페이지를,페이지,covered
+w188 example,봐요,보다,covered
+w189 example,친구에게,친구,covered
+w189 example,선물을,선물,covered
+w189 example,줘요,주다,covered
+w190 example,선물을,선물,covered
+w190 example,받아요,받다,covered
+w191 example,책도,책,covered
+w191 example,빌려요,빌리다,covered
+w192 example,열쇠를,열쇠,covered
+w192 example,자주,자주,covered
+w192 example,잃어버려요,잃어버리다,covered
+w193 example,선물을,선물,covered
+w193 example,골라요,고르다,covered
+w194 example,옷을,옷,covered
+w194 example,입어요,입다,covered
+w195 example,모자도,모자,covered
+w195 example,같아요,같다,covered
+w196 example,신발만,신발,covered
+w196 example,달라요,다르다,covered
+w197 example,우산도,우산,covered
+w197 example,필요해요,필요하다,covered
+w198 example,시험도,시험,covered
+w198 example,중요해요,중요하다,covered
+w199 example,옷이,옷,covered
+w199 example,비싸요,비싸다,covered
+w200 example,신발도,신발,covered
+w200 example,싸요,싸다,covered
+w201 example,친구를,친구,covered
+w201 example,또,또,covered
+w201 example,만나요,만나다,covered
+w202 example,가끔,가끔,covered
+w202 example,영화도,영화,covered
+w202 example,봐요,보다,covered
+w203 example,손님한테,손님,covered
+w203 example,물을,물,covered
+w203 example,줘요,주다,covered
+w204 example,사장님에게,사장님,covered
+w204 example,연락해요,연락하다,covered
+w205 example,경찰에게,경찰,covered
+w205 example,길을,길,covered
+w205 example,물어요,묻다,covered
+w206 example,간호사에게,간호사,covered
+w206 example,질문해요,질문하다,covered
+w207 example,남편한테,남편,covered
+w207 example,전화해요,전화하다,covered
+w208 example,아내에게,아내,covered
+w208 example,선물을,선물,covered
+w208 example,줘요,주다,covered
+w209 example,아들에게,아들,covered
+w209 example,책을,책,covered
+w209 example,줘요,주다,covered
+w210 example,딸한테,딸,covered
+w210 example,편지를,편지,covered
+w210 example,줘요,주다,covered
+w211 example,아기한테,아기,covered
+w211 example,우유를,우유,covered
+w211 example,줘요,주다,covered
+w212 example,어린이에게,어린이,covered
+w212 example,사과를,사과,covered
+w212 example,줘요,주다,covered
+w213 example,어른에게,어른,covered
+w213 example,인사해요,인사하다,covered
+w214 example,친척에게,친척,covered
+w214 example,연락해요,연락하다,covered
+w215 example,이웃에게,이웃,covered
+w215 example,도움을,도움,covered
+w215 example,줘요,주다,covered
+w216 example,동료에게,동료,covered
+w216 example,이메일을,이메일,covered
+w216 example,보내요,보내다,covered
+w217 example,선배한테,선배,covered
+w217 example,물어봐요,물어보다,covered
+w218 example,후배에게,후배,covered
+w218 example,알려줘요,알려주다,covered
+w219 example,교수님에게,교수,covered
+w219 example,질문해요,질문하다,covered
+w219 note,교수님,교수,covered
+w220 example,직장인에게,직장인,covered
+w220 example,시간이,시간,covered
+w220 example,필요해요,필요하다,covered
+w221 example,외국인에게,외국인,covered
+w221 example,한국어를,한국어,covered
+w221 example,가르쳐요,가르치다,covered
+w222 example,한국인한테,한국인,covered
+w222 example,물어봐요,물어보다,covered
+w223 example,동물한테,동물,covered
+w223 example,물을,물,covered
+w223 example,줘요,주다,covered
+w224 example,강아지한테,강아지,covered
+w224 example,밥을,밥,covered
+w224 example,줘요,주다,covered
+w225 example,고양이에게,고양이,covered
+w225 example,물을,물,covered
+w225 example,줘요,주다,covered
+w226 example,친구에게,친구,covered
+w226 example,편지를,편지,covered
+w226 example,줘요,주다,covered
+w227 example,동료에게,동료,covered
+w227 example,이메일을,이메일,covered
+w227 example,보내요,보내다,covered
+w228 example,남편한테,남편,covered
+w228 example,문자를,문자,covered
+w228 example,보내요,보내다,covered
+w229 example,아내에게,아내,covered
+w229 example,메시지를,메시지,covered
+w229 example,보내요,보내다,covered
+w230 example,손님에게,손님,covered
+w230 example,전화번호를,전화번호,covered
+w230 example,알려줘요,알려주다,covered
+w231 example,친구에게,친구,covered
+w231 example,주소를,주소,covered
+w231 example,알려줘요,알려주다,covered
+w232 example,선배에게,선배,covered
+w232 example,질문을,질문,covered
+w232 example,해요,하다,covered
+w233 example,선생님에게,선생님,covered
+w233 example,대답해요,대답하다,covered
+w234 example,이웃에게,이웃,covered
+w234 example,도움을,도움,covered
+w234 example,줘요,주다,covered
+w235 example,사장님에게,사장님,covered
+w235 example,연락을,연락,covered
+w235 example,해요,하다,covered
+w236 example,아이한테,아이,covered
+w236 example,이야기를,이야기,covered
+w236 example,해요,하다,covered
+w237 example,친구에게,친구,covered
+w237 example,약속을,약속,covered
+w237 example,해요,하다,covered
+w238 example,가족에게,가족,covered
+w238 example,소식을,소식,covered
+w238 example,전해요,전하다,covered
+w239 example,손님에게,손님,covered
+w239 example,정보를,정보,covered
+w239 example,줘요,주다,covered
+w240 example,후배에게,후배,covered
+w240 example,조언을,조언,covered
+w240 example,해요,하다,covered
+w241 example,어른에게,어른,covered
+w241 example,인사를,인사,covered
+w241 example,해요,하다,covered
+w242 example,아버지한테,아버지,covered
+w242 example,전화해요,전화하다,covered
+w243 example,사장님에게,사장님,covered
+w243 example,연락해요,연락하다,covered
+w244 example,경찰에게,경찰,covered
+w244 example,길을,길,covered
+w244 example,물어요,묻다,covered
+w245 example,선생님에게,선생님,covered
+w245 example,대답해요,대답하다,covered
+w246 example,친구한테,친구,covered
+w246 example,도움을,도움,covered
+w246 example,부탁해요,부탁하다,covered
+w247 example,후배에게,후배,covered
+w247 example,주소를,주소,covered
+w247 example,알려줘요,알려주다,covered
+w248 example,외국인에게,외국인,covered
+w248 example,한국어를,한국어,covered
+w248 example,가르쳐요,가르치다,covered
+w249 example,선배에게,선배,covered
+w249 example,고마워요,고맙다,covered
+w250 example,손님에게,손님,covered
+w250 example,친절해요,친절하다,covered
+w251 example,약국에서,약국,covered
+w251 example,약을,약,covered
+w251 example,사요,사다,covered
+w252 example,책상,책상,covered
+w252 example,위에,위,covered
+w252 example,책이,책,covered
+w252 example,있어요,있다,covered
+w253 example,집,집,covered
+w253 example,근처에,근처,covered
+w253 example,카페가,카페,covered
+w253 example,있어요,있다,covered
+w254 example,약국이,약국,covered
+w254 example,병원,병원,covered
+w254 example,옆에,옆,covered
+w254 example,있어요,있다,covered
+w255 example,경찰에게,경찰,covered
+w255 example,길을,길,covered
+w255 example,물어요,묻다,covered
+w256 example,서울로,서울,covered
+w256 example,보내요,보내다,covered
+w257 example,컴퓨터로,컴퓨터,covered
+w257 example,파일을,파일,covered
+w257 example,보내요,보내다,covered
+w258 example,차도,차,covered
+w258 example,마셔요,마시다,covered
+w259 example,현금으로,현금,covered
+w259 example,사요,사다,covered
+w260 example,아침에,아침,covered
+w260 example,빵을,빵,covered
+w260 example,먹어요,먹다,covered
+w261 example,생일에,생일,covered
+w261 example,선물을,선물,covered
+w261 example,줘요,주다,covered
+w262 example,여권이,여권,covered
+w262 example,가방,가방,covered
+w262 example,안에,안,covered
+w262 example,있어요,있다,covered
+w263 example,여행,여행,covered
+w263 example,소식을,소식,covered
+w263 example,보내요,보내다,covered
+w264 example,여행지에서,여행지,covered
+w264 example,사진을,사진,covered
+w264 example,찍어요,찍다,covered
+w265 example,주말에,주말,covered
+w265 example,뭐,뭐,covered
+w265 example,해요,하다,covered
+w266 example,어떤,어떤,covered
+w266 example,물건이,물건,covered
+w266 example,비싸요,비싸다,covered
+w267 example,오늘,오늘,covered
+w267 example,일도,일,covered
+w267 example,해요,하다,covered
+w268 example,운동,운동,covered
+w268 example,후에,후,covered
+w268 example,밥을,밥,covered
+w268 example,먹어요,먹다,covered
+w269 example,그다음,그다음,covered
+w269 example,어디에,어디,covered
+w269 example,가요,가다,covered
+w270 example,가족,가족,covered
+w270 example,중에서,중,covered
+w270 example,누가,누구,covered
+w270 example,커피를,커피,covered
+w270 example,좋아해요,좋아하다,covered
+w271 example,운동,운동,covered
+w271 example,후에,후,covered
+w271 example,물을,물,covered
+w271 example,마셔요,마시다,covered
+w272 example,배로,배,covered
+w272 example,여행한,여행하다,covered
+w272 example,적이,적,covered
+w272 example,있어요,있다,covered
+w273 example,버스로,버스,covered
+w273 example,갈,가다,covered
+w273 example,수,수,covered
+w273 example,있어요,있다,covered
+w274 example,뭐를,뭐,covered
+w274 example,먹어요,먹다,covered
+w275 example,무엇을,무엇,covered
+w275 example,읽어요,읽다,covered
+w276 example,이건,이것,covered
+w276 example,제,제,covered
+w276 example,가방이에요,가방,covered
+w277 example,집에,집,covered
+w277 example,언제,언제,covered
+w277 example,와요,오다,covered
+w278 example,이,이,covered
+w278 example,가방이,가방,covered
+w278 example,커요,크다,covered
+w279 example,그,그,covered
+w279 example,사람에게,사람,covered
+w279 example,메시지를,메시지,covered
+w279 example,보내요,보내다,covered
+w280 example,어떤,어떤,covered
+w280 example,선물이에요,선물,covered
+w281 example,제,제,covered
+w281 example,가방이에요,가방,covered
+w282 example,지금,지금,covered
+w282 example,어디에,어디,covered
+w282 example,있어요,있다,covered
+w283 example,친구가,친구,covered
+w283 example,가까이,가까이,covered
+w283 example,살아요,살다,covered
+w284 example,단어를,단어,covered
+w284 example,많이,많이,covered
+w284 example,알아요,알다,covered
+w285 example,학교에,학교,covered
+w285 example,어떻게,어떻게,covered
+w285 example,가요,가다,covered
+w286 example,얼마나,얼마나,covered
+w286 example,오래,오래,covered
+w286 example,있어요,있다,covered
+w287 example,카페에,카페,covered
+w287 example,오래,오래,covered
+w287 example,있어요,있다,covered
+w288 example,네,네,covered
+w288 example,커피를,커피,covered
+w288 example,마셔요,마시다,covered
+w289 example,아니요,아니요,covered
+w289 example,물만,물,covered
+w289 example,마셔요,마시다,covered
+w290 example,선생님에게,선생님,covered
+w290 example,한국어를,한국어,covered
+w290 example,배워요,배우다,covered
+w291 example,음악을,음악,covered
+w291 example,들어요,듣다,covered
+w292 example,이,이,covered
+w292 example,단어만,단어,covered
+w292 example,외워요,외우다,covered
+w293 example,선생님에게,선생님,covered
+w293 example,질문해요,질문하다,covered
+w294 example,한국인한테,한국인,covered
+w294 example,물어봐요,물어보다,covered
+w295 example,가족에게,가족,covered
+w295 example,소식을,소식,covered
+w295 example,전해요,전하다,covered
+w296 example,어른에게,어른,covered
+w296 example,인사해요,인사하다,covered
+w297 example,한국어,한국어,covered
+w297 example,단어를,단어,covered
+w297 example,알아요,알다,covered
+w298 example,이,이,covered
+w298 example,단어를,단어,covered
+w298 example,몰라요,모르다,covered
+w299 example,택시를,택시,covered
+w299 example,타요,타다,covered
+w300 example,기차로,기차,covered
+w300 example,여행해요,여행하다,covered
+w301 example,현금을,현금,covered
+w301 example,사용해요,사용하다,covered
+w302 example,휴대폰을,휴대폰,covered
+w302 example,가지고,가지다,covered
+w302 example,있어요,있다,covered
+w302 note,가지고,가지다,covered
+w302 note,있어요,있다,covered
+w302 note,가져요,가지다,covered
+w303 example,가방에,가방,covered
+w303 example,책을,책,covered
+w303 example,넣어요,넣다,covered
+w304 example,친구와,친구,covered
+w304 example,이야기해요,이야기하다,covered
+w305 example,친구한테,친구,covered
+w305 example,사진을,사진,covered
+w305 example,보여줘요,보여주다,covered
+w306 example,지하철이,지하철,covered
+w306 example,편해요,편하다,covered
+w307 example,한국에,한국,covered
+w307 example,가고,가다,covered
+w307 example,싶어요,싶다,covered
+w308 example,저는,저,covered
+w308 example,학생이에요,학생,covered
+S01-01 original,이름이,이름,covered
+S01-01 original,뭐예요,뭐,covered
+S01-01 revised,이름이,이름,covered
+S01-01 revised,뭐예요,뭐,covered
+S01-02 original,학생이에요,학생,covered
+S01-02 original,직장인이에요,직장인,covered
+S01-02 revised,학생이에요,학생,covered
+S01-02 revised,직장인이에요,직장인,covered
+S01-03 original,한국어를,한국어,covered
+S01-03 original,공부해요,공부하다,covered
+S01-03 revised,한국어를,한국어,covered
+S01-03 revised,공부해요,공부하다,covered
+S01-04 original,영어도,영어,covered
+S01-04 original,공부해요,공부하다,covered
+S01-04 revised,영어도,영어,covered
+S01-04 revised,공부해요,공부하다,covered
+S01-05 original,한국어가,한국어,covered
+S01-05 original,재미있어요,재미있다,covered
+S01-05 revised,한국어가,한국어,covered
+S01-05 revised,재미있어요,재미있다,covered
+S01-06 original,한국어가,한국어,covered
+S01-06 original,쉬워요,쉽다,covered
+S01-06 original,어려워요,어렵다,covered
+S01-06 revised,한국어가,한국어,covered
+S01-06 revised,쉬워요,쉽다,covered
+S01-06 revised,어려워요,어렵다,covered
+S01-07 original,오늘,오늘,covered
+S01-07 original,시간이,시간,covered
+S01-07 original,많아요,많다,covered
+S01-07 revised,오늘,오늘,covered
+S01-07 revised,시간이,시간,covered
+S01-07 revised,많아요,많다,covered
+S01-08 original,오늘,오늘,covered
+S01-08 original,숙제가,숙제,covered
+S01-08 original,있어요,있다,covered
+S01-08 revised,오늘,오늘,covered
+S01-08 revised,숙제가,숙제,covered
+S01-08 revised,있어요,있다,covered
+S01-09 original,책을,책,covered
+S01-09 original,자주,자주,covered
+S01-09 original,읽어요,읽다,covered
+S01-09 revised,책을,책,covered
+S01-09 revised,자주,자주,covered
+S01-09 revised,읽어요,읽다,covered
+S01-10 original,영화를,영화,covered
+S01-10 original,자주,자주,covered
+S01-10 original,봐요,보다,covered
+S01-10 revised,영화를,영화,covered
+S01-10 revised,자주,자주,covered
+S01-10 revised,봐요,보다,covered
+S01-11 original,음악을,음악,covered
+S01-11 original,좋아해요,좋아하다,covered
+S01-11 revised,음악을,음악,covered
+S01-11 revised,좋아해요,좋아하다,covered
+S01-12 original,게임도,게임,covered
+S01-12 original,좋아해요,좋아하다,covered
+S01-12 revised,게임도,게임,covered
+S01-12 revised,좋아해요,좋아하다,covered
+S01-13 original,커피를,커피,covered
+S01-13 original,마셔요,마시다,covered
+S01-13 revised,커피를,커피,covered
+S01-13 revised,마셔요,마시다,covered
+S01-14 original,우유도,우유,covered
+S01-14 original,마셔요,마시다,covered
+S01-14 revised,우유도,우유,covered
+S01-14 revised,마셔요,마시다,covered
+S01-15 original,빵을,빵,covered
+S01-15 original,좋아해요,좋아하다,covered
+S01-15 revised,빵을,빵,covered
+S01-15 revised,좋아해요,좋아하다,covered
+S01-16 original,사과를,사과,covered
+S01-16 original,좋아해요,좋아하다,covered
+S01-16 revised,사과를,사과,covered
+S01-16 revised,좋아해요,좋아하다,covered
+S01-17 original,한국,한국,covered
+S01-17 original,음식을,음식,covered
+S01-17 original,좋아해요,좋아하다,covered
+S01-17 revised,한국,한국,covered
+S01-17 revised,음식을,음식,covered
+S01-17 revised,좋아해요,좋아하다,covered
+S01-18 original,사진을,사진,covered
+S01-18 original,자주,자주,covered
+S01-18 original,봐요,보다,covered
+S01-18 revised,사진을,사진,covered
+S01-18 revised,자주,자주,covered
+S01-18 revised,봐요,보다,covered
+S01-19 original,한국어,한국어,covered
+S01-19 original,단어를,단어,covered
+S01-19 original,많이,많이,covered
+S01-19 original,알아요,알다,covered
+S01-19 revised,한국어,한국어,covered
+S01-19 revised,단어를,단어,covered
+S01-19 revised,많이,많이,covered
+S01-19 revised,알아요,알다,covered
+S01-20 original,한국어,한국어,covered
+S01-20 original,수업이,수업,covered
+S01-20 original,재미있어요,재미있다,covered
+S01-20 revised,한국어,한국어,covered
+S01-20 revised,수업이,수업,covered
+S01-20 revised,재미있어요,재미있다,covered
+S02-01 original,가족이,가족,covered
+S02-01 original,많아요,많다,covered
+S02-01 revised,가족이,가족,covered
+S02-01 revised,많아요,많다,covered
+S02-02 original,부모님이,부모님,covered
+S02-02 original,어디에,어디,covered
+S02-02 original,살아요,살다,covered
+S02-02 revised,부모님은,부모님,covered
+S02-02 revised,어디에,어디,covered
+S02-02 revised,살아요,살다,covered
+S02-03 original,형이,형,covered
+S02-03 original,있어요,있다,covered
+S02-03 revised,형이,형,covered
+S02-03 revised,있어요,있다,covered
+S02-04 original,누나가,누나,covered
+S02-04 original,있어요,있다,covered
+S02-04 revised,누나가,누나,covered
+S02-04 revised,있어요,있다,covered
+S02-05 original,언니가,언니,covered
+S02-05 original,있어요,있다,covered
+S02-05 revised,언니가,언니,covered
+S02-05 revised,있어요,있다,covered
+S02-06 original,오빠가,오빠,covered
+S02-06 original,있어요,있다,covered
+S02-06 revised,오빠가,오빠,covered
+S02-06 revised,있어요,있다,covered
+S02-07 original,동생이,동생,covered
+S02-07 original,있어요,있다,covered
+S02-07 revised,동생이,동생,covered
+S02-07 revised,있어요,있다,covered
+S02-08 original,할머니가,할머니,covered
+S02-08 original,가까이,가까이,covered
+S02-08 original,살아요,살다,covered
+S02-08 revised,할머니는,할머니,covered
+S02-08 revised,가까이,가까이,covered
+S02-08 revised,살아요,살다,covered
+S02-09 original,할아버지도,할아버지,covered
+S02-09 original,가까이,가까이,covered
+S02-09 original,살아요,살다,covered
+S02-09 revised,할아버지도,할아버지,covered
+S02-09 revised,가까이,가까이,covered
+S02-09 revised,살아요,살다,covered
+S02-10 original,가족은,가족,covered
+S02-10 original,자주,자주,covered
+S02-10 original,만나요,만나다,covered
+S02-10 revised,가족을,가족,covered
+S02-10 revised,자주,자주,covered
+S02-10 revised,만나요,만나다,covered
+S02-11 original,가족도,가족,covered
+S02-11 original,한국,한국,covered
+S02-11 original,음식을,음식,covered
+S02-11 original,좋아해요,좋아하다,covered
+S02-11 revised,가족도,가족,covered
+S02-11 revised,한국,한국,covered
+S02-11 revised,음식을,음식,covered
+S02-11 revised,좋아해요,좋아하다,covered
+S02-12 original,친구가,친구,covered
+S02-12 original,많아요,많다,covered
+S02-12 revised,친구가,친구,covered
+S02-12 revised,많아요,많다,covered
+S02-13 original,친구도,친구,covered
+S02-13 original,한국어를,한국어,covered
+S02-13 original,공부해요,공부하다,covered
+S02-13 revised,친구도,친구,covered
+S02-13 revised,한국어를,한국어,covered
+S02-13 revised,공부해요,공부하다,covered
+S02-14 original,친구는,친구,covered
+S02-14 original,학생이에요,학생,covered
+S02-14 original,직장인이에요,직장인,covered
+S02-14 revised,친구는,친구,covered
+S02-14 revised,학생이에요,학생,covered
+S02-14 revised,직장인이에요,직장인,covered
+S02-15 original,친구의,친구,covered
+S02-15 original,이름이,이름,covered
+S02-15 original,뭐예요,뭐,covered
+S02-15 revised,친구의,친구,covered
+S02-15 revised,이름이,이름,covered
+S02-15 revised,뭐예요,뭐,covered
+S02-16 original,가족의,가족,covered
+S02-16 original,사진이,사진,covered
+S02-16 original,있어요,있다,covered
+S02-16 revised,가족의,가족,covered
+S02-16 revised,사진이,사진,covered
+S02-16 revised,있어요,있다,covered
+S02-17 original,누구의,누구,covered
+S02-17 original,휴대폰이에요,휴대폰,covered
+S02-17 revised,누구의,누구,covered
+S02-17 revised,휴대폰이에요,휴대폰,covered
+S02-18 original,누구의,누구,covered
+S02-18 original,가방이에요,가방,covered
+S02-18 revised,누구의,누구,covered
+S02-18 revised,가방이에요,가방,covered
+S02-19 original,누구의,누구,covered
+S02-19 original,책이에요,책,covered
+S02-19 revised,누구의,누구,covered
+S02-19 revised,책이에요,책,covered
+S02-20 original,가족,가족,covered
+S02-20 original,중에서,중,covered
+S02-20 original,누가,누구,covered
+S02-20 original,커피를,커피,covered
+S02-20 original,좋아해요,좋아하다,covered
+S02-20 revised,가족,가족,covered
+S02-20 revised,중에서,중,covered
+S02-20 revised,누가,누구,covered
+S02-20 revised,커피를,커피,covered
+S02-20 revised,좋아해요,좋아하다,covered
+S03-01 original,지금,지금,covered
+S03-01 original,어디에,어디,covered
+S03-01 original,있어요,있다,covered
+S03-01 revised,지금,지금,covered
+S03-01 revised,어디에,어디,covered
+S03-01 revised,있어요,있다,covered
+S03-02 original,집에,집,covered
+S03-02 original,있어요,있다,covered
+S03-02 revised,집에,집,covered
+S03-02 revised,있어요,있다,covered
+S03-03 original,방에,방,covered
+S03-03 original,있어요,있다,covered
+S03-03 revised,방에,방,covered
+S03-03 revised,있어요,있다,covered
+S03-04 original,휴대폰이,휴대폰,covered
+S03-04 original,어디에,어디,covered
+S03-04 original,있어요,있다,covered
+S03-04 revised,휴대폰이,휴대폰,covered
+S03-04 revised,어디에,어디,covered
+S03-04 revised,있어요,있다,covered
+S03-05 original,가방이,가방,covered
+S03-05 original,어디에,어디,covered
+S03-05 original,있어요,있다,covered
+S03-05 revised,가방이,가방,covered
+S03-05 revised,어디에,어디,covered
+S03-05 revised,있어요,있다,covered
+S03-06 original,책이,책,covered
+S03-06 original,어디에,어디,covered
+S03-06 original,있어요,있다,covered
+S03-06 revised,책이,책,covered
+S03-06 revised,어디에,어디,covered
+S03-06 revised,있어요,있다,covered
+S03-07 original,지갑이,지갑,covered
+S03-07 original,가방,가방,covered
+S03-07 original,안에,안,covered
+S03-07 original,있어요,있다,covered
+S03-07 revised,지갑이,지갑,covered
+S03-07 revised,가방,가방,covered
+S03-07 revised,안에,안,covered
+S03-07 revised,있어요,있다,covered
+S03-08 original,휴대폰이,휴대폰,covered
+S03-08 original,책상,책상,covered
+S03-08 original,위에,위,covered
+S03-08 original,있어요,있다,covered
+S03-08 revised,휴대폰이,휴대폰,covered
+S03-08 revised,책상,책상,covered
+S03-08 revised,위에,위,covered
+S03-08 revised,있어요,있다,covered
+S03-09 original,신발이,신발,covered
+S03-09 original,집,집,covered
+S03-09 original,안에,안,covered
+S03-09 original,있어요,있다,covered
+S03-09 original,밖에,밖,covered
+S03-09 original,있어요,있다,covered
+S03-09 revised,신발이,신발,covered
+S03-09 revised,집,집,covered
+S03-09 revised,안에,안,covered
+S03-09 revised,있어요,있다,covered
+S03-09 revised,밖에,밖,covered
+S03-09 revised,있어요,있다,covered
+S03-10 original,부엌에서,부엌,covered
+S03-10 original,뭐를,뭐,covered
+S03-10 original,해요,하다,covered
+S03-10 revised,부엌에서,부엌,covered
+S03-10 revised,뭐를,뭐,covered
+S03-10 revised,해요,하다,covered
+S03-11 original,거실에서,거실,covered
+S03-11 original,뭐를,뭐,covered
+S03-11 original,해요,하다,covered
+S03-11 revised,거실에서,거실,covered
+S03-11 revised,뭐를,뭐,covered
+S03-11 revised,해요,하다,covered
+S03-12 original,침실에서,침실,covered
+S03-12 original,뭐를,뭐,covered
+S03-12 original,해요,하다,covered
+S03-12 revised,침실에서,침실,covered
+S03-12 revised,뭐를,뭐,covered
+S03-12 revised,해요,하다,covered
+S03-13 original,집에서,집,covered
+S03-13 original,공부해요,공부하다,covered
+S03-13 revised,집에서,집,covered
+S03-13 revised,공부해요,공부하다,covered
+S03-14 original,집에서,집,covered
+S03-14 original,자주,자주,covered
+S03-14 original,영화를,영화,covered
+S03-14 original,봐요,보다,covered
+S03-14 revised,집에서,집,covered
+S03-14 revised,자주,자주,covered
+S03-14 revised,영화를,영화,covered
+S03-14 revised,봐요,보다,covered
+S03-15 original,집에서,집,covered
+S03-15 original,커피를,커피,covered
+S03-15 original,마셔요,마시다,covered
+S03-15 revised,집에서,집,covered
+S03-15 revised,커피를,커피,covered
+S03-15 revised,마셔요,마시다,covered
+S03-16 original,집에서,집,covered
+S03-16 original,혼자,혼자,covered
+S03-16 original,공부해요,공부하다,covered
+S03-16 revised,집에서,집,covered
+S03-16 revised,혼자,혼자,covered
+S03-16 revised,공부해요,공부하다,covered
+S03-17 original,가족은,가족,covered
+S03-17 original,거실에서,거실,covered
+S03-17 original,뭐를,뭐,covered
+S03-17 original,해요,하다,covered
+S03-17 revised,가족은,가족,covered
+S03-17 revised,거실에서,거실,covered
+S03-17 revised,뭐를,뭐,covered
+S03-17 revised,해요,하다,covered
+S03-18 original,집,집,covered
+S03-18 original,근처에,근처,covered
+S03-18 original,편의점이,편의점,covered
+S03-18 original,있어요,있다,covered
+S03-18 revised,집,집,covered
+S03-18 revised,근처에,근처,covered
+S03-18 revised,편의점이,편의점,covered
+S03-18 revised,있어요,있다,covered
+S03-19 original,집,집,covered
+S03-19 original,근처에,근처,covered
+S03-19 original,카페가,카페,covered
+S03-19 original,있어요,있다,covered
+S03-19 revised,집,집,covered
+S03-19 revised,근처에,근처,covered
+S03-19 revised,카페가,카페,covered
+S03-19 revised,있어요,있다,covered
+S03-20 original,집이,집,covered
+S03-20 original,역에,역,covered
+S03-20 original,가까워요,가깝다,covered
+S03-20 revised,집이,집,covered
+S03-20 revised,역에,역,covered
+S03-20 revised,가까워요,가깝다,covered
+S04-01 original,집,집,covered
+S04-01 original,근처에,근처,covered
+S04-01 original,뭐가,뭐,covered
+S04-01 original,있어요,있다,covered
+S04-01 revised,집,집,covered
+S04-01 revised,근처에,근처,covered
+S04-01 revised,뭐가,뭐,covered
+S04-01 revised,있어요,있다,covered
+S04-02 original,카페가,카페,covered
+S04-02 original,있어요,있다,covered
+S04-02 revised,카페가,카페,covered
+S04-02 revised,있어요,있다,covered
+S04-03 original,편의점이,편의점,covered
+S04-03 original,있어요,있다,covered
+S04-03 revised,편의점이,편의점,covered
+S04-03 revised,있어요,있다,covered
+S04-04 original,병원이,병원,covered
+S04-04 original,있어요,있다,covered
+S04-04 revised,병원이,병원,covered
+S04-04 revised,있어요,있다,covered
+S04-05 original,약국이,약국,covered
+S04-05 original,있어요,있다,covered
+S04-05 revised,약국이,약국,covered
+S04-05 revised,있어요,있다,covered
+S04-06 original,은행이,은행,covered
+S04-06 original,있어요,있다,covered
+S04-06 revised,은행이,은행,covered
+S04-06 revised,있어요,있다,covered
+S04-07 original,공원이,공원,covered
+S04-07 original,있어요,있다,covered
+S04-07 revised,공원이,공원,covered
+S04-07 revised,있어요,있다,covered
+S04-08 original,도서관이,도서관,covered
+S04-08 original,있어요,있다,covered
+S04-08 revised,도서관이,도서관,covered
+S04-08 revised,있어요,있다,covered
+S04-09 original,영화관이,영화관,covered
+S04-09 original,있어요,있다,covered
+S04-09 revised,영화관이,영화관,covered
+S04-09 revised,있어요,있다,covered
+S04-10 original,서점이,서점,covered
+S04-10 original,있어요,있다,covered
+S04-10 revised,서점이,서점,covered
+S04-10 revised,있어요,있다,covered
+S04-11 original,자주,자주,covered
+S04-11 original,가는,가다,covered
+S04-11 original,카페가,카페,covered
+S04-11 original,있어요,있다,covered
+S04-11 revised,자주,자주,covered
+S04-11 revised,가는,가다,covered
+S04-11 revised,카페가,카페,covered
+S04-11 revised,있어요,있다,covered
+S04-12 original,카페에서,카페,covered
+S04-12 original,뭐를,뭐,covered
+S04-12 original,해요,하다,covered
+S04-12 revised,카페에서,카페,covered
+S04-12 revised,뭐를,뭐,covered
+S04-12 revised,해요,하다,covered
+S04-13 original,공원에서,공원,covered
+S04-13 original,뭐를,뭐,covered
+S04-13 original,해요,하다,covered
+S04-13 revised,공원에서,공원,covered
+S04-13 revised,뭐를,뭐,covered
+S04-13 revised,해요,하다,covered
+S04-14 original,식당에서,식당,covered
+S04-14 original,뭐를,뭐,covered
+S04-14 original,자주,자주,covered
+S04-14 original,먹어요,먹다,covered
+S04-14 revised,식당에서,식당,covered
+S04-14 revised,뭐를,뭐,covered
+S04-14 revised,자주,자주,covered
+S04-14 revised,먹어요,먹다,covered
+S04-15 original,편의점에서,편의점,covered
+S04-15 original,뭐를,뭐,covered
+S04-15 original,사요,사다,covered
+S04-15 revised,편의점에서,편의점,covered
+S04-15 revised,뭐를,뭐,covered
+S04-15 revised,사요,사다,covered
+S04-16 original,서점에서,서점,covered
+S04-16 original,책을,책,covered
+S04-16 original,사요,사다,covered
+S04-16 revised,서점에서,서점,covered
+S04-16 revised,책을,책,covered
+S04-16 revised,사요,사다,covered
+S04-17 original,도서관에서,도서관,covered
+S04-17 original,공부해요,공부하다,covered
+S04-17 revised,도서관에서,도서관,covered
+S04-17 revised,공부해요,공부하다,covered
+S04-18 original,영화관에서,영화관,covered
+S04-18 original,영화를,영화,covered
+S04-18 original,자주,자주,covered
+S04-18 original,봐요,보다,covered
+S04-18 revised,영화관에서,영화관,covered
+S04-18 revised,영화를,영화,covered
+S04-18 revised,자주,자주,covered
+S04-18 revised,봐요,보다,covered
+S04-19 original,미용실에,미용실,covered
+S04-19 original,자주,자주,covered
+S04-19 original,가요,가다,covered
+S04-19 revised,미용실에,미용실,covered
+S04-19 revised,자주,자주,covered
+S04-19 revised,가요,가다,covered
+S04-20 original,병원에,병원,covered
+S04-20 original,자주,자주,covered
+S04-20 original,가요,가다,covered
+S04-20 revised,병원에,병원,covered
+S04-20 revised,자주,자주,covered
+S04-20 revised,가요,가다,covered
+S05-01 original,학교에,학교,covered
+S05-01 original,어떻게,어떻게,covered
+S05-01 original,가요,가다,covered
+S05-01 revised,학교에,학교,covered
+S05-01 revised,어떻게,어떻게,covered
+S05-01 revised,가요,가다,covered
+S05-02 original,회사에,회사,covered
+S05-02 original,어떻게,어떻게,covered
+S05-02 original,가요,가다,covered
+S05-02 revised,회사에,회사,covered
+S05-02 revised,어떻게,어떻게,covered
+S05-02 revised,가요,가다,covered
+S05-03 original,카페에,카페,covered
+S05-03 original,어떻게,어떻게,covered
+S05-03 original,가요,가다,covered
+S05-03 revised,카페에,카페,covered
+S05-03 revised,어떻게,어떻게,covered
+S05-03 revised,가요,가다,covered
+S05-04 original,공원에,공원,covered
+S05-04 original,어떻게,어떻게,covered
+S05-04 original,가요,가다,covered
+S05-04 revised,공원에,공원,covered
+S05-04 revised,어떻게,어떻게,covered
+S05-04 revised,가요,가다,covered
+S05-05 original,병원에,병원,covered
+S05-05 original,어떻게,어떻게,covered
+S05-05 original,가요,가다,covered
+S05-05 revised,병원에,병원,covered
+S05-05 revised,어떻게,어떻게,covered
+S05-05 revised,가요,가다,covered
+S05-06 original,공항에,공항,covered
+S05-06 original,어떻게,어떻게,covered
+S05-06 original,가요,가다,covered
+S05-06 revised,공항에,공항,covered
+S05-06 revised,어떻게,어떻게,covered
+S05-06 revised,가요,가다,covered
+S05-07 original,버스로,버스,covered
+S05-07 original,자주,자주,covered
+S05-07 original,가요,가다,covered
+S05-07 revised,버스로,버스,covered
+S05-07 revised,자주,자주,covered
+S05-07 revised,가요,가다,covered
+S05-08 original,지하철로,지하철,covered
+S05-08 original,자주,자주,covered
+S05-08 original,이동해요,이동하다,covered
+S05-08 revised,지하철로,지하철,covered
+S05-08 revised,자주,자주,covered
+S05-08 revised,이동해요,이동하다,covered
+S05-09 original,택시도,택시,covered
+S05-09 original,자주,자주,covered
+S05-09 original,타요,타다,covered
+S05-09 revised,택시도,택시,covered
+S05-09 revised,자주,자주,covered
+S05-09 revised,타요,타다,covered
+S05-10 original,자동차가,자동차,covered
+S05-10 original,있어요,있다,covered
+S05-10 revised,자동차가,자동차,covered
+S05-10 revised,있어요,있다,covered
+S05-11 original,자전거가,자전거,covered
+S05-11 original,있어요,있다,covered
+S05-11 revised,자전거가,자전거,covered
+S05-11 revised,있어요,있다,covered
+S05-12 original,자전거로,자전거,covered
+S05-12 original,공원에,공원,covered
+S05-12 original,가요,가다,covered
+S05-12 revised,자전거로,자전거,covered
+S05-12 revised,공원에,공원,covered
+S05-12 revised,가요,가다,covered
+S05-13 original,기차로,기차,covered
+S05-13 original,여행해요,여행하다,covered
+S05-13 revised,기차로,기차,covered
+S05-13 revised,여행해요,여행하다,covered
+S05-14 original,비행기로,비행기,covered
+S05-14 original,어디에,어디,covered
+S05-14 original,가고,가다,covered
+S05-14 original,싶어요,싶다,covered
+S05-14 revised,비행기로,비행기,covered
+S05-14 revised,어디에,어디,covered
+S05-14 revised,가고,가다,covered
+S05-14 revised,싶어요,싶다,covered
+S05-15 original,배로,배,covered
+S05-15 original,여행한,여행하다,covered
+S05-15 original,적이,적,covered
+S05-15 original,있어요,있다,covered
+S05-15 revised,배로,배,covered
+S05-15 revised,여행한,여행하다,covered
+S05-15 revised,적이,적,covered
+S05-15 revised,있어요,있다,covered
+S05-16 original,집에서,집,covered
+S05-16 original,학교까지,학교,covered
+S05-16 original,뭐로,뭐,covered
+S05-16 original,가요,가다,covered
+S05-16 revised,집에서,집,covered
+S05-16 revised,학교까지,학교,covered
+S05-16 revised,뭐로,뭐,covered
+S05-16 revised,가요,가다,covered
+S05-17 original,집에서,집,covered
+S05-17 original,회사까지,회사,covered
+S05-17 original,뭐로,뭐,covered
+S05-17 original,가요,가다,covered
+S05-17 revised,집에서,집,covered
+S05-17 revised,회사까지,회사,covered
+S05-17 revised,뭐로,뭐,covered
+S05-17 revised,가요,가다,covered
+S05-18 original,버스와,버스,covered
+S05-18 original,지하철,지하철,covered
+S05-18 original,중에,중,covered
+S05-18 original,뭐가,뭐,covered
+S05-18 original,좋아요,좋다,covered
+S05-18 revised,버스와,버스,covered
+S05-18 revised,지하철,지하철,covered
+S05-18 revised,중에,중,covered
+S05-18 revised,뭐가,뭐,covered
+S05-18 revised,좋아요,좋다,covered
+S05-19 original,택시가,택시,covered
+S05-19 original,비싸요,비싸다,covered
+S05-19 revised,택시가,택시,covered
+S05-19 revised,비싸요,비싸다,covered
+S05-20 original,지하철이,지하철,covered
+S05-20 original,편해요,편하다,covered
+S05-20 revised,지하철이,지하철,covered
+S05-20 revised,편해요,편하다,covered
+S06-01 original,카페가,카페,covered
+S06-01 original,어디에,어디,covered
+S06-01 original,있어요,있다,covered
+S06-01 revised,카페가,카페,covered
+S06-01 revised,어디에,어디,covered
+S06-01 revised,있어요,있다,covered
+S06-02 original,학교,학교,covered
+S06-02 original,앞에,앞,covered
+S06-02 original,뭐가,뭐,covered
+S06-02 original,있어요,있다,covered
+S06-02 revised,학교,학교,covered
+S06-02 revised,앞에,앞,covered
+S06-02 revised,뭐가,뭐,covered
+S06-02 revised,있어요,있다,covered
+S06-03 original,학교,학교,covered
+S06-03 original,뒤에,뒤,covered
+S06-03 original,뭐가,뭐,covered
+S06-03 original,있어요,있다,covered
+S06-03 revised,학교,학교,covered
+S06-03 revised,뒤에,뒤,covered
+S06-03 revised,뭐가,뭐,covered
+S06-03 revised,있어요,있다,covered
+S06-04 original,편의점이,편의점,covered
+S06-04 original,카페,카페,covered
+S06-04 original,앞에,앞,covered
+S06-04 original,있어요,있다,covered
+S06-04 revised,편의점이,편의점,covered
+S06-04 revised,카페,카페,covered
+S06-04 revised,앞에,앞,covered
+S06-04 revised,있어요,있다,covered
+S06-05 original,약국이,약국,covered
+S06-05 original,병원,병원,covered
+S06-05 original,옆에,옆,covered
+S06-05 original,있어요,있다,covered
+S06-05 revised,약국이,약국,covered
+S06-05 revised,병원,병원,covered
+S06-05 revised,옆에,옆,covered
+S06-05 revised,있어요,있다,covered
+S06-06 original,오른쪽으로,오른쪽,covered
+S06-06 original,가요,가다,covered
+S06-06 original,왼쪽으로,왼쪽,covered
+S06-06 original,가요,가다,covered
+S06-06 revised,오른쪽으로,오른쪽,covered
+S06-06 revised,가요,가다,covered
+S06-06 revised,왼쪽으로,왼쪽,covered
+S06-06 revised,가요,가다,covered
+S06-07 original,먼저,먼저,covered
+S06-07 original,어디로,어디,covered
+S06-07 original,가요,가다,covered
+S06-07 revised,먼저,먼저,covered
+S06-07 revised,어디로,어디,covered
+S06-07 revised,가요,가다,covered
+S06-08 original,그다음,그다음,covered
+S06-08 original,어디로,어디,covered
+S06-08 original,가요,가다,covered
+S06-08 revised,그다음,그다음,covered
+S06-08 revised,어디로,어디,covered
+S06-08 revised,가요,가다,covered
+S06-09 original,오른쪽으로,오른쪽,covered
+S06-09 original,천천히,천천히,covered
+S06-09 original,가요,가다,covered
+S06-09 revised,오른쪽으로,오른쪽,covered
+S06-09 revised,천천히,천천히,covered
+S06-09 revised,가요,가다,covered
+S06-10 original,왼쪽으로,왼쪽,covered
+S06-10 original,빨리,빨리,covered
+S06-10 original,가요,가다,covered
+S06-10 revised,왼쪽으로,왼쪽,covered
+S06-10 revised,빨리,빨리,covered
+S06-10 revised,가요,가다,covered
+S06-11 original,역에서,역,covered
+S06-11 original,카페까지,카페,covered
+S06-11 original,어떻게,어떻게,covered
+S06-11 original,가요,가다,covered
+S06-11 revised,역에서,역,covered
+S06-11 revised,카페까지,카페,covered
+S06-11 revised,어떻게,어떻게,covered
+S06-11 revised,가요,가다,covered
+S06-12 original,카페가,카페,covered
+S06-12 original,역에서,역,covered
+S06-12 original,가까워요,가깝다,covered
+S06-12 revised,카페가,카페,covered
+S06-12 revised,역에서,역,covered
+S06-12 revised,가까워요,가깝다,covered
+S06-13 original,회사가,회사,covered
+S06-13 original,집에서,집,covered
+S06-13 original,멀어요,멀다,covered
+S06-13 revised,회사가,회사,covered
+S06-13 revised,집에서,집,covered
+S06-13 revised,멀어요,멀다,covered
+S06-14 original,학교가,학교,covered
+S06-14 original,집에서,집,covered
+S06-14 original,가까워요,가깝다,covered
+S06-14 revised,학교가,학교,covered
+S06-14 revised,집에서,집,covered
+S06-14 revised,가까워요,가깝다,covered
+S06-15 original,공원이,공원,covered
+S06-15 original,어디에,어디,covered
+S06-15 original,있어요,있다,covered
+S06-15 revised,공원이,공원,covered
+S06-15 revised,어디에,어디,covered
+S06-15 revised,있어요,있다,covered
+S07-01 original,이름을,이름,covered
+S07-01 original,뭐로,뭐,covered
+S07-01 original,써요,쓰다,covered
+S07-01 revised,이름을,이름,covered
+S07-01 revised,뭐로,뭐,covered
+S07-01 revised,써요,쓰다,covered
+S07-02 original,볼펜으로,볼펜,covered
+S07-02 original,이름을,이름,covered
+S07-02 original,써요,쓰다,covered
+S07-02 revised,볼펜으로,볼펜,covered
+S07-02 revised,이름을,이름,covered
+S07-02 revised,써요,쓰다,covered
+S07-03 original,연필로도,연필,covered
+S07-03 original,써요,쓰다,covered
+S07-03 revised,연필로도,연필,covered
+S07-03 revised,써요,쓰다,covered
+S07-04 original,종이를,종이,covered
+S07-04 original,뭐로,뭐,covered
+S07-04 original,잘라요,자르다,covered
+S07-04 revised,종이를,종이,covered
+S07-04 revised,뭐로,뭐,covered
+S07-04 revised,잘라요,자르다,covered
+S07-05 original,가위로,가위,covered
+S07-05 original,종이를,종이,covered
+S07-05 original,잘라요,자르다,covered
+S07-05 revised,가위로,가위,covered
+S07-05 revised,종이를,종이,covered
+S07-05 revised,잘라요,자르다,covered
+S07-06 original,칼로,칼,covered
+S07-06 original,무엇을,무엇,covered
+S07-06 original,잘라요,자르다,covered
+S07-06 revised,칼로,칼,covered
+S07-06 revised,무엇을,무엇,covered
+S07-06 revised,잘라요,자르다,covered
+S07-07 original,밥을,밥,covered
+S07-07 original,뭐로,뭐,covered
+S07-07 original,먹어요,먹다,covered
+S07-07 revised,밥을,밥,covered
+S07-07 revised,뭐로,뭐,covered
+S07-07 revised,먹어요,먹다,covered
+S07-08 original,숟가락으로,숟가락,covered
+S07-08 original,먹어요,먹다,covered
+S07-08 revised,숟가락으로,숟가락,covered
+S07-08 revised,먹어요,먹다,covered
+S07-09 original,젓가락으로도,젓가락,covered
+S07-09 original,먹어요,먹다,covered
+S07-09 revised,젓가락으로도,젓가락,covered
+S07-09 revised,먹어요,먹다,covered
+S07-10 original,물을,물,covered
+S07-10 original,뭐로,뭐,covered
+S07-10 original,마셔요,마시다,covered
+S07-10 revised,물을,물,covered
+S07-10 revised,뭐로,뭐,covered
+S07-10 revised,마셔요,마시다,covered
+S07-11 original,사진을,사진,covered
+S07-11 original,뭐로,뭐,covered
+S07-11 original,찍어요,찍다,covered
+S07-11 revised,사진을,사진,covered
+S07-11 revised,뭐로,뭐,covered
+S07-11 revised,찍어요,찍다,covered
+S07-12 original,휴대폰으로,휴대폰,covered
+S07-12 original,사진을,사진,covered
+S07-12 original,찍어요,찍다,covered
+S07-12 revised,휴대폰으로,휴대폰,covered
+S07-12 revised,사진을,사진,covered
+S07-12 revised,찍어요,찍다,covered
+S07-13 original,카메라로도,카메라,covered
+S07-13 original,사진을,사진,covered
+S07-13 original,찍어요,찍다,covered
+S07-13 revised,카메라로도,카메라,covered
+S07-13 revised,사진을,사진,covered
+S07-13 revised,찍어요,찍다,covered
+S07-14 original,컴퓨터로,컴퓨터,covered
+S07-14 original,뭐를,뭐,covered
+S07-14 original,해요,하다,covered
+S07-14 revised,컴퓨터로,컴퓨터,covered
+S07-14 revised,뭐를,뭐,covered
+S07-14 revised,해요,하다,covered
+S07-15 original,인터넷으로,인터넷,covered
+S07-15 original,뭐를,뭐,covered
+S07-15 original,찾아요,찾다,covered
+S07-15 revised,인터넷으로,인터넷,covered
+S07-15 revised,뭐를,뭐,covered
+S07-15 revised,찾아요,찾다,covered
+S07-16 original,휴대폰으로,휴대폰,covered
+S07-16 original,메시지를,메시지,covered
+S07-16 original,보내요,보내다,covered
+S07-16 revised,휴대폰으로,휴대폰,covered
+S07-16 revised,메시지를,메시지,covered
+S07-16 revised,보내요,보내다,covered
+S07-17 original,카드로,카드,covered
+S07-17 original,자주,자주,covered
+S07-17 original,사요,사다,covered
+S07-17 revised,물건을,물건,covered
+S07-17 revised,카드로,카드,covered
+S07-17 revised,자주,자주,covered
+S07-17 revised,사요,사다,covered
+S07-18 original,현금만,현금,covered
+S07-18 original,사용해요,사용하다,covered
+S07-18 revised,현금만,현금,covered
+S07-18 revised,사용해요,사용하다,covered
+S07-19 original,영어로,영어,covered
+S07-19 original,말해요,말하다,covered
+S07-19 revised,영어로,영어,covered
+S07-19 revised,말해요,말하다,covered
+S07-20 original,한국어로도,한국어,covered
+S07-20 original,말해요,말하다,covered
+S07-20 revised,한국어로도,한국어,covered
+S07-20 revised,말해요,말하다,covered
+S08-01 original,커피를,커피,covered
+S08-01 original,마셔요,마시다,covered
+S08-01 revised,커피를,커피,covered
+S08-01 revised,마셔요,마시다,covered
+S08-02 original,차도,차,covered
+S08-02 original,마셔요,마시다,covered
+S08-02 revised,차도,차,covered
+S08-02 revised,마셔요,마시다,covered
+S08-03 original,커피만,커피,covered
+S08-03 original,마셔요,마시다,covered
+S08-03 revised,커피만,커피,covered
+S08-03 revised,마셔요,마시다,covered
+S08-04 original,빵을,빵,covered
+S08-04 original,먹어요,먹다,covered
+S08-04 revised,빵을,빵,covered
+S08-04 revised,먹어요,먹다,covered
+S08-05 original,사과도,사과,covered
+S08-05 original,먹어요,먹다,covered
+S08-05 revised,사과도,사과,covered
+S08-05 revised,먹어요,먹다,covered
+S08-06 original,아침에,아침,covered
+S08-06 original,빵만,빵,covered
+S08-06 original,먹어요,먹다,covered
+S08-06 revised,아침에,아침,covered
+S08-06 revised,빵만,빵,covered
+S08-06 revised,먹어요,먹다,covered
+S08-07 original,영화를,영화,covered
+S08-07 original,봐요,보다,covered
+S08-07 revised,영화를,영화,covered
+S08-07 revised,봐요,보다,covered
+S08-08 original,음악도,음악,covered
+S08-08 original,들어요,듣다,covered
+S08-08 revised,음악도,음악,covered
+S08-08 revised,들어요,듣다,covered
+S08-09 original,영화만,영화,covered
+S08-09 original,좋아해요,좋아하다,covered
+S08-09 revised,영화만,영화,covered
+S08-09 revised,좋아해요,좋아하다,covered
+S08-10 original,한국어를,한국어,covered
+S08-10 original,공부해요,공부하다,covered
+S08-10 revised,한국어를,한국어,covered
+S08-10 revised,공부해요,공부하다,covered
+S08-11 original,영어도,영어,covered
+S08-11 original,공부해요,공부하다,covered
+S08-11 revised,영어도,영어,covered
+S08-11 revised,공부해요,공부하다,covered
+S08-12 original,한국어만,한국어,covered
+S08-12 original,공부해요,공부하다,covered
+S08-12 revised,한국어만,한국어,covered
+S08-12 revised,공부해요,공부하다,covered
+S08-13 original,친구도,친구,covered
+S08-13 original,한국어를,한국어,covered
+S08-13 original,공부해요,공부하다,covered
+S08-13 revised,친구도,친구,covered
+S08-13 revised,한국어를,한국어,covered
+S08-13 revised,공부해요,공부하다,covered
+S08-14 original,가족도,가족,covered
+S08-14 original,영화를,영화,covered
+S08-14 original,좋아해요,좋아하다,covered
+S08-14 revised,가족도,가족,covered
+S08-14 revised,영화를,영화,covered
+S08-14 revised,좋아해요,좋아하다,covered
+S08-15 original,오늘,오늘,covered
+S08-15 original,수업만,수업,covered
+S08-15 original,있어요,있다,covered
+S08-15 revised,오늘,오늘,covered
+S08-15 revised,수업만,수업,covered
+S08-15 revised,있어요,있다,covered
+S08-16 original,오늘,오늘,covered
+S08-16 original,일도,일,covered
+S08-16 original,해요,하다,covered
+S08-16 revised,오늘,오늘,covered
+S08-16 revised,일도,일,covered
+S08-16 revised,해요,하다,covered
+S08-17 original,휴대폰만,휴대폰,covered
+S08-17 original,가지고,가지다,covered
+S08-17 original,있어요,있다,covered
+S08-17 revised,휴대폰만,휴대폰,covered
+S08-17 revised,가지고,가지다,covered
+S08-17 revised,있어요,있다,covered
+S08-18 original,컴퓨터도,컴퓨터,covered
+S08-18 original,있어요,있다,covered
+S08-18 revised,컴퓨터도,컴퓨터,covered
+S08-18 revised,있어요,있다,covered
+S08-19 original,카드만,카드,covered
+S08-19 original,사용해요,사용하다,covered
+S08-19 revised,카드만,카드,covered
+S08-19 revised,사용해요,사용하다,covered
+S08-20 original,현금도,현금,covered
+S08-20 original,사용해요,사용하다,covered
+S08-20 revised,현금도,현금,covered
+S08-20 revised,사용해요,사용하다,covered
+S09-01 original,이건,이것,covered
+S09-01 original,누구의,누구,covered
+S09-01 original,휴대폰이에요,휴대폰,covered
+S09-01 revised,이건,이것,covered
+S09-01 revised,누구의,누구,covered
+S09-01 revised,휴대폰이에요,휴대폰,covered
+S09-02 original,이건,이것,covered
+S09-02 original,누구의,누구,covered
+S09-02 original,가방이에요,가방,covered
+S09-02 revised,이건,이것,covered
+S09-02 revised,누구의,누구,covered
+S09-02 revised,가방이에요,가방,covered
+S09-03 original,이건,이것,covered
+S09-03 original,누구의,누구,covered
+S09-03 original,책이에요,책,covered
+S09-03 revised,이건,이것,covered
+S09-03 revised,누구의,누구,covered
+S09-03 revised,책이에요,책,covered
+S09-04 original,이건,이것,covered
+S09-04 original,누구의,누구,covered
+S09-04 original,지갑이에요,지갑,covered
+S09-04 revised,이건,이것,covered
+S09-04 revised,누구의,누구,covered
+S09-04 revised,지갑이에요,지갑,covered
+S09-05 original,이건,이것,covered
+S09-05 original,누구의,누구,covered
+S09-05 original,우산이에요,우산,covered
+S09-05 revised,이건,이것,covered
+S09-05 revised,누구의,누구,covered
+S09-05 revised,우산이에요,우산,covered
+S09-06 original,이건,이것,covered
+S09-06 original,누구의,누구,covered
+S09-06 original,시계예요,시계,covered
+S09-06 revised,이건,이것,covered
+S09-06 revised,누구의,누구,covered
+S09-06 revised,시계예요,시계,covered
+S09-07 original,친구의,친구,covered
+S09-07 original,이름이,이름,covered
+S09-07 original,뭐예요,뭐,covered
+S09-07 revised,친구의,친구,covered
+S09-07 revised,이름이,이름,covered
+S09-07 revised,뭐예요,뭐,covered
+S09-08 original,선생님의,선생님,covered
+S09-08 original,이름이,이름,covered
+S09-08 original,뭐예요,뭐,covered
+S09-08 revised,선생님의,선생님,covered
+S09-08 revised,이름이,이름,covered
+S09-08 revised,뭐예요,뭐,covered
+S09-09 original,어머니의,어머니,covered
+S09-09 original,휴대폰이,휴대폰,covered
+S09-09 original,커요,크다,covered
+S09-09 revised,어머니의,어머니,covered
+S09-09 revised,휴대폰이,휴대폰,covered
+S09-09 revised,커요,크다,covered
+S09-10 original,아버지의,아버지,covered
+S09-10 original,자동차가,자동차,covered
+S09-10 original,있어요,있다,covered
+S09-10 revised,아버지의,아버지,covered
+S09-10 revised,자동차가,자동차,covered
+S09-10 revised,집에,집,covered
+S09-10 revised,있어요,있다,covered
+S09-11 original,가족의,가족,covered
+S09-11 original,사진이,사진,covered
+S09-11 original,있어요,있다,covered
+S09-11 revised,가족의,가족,covered
+S09-11 revised,사진이,사진,covered
+S09-11 revised,있어요,있다,covered
+S09-12 original,친구의,친구,covered
+S09-12 original,사진이,사진,covered
+S09-12 original,있어요,있다,covered
+S09-12 revised,친구의,친구,covered
+S09-12 revised,사진이,사진,covered
+S09-12 revised,있어요,있다,covered
+S09-13 original,학교의,학교,covered
+S09-13 original,이름이,이름,covered
+S09-13 original,뭐예요,뭐,covered
+S09-13 revised,학교의,학교,covered
+S09-13 revised,이름이,이름,covered
+S09-13 revised,뭐예요,뭐,covered
+S09-14 original,회사의,회사,covered
+S09-14 original,이름이,이름,covered
+S09-14 original,뭐예요,뭐,covered
+S09-14 revised,회사의,회사,covered
+S09-14 revised,이름이,이름,covered
+S09-14 revised,뭐예요,뭐,covered
+S09-15 original,한국어,한국어,covered
+S09-15 original,수업의,수업,covered
+S09-15 original,숙제가,숙제,covered
+S09-15 original,많아요,많다,covered
+S09-15 revised,한국어,한국어,covered
+S09-15 revised,수업의,수업,covered
+S09-15 revised,숙제가,숙제,covered
+S09-15 revised,많아요,많다,covered
+S10-01 original,생일에,생일,covered
+S10-01 original,누구한테,누구,covered
+S10-01 original,선물을,선물,covered
+S10-01 original,줘요,주다,covered
+S10-01 revised,생일에,생일,covered
+S10-01 revised,누구한테,누구,covered
+S10-01 revised,선물을,선물,covered
+S10-01 revised,줘요,주다,covered
+S10-02 original,친구한테,친구,covered
+S10-02 original,선물을,선물,covered
+S10-02 original,자주,자주,covered
+S10-02 original,줘요,주다,covered
+S10-02 revised,친구한테,친구,covered
+S10-02 revised,선물을,선물,covered
+S10-02 revised,자주,자주,covered
+S10-02 revised,줘요,주다,covered
+S10-03 original,가족한테,가족,covered
+S10-03 original,선물을,선물,covered
+S10-03 original,줘요,주다,covered
+S10-03 revised,가족한테,가족,covered
+S10-03 revised,선물을,선물,covered
+S10-03 revised,줘요,주다,covered
+S10-04 original,누구한테,누구,covered
+S10-04 original,책을,책,covered
+S10-04 original,줘요,주다,covered
+S10-04 revised,누구한테,누구,covered
+S10-04 revised,책을,책,covered
+S10-04 revised,줘요,주다,covered
+S10-05 original,아기한테,아기,covered
+S10-05 original,뭐를,뭐,covered
+S10-05 original,줘요,주다,covered
+S10-05 revised,아기한테,아기,covered
+S10-05 revised,뭐를,뭐,covered
+S10-05 revised,줘요,주다,covered
+S10-06 original,강아지한테,강아지,covered
+S10-06 original,뭐를,뭐,covered
+S10-06 original,줘요,주다,covered
+S10-06 revised,강아지한테,강아지,covered
+S10-06 revised,뭐를,뭐,covered
+S10-06 revised,줘요,주다,covered
+S10-07 original,고양이한테,고양이,covered
+S10-07 original,물을,물,covered
+S10-07 original,줘요,주다,covered
+S10-07 revised,고양이한테,고양이,covered
+S10-07 revised,물을,물,covered
+S10-07 revised,줘요,주다,covered
+S10-08 original,손님한테,손님,covered
+S10-08 original,물을,물,covered
+S10-08 original,줘요,주다,covered
+S10-08 revised,손님한테,손님,covered
+S10-08 revised,물을,물,covered
+S10-08 revised,줘요,주다,covered
+S10-09 original,친구한테,친구,covered
+S10-09 original,사진을,사진,covered
+S10-09 original,보내요,보내다,covered
+S10-09 revised,친구한테,친구,covered
+S10-09 revised,사진을,사진,covered
+S10-09 revised,보내요,보내다,covered
+S10-10 original,가족한테,가족,covered
+S10-10 original,메시지를,메시지,covered
+S10-10 original,보내요,보내다,covered
+S10-10 revised,가족한테,가족,covered
+S10-10 revised,메시지를,메시지,covered
+S10-10 revised,보내요,보내다,covered
+S10-11 original,누구한테,누구,covered
+S10-11 original,문자를,문자,covered
+S10-11 original,자주,자주,covered
+S10-11 original,보내요,보내다,covered
+S10-11 revised,누구한테,누구,covered
+S10-11 revised,문자를,문자,covered
+S10-11 revised,자주,자주,covered
+S10-11 revised,보내요,보내다,covered
+S10-12 original,누구한테,누구,covered
+S10-12 original,이메일을,이메일,covered
+S10-12 original,보내요,보내다,covered
+S10-12 revised,누구한테,누구,covered
+S10-12 revised,이메일을,이메일,covered
+S10-12 revised,보내요,보내다,covered
+S10-13 original,동료에게,동료,covered
+S10-13 original,이메일을,이메일,covered
+S10-13 original,보내요,보내다,covered
+S10-13 revised,동료에게,동료,covered
+S10-13 revised,이메일을,이메일,covered
+S10-13 revised,보내요,보내다,covered
+S10-14 original,교수님에게,교수,covered
+S10-14 original,이메일을,이메일,covered
+S10-14 original,보내요,보내다,covered
+S10-14 revised,교수님에게,교수,covered
+S10-14 revised,이메일을,이메일,covered
+S10-14 revised,보내요,보내다,covered
+S10-15 original,누구한테,누구,covered
+S10-15 original,전화를,전화,covered
+S10-15 original,자주,자주,covered
+S10-15 original,해요,하다,covered
+S10-15 revised,누구한테,누구,covered
+S10-15 revised,전화를,전화,covered
+S10-15 revised,자주,자주,covered
+S10-15 revised,해요,하다,covered
+S10-16 original,부모님한테,부모님,covered
+S10-16 original,전화해요,전화하다,covered
+S10-16 revised,부모님한테,부모님,covered
+S10-16 revised,전화해요,전화하다,covered
+S10-17 original,친구한테도,친구,covered
+S10-17 original,전화해요,전화하다,covered
+S10-17 revised,친구한테도,친구,covered
+S10-17 revised,전화해요,전화하다,covered
+S10-18 original,누구한테,누구,covered
+S10-18 original,도움을,도움,covered
+S10-18 original,부탁해요,부탁하다,covered
+S10-18 revised,누구한테,누구,covered
+S10-18 revised,도움을,도움,covered
+S10-18 revised,부탁해요,부탁하다,covered
+S10-19 original,누구한테,누구,covered
+S10-19 original,질문해요,질문하다,covered
+S10-19 revised,누구한테,누구,covered
+S10-19 revised,질문해요,질문하다,covered
+S10-20 original,누구한테,누구,covered
+S10-20 original,한국어를,한국어,covered
+S10-20 original,가르치고,가르치다,covered
+S10-20 original,싶어요,싶다,covered
+S10-20 revised,누구한테,누구,covered
+S10-20 revised,한국어를,한국어,covered
+S10-20 revised,가르치고,가르치다,covered
+S10-20 revised,싶어요,싶다,covered
+S11-01 original,문제가,문제,covered
+S11-01 original,있으면,있다,covered
+S11-01 original,누구한테,누구,covered
+S11-01 original,물어요,묻다,covered
+S11-01 revised,문제가,문제,covered
+S11-01 revised,있으면,있다,covered
+S11-01 revised,누구한테,누구,covered
+S11-01 revised,물어요,묻다,covered
+S11-02 original,선생님한테,선생님,covered
+S11-02 original,무엇을,무엇,covered
+S11-02 original,물어요,묻다,covered
+S11-02 revised,선생님한테,선생님,covered
+S11-02 revised,무엇을,무엇,covered
+S11-02 revised,물어요,묻다,covered
+S11-03 original,경찰에게,경찰,covered
+S11-03 original,무엇을,무엇,covered
+S11-03 original,물어요,묻다,covered
+S11-03 revised,경찰에게,경찰,covered
+S11-03 revised,무엇을,무엇,covered
+S11-03 revised,물어요,묻다,covered
+S11-04 original,간호사에게,간호사,covered
+S11-04 original,질문해요,질문하다,covered
+S11-04 revised,간호사에게,간호사,covered
+S11-04 revised,질문해요,질문하다,covered
+S11-05 original,사장님에게,사장님,covered
+S11-05 original,연락해요,연락하다,covered
+S11-05 revised,사장님에게,사장님,covered
+S11-05 revised,연락해요,연락하다,covered
+S11-06 original,동료한테,동료,covered
+S11-06 original,자주,자주,covered
+S11-06 original,연락해요,연락하다,covered
+S11-06 revised,동료한테,동료,covered
+S11-06 revised,자주,자주,covered
+S11-06 revised,연락해요,연락하다,covered
+S11-07 original,부모님한테,부모님,covered
+S11-07 original,자주,자주,covered
+S11-07 original,전화해요,전화하다,covered
+S11-07 revised,부모님한테,부모님,covered
+S11-07 revised,자주,자주,covered
+S11-07 revised,전화해요,전화하다,covered
+S11-08 original,친구한테,친구,covered
+S11-08 original,문자를,문자,covered
+S11-08 original,보내요,보내다,covered
+S11-08 revised,친구한테,친구,covered
+S11-08 revised,문자를,문자,covered
+S11-08 revised,보내요,보내다,covered
+S11-09 original,가족한테,가족,covered
+S11-09 original,사진을,사진,covered
+S11-09 original,보내요,보내다,covered
+S11-09 revised,가족한테,가족,covered
+S11-09 revised,사진을,사진,covered
+S11-09 revised,보내요,보내다,covered
+S11-10 original,누구한테,누구,covered
+S11-10 original,주소를,주소,covered
+S11-10 original,알려줘요,알려주다,covered
+S11-10 revised,누구한테,누구,covered
+S11-10 revised,주소를,주소,covered
+S11-10 revised,알려줘요,알려주다,covered
+S11-11 original,누구한테,누구,covered
+S11-11 original,전화번호를,전화번호,covered
+S11-11 original,알려줘요,알려주다,covered
+S11-11 revised,누구한테,누구,covered
+S11-11 revised,전화번호를,전화번호,covered
+S11-11 revised,알려줘요,알려주다,covered
+S11-12 original,친구한테,친구,covered
+S11-12 original,소식을,소식,covered
+S11-12 original,전해요,전하다,covered
+S11-12 revised,친구한테,친구,covered
+S11-12 revised,소식을,소식,covered
+S11-12 revised,전해요,전하다,covered
+S11-13 original,후배에게,후배,covered
+S11-13 original,조언을,조언,covered
+S11-13 original,해요,하다,covered
+S11-13 revised,후배에게,후배,covered
+S11-13 revised,조언을,조언,covered
+S11-13 revised,해요,하다,covered
+S11-14 original,선배에게,선배,covered
+S11-14 original,도움을,도움,covered
+S11-14 original,부탁해요,부탁하다,covered
+S11-14 revised,선배에게,선배,covered
+S11-14 revised,도움을,도움,covered
+S11-14 revised,부탁해요,부탁하다,covered
+S11-15 original,외국인에게,외국인,covered
+S11-15 original,한국어를,한국어,covered
+S11-15 original,가르쳐요,가르치다,covered
+S11-15 revised,외국인에게,외국인,covered
+S11-15 revised,한국어를,한국어,covered
+S11-15 revised,가르쳐요,가르치다,covered
+S11-16 original,한국인한테,한국인,covered
+S11-16 original,한국어를,한국어,covered
+S11-16 original,물어봐요,물어보다,covered
+S11-16 revised,한국인한테,한국인,covered
+S11-16 revised,한국어를,한국어,covered
+S11-16 revised,물어봐요,물어보다,covered
+S11-17 original,선생님에게,선생님,covered
+S11-17 original,대답해요,대답하다,covered
+S11-17 revised,선생님에게,선생님,covered
+S11-17 revised,대답해요,대답하다,covered
+S11-18 original,어른에게,어른,covered
+S11-18 original,인사해요,인사하다,covered
+S11-18 revised,어른에게,어른,covered
+S11-18 revised,인사해요,인사하다,covered
+S11-19 original,손님에게,손님,covered
+S11-19 original,친절해요,친절하다,covered
+S11-19 revised,손님에게,손님,covered
+S11-19 revised,친절해요,친절하다,covered
+S11-20 original,누구에게,누구,covered
+S11-20 original,고마워요,고맙다,covered
+S11-20 revised,누구에게,누구,covered
+S11-20 revised,고마워요,고맙다,covered
+S12-01 original,오늘,오늘,covered
+S12-01 original,어디에,어디,covered
+S12-01 original,가요,가다,covered
+S12-01 revised,오늘,오늘,covered
+S12-01 revised,어디에,어디,covered
+S12-01 revised,가요,가다,covered
+S12-02 original,거기에,거기,covered
+S12-02 original,어떻게,어떻게,covered
+S12-02 original,가요,가다,covered
+S12-02 revised,거기에,거기,covered
+S12-02 revised,어떻게,어떻게,covered
+S12-02 revised,가요,가다,covered
+S12-03 original,누구를,누구,covered
+S12-03 original,만나요,만나다,covered
+S12-03 revised,누구를,누구,covered
+S12-03 revised,만나요,만나다,covered
+S12-04 original,어디에서,어디,covered
+S12-04 original,만나요,만나다,covered
+S12-04 revised,어디에서,어디,covered
+S12-04 revised,만나요,만나다,covered
+S12-05 original,거기에서,거기,covered
+S12-05 original,뭐를,뭐,covered
+S12-05 original,해요,하다,covered
+S12-05 revised,거기에서,거기,covered
+S12-05 revised,뭐를,뭐,covered
+S12-05 revised,해요,하다,covered
+S12-06 original,뭐를,뭐,covered
+S12-06 original,먹어요,먹다,covered
+S12-06 revised,뭐를,뭐,covered
+S12-06 revised,먹어요,먹다,covered
+S12-07 original,뭐를,뭐,covered
+S12-07 original,마셔요,마시다,covered
+S12-07 revised,뭐를,뭐,covered
+S12-07 revised,마셔요,마시다,covered
+S12-08 original,친구도,친구,covered
+S12-08 original,같은,같다,covered
+S12-08 original,음식을,음식,covered
+S12-08 original,먹어요,먹다,covered
+S12-08 revised,친구도,친구,covered
+S12-08 revised,같은,같다,covered
+S12-08 revised,음식을,음식,covered
+S12-08 revised,먹어요,먹다,covered
+S12-09 original,친구는,친구,covered
+S12-09 original,뭐만,뭐,covered
+S12-09 original,먹어요,먹다,covered
+S12-09 revised,친구는,친구,covered
+S12-09 revised,뭐만,뭐,covered
+S12-09 revised,먹어요,먹다,covered
+S12-10 original,사진을,사진,covered
+S12-10 original,찍어요,찍다,covered
+S12-10 revised,사진을,사진,covered
+S12-10 revised,찍어요,찍다,covered
+S12-11 original,뭐로,뭐,covered
+S12-11 original,사진을,사진,covered
+S12-11 original,찍어요,찍다,covered
+S12-11 revised,뭐로,뭐,covered
+S12-11 revised,사진을,사진,covered
+S12-11 revised,찍어요,찍다,covered
+S12-12 original,사진을,사진,covered
+S12-12 original,누구한테,누구,covered
+S12-12 original,보내요,보내다,covered
+S12-12 revised,사진을,사진,covered
+S12-12 revised,누구한테,누구,covered
+S12-12 revised,보내요,보내다,covered
+S12-13 original,그,그,covered
+S12-13 original,사람한테,사람,covered
+S12-13 original,메시지도,메시지,covered
+S12-13 original,보내요,보내다,covered
+S12-13 revised,그,그,covered
+S12-13 revised,사람한테,사람,covered
+S12-13 revised,메시지도,메시지,covered
+S12-13 revised,보내요,보내다,covered
+S12-14 original,그다음,그다음,covered
+S12-14 original,어디에,어디,covered
+S12-14 original,가요,가다,covered
+S12-14 revised,그다음,그다음,covered
+S12-14 revised,어디에,어디,covered
+S12-14 revised,가요,가다,covered
+S12-15 original,거기에,거기,covered
+S12-15 original,어떻게,어떻게,covered
+S12-15 original,가요,가다,covered
+S12-15 revised,거기에,거기,covered
+S12-15 revised,어떻게,어떻게,covered
+S12-15 revised,가요,가다,covered
+S12-16 original,집에,집,covered
+S12-16 original,언제,언제,covered
+S12-16 original,와요,오다,covered
+S12-16 revised,집에,집,covered
+S12-16 revised,언제,언제,covered
+S12-16 revised,와요,오다,covered
+S12-17 original,집에서,집,covered
+S12-17 original,뭐를,뭐,covered
+S12-17 original,해요,하다,covered
+S12-17 revised,집에서,집,covered
+S12-17 revised,뭐를,뭐,covered
+S12-17 revised,해요,하다,covered
+S12-18 original,누구한테,누구,covered
+S12-18 original,전화해요,전화하다,covered
+S12-18 revised,누구한테,누구,covered
+S12-18 revised,전화해요,전화하다,covered
+S12-19 original,숙제도,숙제,covered
+S12-19 original,해요,하다,covered
+S12-19 revised,숙제도,숙제,covered
+S12-19 revised,해요,하다,covered
+S12-20 original,오늘,오늘,covered
+S12-20 original,뭐가,뭐,covered
+S12-20 original,재미있어요,재미있다,covered
+S12-20 revised,오늘,오늘,covered
+S12-20 revised,뭐가,뭐,covered
+S12-20 revised,재미있어요,재미있다,covered
+S13-01 original,어디에,어디,covered
+S13-01 original,가요,가다,covered
+S13-01 revised,어디에,어디,covered
+S13-01 revised,가요,가다,covered
+S13-02 original,카페에,카페,covered
+S13-02 original,어떻게,어떻게,covered
+S13-02 original,가요,가다,covered
+S13-02 revised,카페에,카페,covered
+S13-02 revised,어떻게,어떻게,covered
+S13-02 revised,가요,가다,covered
+S13-03 original,버스로,버스,covered
+S13-03 original,가요,가다,covered
+S13-03 original,지하철로,지하철,covered
+S13-03 original,가요,가다,covered
+S13-03 revised,버스로,버스,covered
+S13-03 revised,가요,가다,covered
+S13-03 revised,지하철로,지하철,covered
+S13-03 revised,가요,가다,covered
+S13-04 original,누구를,누구,covered
+S13-04 original,만나요,만나다,covered
+S13-04 revised,누구를,누구,covered
+S13-04 revised,만나요,만나다,covered
+S13-05 original,친구는,친구,covered
+S13-05 original,어디에,어디,covered
+S13-05 original,있어요,있다,covered
+S13-05 revised,친구는,친구,covered
+S13-05 revised,어디에,어디,covered
+S13-05 revised,있어요,있다,covered
+S13-06 original,카페,카페,covered
+S13-06 original,안에,안,covered
+S13-06 original,있어요,있다,covered
+S13-06 original,밖에,밖,covered
+S13-06 original,있어요,있다,covered
+S13-06 revised,카페,카페,covered
+S13-06 revised,안에,안,covered
+S13-06 revised,있어요,있다,covered
+S13-06 revised,밖에,밖,covered
+S13-06 revised,있어요,있다,covered
+S13-07 original,카페에서,카페,covered
+S13-07 original,뭐를,뭐,covered
+S13-07 original,마셔요,마시다,covered
+S13-07 revised,카페에서,카페,covered
+S13-07 revised,뭐를,뭐,covered
+S13-07 revised,마셔요,마시다,covered
+S13-08 original,커피를,커피,covered
+S13-08 original,마셔요,마시다,covered
+S13-08 revised,커피를,커피,covered
+S13-08 revised,마셔요,마시다,covered
+S13-09 original,친구도,친구,covered
+S13-09 original,커피를,커피,covered
+S13-09 original,마셔요,마시다,covered
+S13-09 revised,친구도,친구,covered
+S13-09 revised,커피를,커피,covered
+S13-09 revised,마셔요,마시다,covered
+S13-10 original,커피만,커피,covered
+S13-10 original,마셔요,마시다,covered
+S13-10 revised,커피만,커피,covered
+S13-10 revised,마셔요,마시다,covered
+S13-11 original,빵도,빵,covered
+S13-11 original,먹어요,먹다,covered
+S13-11 revised,빵도,빵,covered
+S13-11 revised,먹어요,먹다,covered
+S13-12 original,친구한테,친구,covered
+S13-12 original,선물을,선물,covered
+S13-12 original,줘요,주다,covered
+S13-12 revised,친구한테,친구,covered
+S13-12 revised,선물을,선물,covered
+S13-12 revised,줘요,주다,covered
+S13-13 original,누구의,누구,covered
+S13-13 original,선물이에요,선물,covered
+S13-13 revised,누구의,누구,covered
+S13-13 revised,선물이에요,선물,covered
+S13-14 original,휴대폰으로,휴대폰,covered
+S13-14 original,사진을,사진,covered
+S13-14 original,찍어요,찍다,covered
+S13-14 revised,휴대폰으로,휴대폰,covered
+S13-14 revised,사진을,사진,covered
+S13-14 revised,찍어요,찍다,covered
+S13-15 original,카메라로도,카메라,covered
+S13-15 original,찍어요,찍다,covered
+S13-15 revised,카메라로도,카메라,covered
+S13-15 revised,찍어요,찍다,covered
+S13-16 original,사진을,사진,covered
+S13-16 original,누구한테,누구,covered
+S13-16 original,보내요,보내다,covered
+S13-16 revised,사진을,사진,covered
+S13-16 revised,누구한테,누구,covered
+S13-16 revised,보내요,보내다,covered
+S13-17 original,가족한테도,가족,covered
+S13-17 original,보내요,보내다,covered
+S13-17 revised,가족한테도,가족,covered
+S13-17 revised,보내요,보내다,covered
+S13-18 original,카페에서,카페,covered
+S13-18 original,얼마나,얼마나,covered
+S13-18 original,오래,오래,covered
+S13-18 original,있어요,있다,covered
+S13-18 revised,카페에,카페,covered
+S13-18 revised,얼마나,얼마나,covered
+S13-18 revised,오래,오래,covered
+S13-18 revised,있어요,있다,covered
+S13-19 original,그다음,그다음,covered
+S13-19 original,어디에,어디,covered
+S13-19 original,가요,가다,covered
+S13-19 revised,그다음,그다음,covered
+S13-19 revised,어디에,어디,covered
+S13-19 revised,가요,가다,covered
+S13-20 original,집에,집,covered
+S13-20 original,어떻게,어떻게,covered
+S13-20 original,가요,가다,covered
+S13-20 revised,집에,집,covered
+S13-20 revised,어떻게,어떻게,covered
+S13-20 revised,가요,가다,covered
+S14-01 original,어디에,어디,covered
+S14-01 original,가요,가다,covered
+S14-01 revised,어디에,어디,covered
+S14-01 revised,가요,가다,covered
+S14-02 original,가게에,가게,covered
+S14-02 original,어떻게,어떻게,covered
+S14-02 original,가요,가다,covered
+S14-02 revised,가게에,가게,covered
+S14-02 revised,어떻게,어떻게,covered
+S14-02 revised,가요,가다,covered
+S14-03 original,가게에서,가게,covered
+S14-03 original,뭐를,뭐,covered
+S14-03 original,사요,사다,covered
+S14-03 revised,가게에서,가게,covered
+S14-03 revised,뭐를,뭐,covered
+S14-03 revised,사요,사다,covered
+S14-04 original,옷을,옷,covered
+S14-04 original,사요,사다,covered
+S14-04 revised,옷을,옷,covered
+S14-04 revised,사요,사다,covered
+S14-05 original,신발도,신발,covered
+S14-05 original,사요,사다,covered
+S14-05 revised,신발도,신발,covered
+S14-05 revised,사요,사다,covered
+S14-06 original,옷만,옷,covered
+S14-06 original,사요,사다,covered
+S14-06 revised,옷만,옷,covered
+S14-06 revised,사요,사다,covered
+S14-07 original,모자가,모자,covered
+S14-07 original,필요해요,필요하다,covered
+S14-07 revised,모자가,모자,covered
+S14-07 revised,필요해요,필요하다,covered
+S14-08 original,우산도,우산,covered
+S14-08 original,필요해요,필요하다,covered
+S14-08 revised,우산도,우산,covered
+S14-08 revised,필요해요,필요하다,covered
+S14-09 original,어떤,어떤,covered
+S14-09 original,물건이,물건,covered
+S14-09 original,비싸요,비싸다,covered
+S14-09 revised,어떤,어떤,covered
+S14-09 revised,물건이,물건,covered
+S14-09 revised,비싸요,비싸다,covered
+S14-10 original,어떤,어떤,covered
+S14-10 original,물건이,물건,covered
+S14-10 original,싸요,싸다,covered
+S14-10 revised,어떤,어떤,covered
+S14-10 revised,물건이,물건,covered
+S14-10 revised,싸요,싸다,covered
+S14-11 original,카드로,카드,covered
+S14-11 original,사요,사다,covered
+S14-11 revised,카드로,카드,covered
+S14-11 revised,사요,사다,covered
+S14-12 original,돈으로,돈,covered
+S14-12 original,사요,사다,covered
+S14-12 revised,현금으로,현금,covered
+S14-12 revised,사요,사다,covered
+S14-13 original,선물도,선물,covered
+S14-13 original,사요,사다,covered
+S14-13 revised,선물도,선물,covered
+S14-13 revised,사요,사다,covered
+S14-14 original,누구한테,누구,covered
+S14-14 original,선물을,선물,covered
+S14-14 original,줘요,주다,covered
+S14-14 revised,누구한테,누구,covered
+S14-14 revised,선물을,선물,covered
+S14-14 revised,줘요,주다,covered
+S14-15 original,어머니한테,어머니,covered
+S14-15 original,뭐를,뭐,covered
+S14-15 original,줘요,주다,covered
+S14-15 revised,어머니한테,어머니,covered
+S14-15 revised,뭐를,뭐,covered
+S14-15 revised,줘요,주다,covered
+S14-16 original,아버지한테,아버지,covered
+S14-16 original,뭐를,뭐,covered
+S14-16 original,줘요,주다,covered
+S14-16 revised,아버지한테,아버지,covered
+S14-16 revised,뭐를,뭐,covered
+S14-16 revised,줘요,주다,covered
+S14-17 original,친구에게도,친구,covered
+S14-17 original,선물을,선물,covered
+S14-17 original,줘요,주다,covered
+S14-17 revised,친구에게도,친구,covered
+S14-17 revised,선물을,선물,covered
+S14-17 revised,줘요,주다,covered
+S14-18 original,가게에서,가게,covered
+S14-18 original,누구에게,누구,covered
+S14-18 original,질문해요,질문하다,covered
+S14-18 revised,가게에서,가게,covered
+S14-18 revised,누구에게,누구,covered
+S14-18 revised,질문해요,질문하다,covered
+S14-19 original,직원에게,직원,covered
+S14-19 original,무엇을,무엇,covered
+S14-19 original,물어요,묻다,covered
+S14-19 revised,직원에게,직원,covered
+S14-19 revised,무엇을,무엇,covered
+S14-19 revised,물어요,묻다,covered
+S14-20 original,산,사다,covered
+S14-20 original,물건을,물건,covered
+S14-20 original,어디에,어디,covered
+S14-20 original,넣어요,넣다,covered
+S14-20 revised,산,사다,covered
+S14-20 revised,물건을,물건,covered
+S14-20 revised,어디에,어디,covered
+S14-20 revised,넣어요,넣다,covered
+S15-01 original,어디에서,어디,covered
+S15-01 original,한국어를,한국어,covered
+S15-01 original,공부해요,공부하다,covered
+S15-01 revised,어디에서,어디,covered
+S15-01 revised,한국어를,한국어,covered
+S15-01 revised,공부해요,공부하다,covered
+S15-02 original,교실에서,교실,covered
+S15-02 original,공부해요,공부하다,covered
+S15-02 revised,교실에서,교실,covered
+S15-02 revised,공부해요,공부하다,covered
+S15-03 original,집에서도,집,covered
+S15-03 original,공부해요,공부하다,covered
+S15-03 revised,집에서도,집,covered
+S15-03 revised,공부해요,공부하다,covered
+S15-04 original,누구에게,누구,covered
+S15-04 original,한국어를,한국어,covered
+S15-04 original,배워요,배우다,covered
+S15-04 revised,누구에게,누구,covered
+S15-04 revised,한국어를,한국어,covered
+S15-04 revised,배워요,배우다,covered
+S15-05 original,선생님의,선생님,covered
+S15-05 original,이름이,이름,covered
+S15-05 original,뭐예요,뭐,covered
+S15-05 revised,선생님의,선생님,covered
+S15-05 revised,이름이,이름,covered
+S15-05 revised,뭐예요,뭐,covered
+S15-06 original,한국어,한국어,covered
+S15-06 original,수업이,수업,covered
+S15-06 original,재미있어요,재미있다,covered
+S15-06 revised,한국어,한국어,covered
+S15-06 revised,수업이,수업,covered
+S15-06 revised,재미있어요,재미있다,covered
+S15-07 original,뭐가,뭐,covered
+S15-07 original,어려워요,어렵다,covered
+S15-07 revised,뭐가,뭐,covered
+S15-07 revised,어려워요,어렵다,covered
+S15-08 original,단어가,단어,covered
+S15-08 original,어려워요,어렵다,covered
+S15-08 revised,단어가,단어,covered
+S15-08 revised,어려워요,어렵다,covered
+S15-09 original,문장도,문장,covered
+S15-09 original,어려워요,어렵다,covered
+S15-09 revised,문장도,문장,covered
+S15-09 revised,어려워요,어렵다,covered
+S15-10 original,뭐가,뭐,covered
+S15-10 original,쉬워요,쉽다,covered
+S15-10 revised,뭐가,뭐,covered
+S15-10 revised,쉬워요,쉽다,covered
+S15-11 original,책을,책,covered
+S15-11 original,읽어요,읽다,covered
+S15-11 revised,책을,책,covered
+S15-11 revised,읽어요,읽다,covered
+S15-12 original,문장도,문장,covered
+S15-12 original,읽어요,읽다,covered
+S15-12 revised,문장도,문장,covered
+S15-12 revised,읽어요,읽다,covered
+S15-13 original,공책에,공책,covered
+S15-13 original,써요,쓰다,covered
+S15-13 revised,공책에,공책,covered
+S15-13 revised,써요,쓰다,covered
+S15-14 original,볼펜으로,볼펜,covered
+S15-14 original,써요,쓰다,covered
+S15-14 revised,볼펜으로,볼펜,covered
+S15-14 revised,써요,쓰다,covered
+S15-15 original,연필로도,연필,covered
+S15-15 original,써요,쓰다,covered
+S15-15 revised,연필로도,연필,covered
+S15-15 revised,써요,쓰다,covered
+S15-16 original,숙제가,숙제,covered
+S15-16 original,많아요,많다,covered
+S15-16 revised,숙제가,숙제,covered
+S15-16 revised,많아요,많다,covered
+S15-17 original,오늘은,오늘,covered
+S15-17 original,숙제만,숙제,covered
+S15-17 original,해요,하다,covered
+S15-17 revised,오늘은,오늘,covered
+S15-17 revised,숙제만,숙제,covered
+S15-17 revised,해요,하다,covered
+S15-18 original,모르는,모르다,covered
+S15-18 original,단어가,단어,covered
+S15-18 original,있으면,있다,covered
+S15-18 original,누구에게,누구,covered
+S15-18 original,물어요,묻다,covered
+S15-18 revised,모르는,모르다,covered
+S15-18 revised,단어가,단어,covered
+S15-18 revised,있으면,있다,covered
+S15-18 revised,누구에게,누구,covered
+S15-18 revised,물어요,묻다,covered
+S15-19 original,선생님에게,선생님,covered
+S15-19 original,질문해요,질문하다,covered
+S15-19 revised,선생님에게,선생님,covered
+S15-19 revised,질문해요,질문하다,covered
+S15-20 original,친구한테도,친구,covered
+S15-20 original,물어봐요,물어보다,covered
+S15-20 revised,친구한테도,친구,covered
+S15-20 revised,물어봐요,물어보다,covered
+S15-21 original,인터넷으로,인터넷,covered
+S15-21 original,단어를,단어,covered
+S15-21 original,찾아요,찾다,covered
+S15-21 revised,인터넷으로,인터넷,covered
+S15-21 revised,단어를,단어,covered
+S15-21 revised,찾아요,찾다,covered
+S15-22 original,컴퓨터로,컴퓨터,covered
+S15-22 original,공부해요,공부하다,covered
+S15-22 revised,컴퓨터로,컴퓨터,covered
+S15-22 revised,공부해요,공부하다,covered
+S15-23 original,휴대폰으로도,휴대폰,covered
+S15-23 original,공부해요,공부하다,covered
+S15-23 revised,휴대폰으로도,휴대폰,covered
+S15-23 revised,공부해요,공부하다,covered
+S15-24 original,한국인에게,한국인,covered
+S15-24 original,한국어를,한국어,covered
+S15-24 original,사용해요,사용하다,covered
+S15-24 revised,한국인한테,한국인,covered
+S15-24 revised,한국어로,한국어,covered
+S15-24 revised,말해요,말하다,covered
+S15-25 original,한국어로,한국어,covered
+S15-25 original,누구와,누구,covered
+S15-25 original,이야기하고,이야기하다,covered
+S15-25 original,싶어요,싶다,covered
+S15-25 revised,한국어로,한국어,covered
+S15-25 revised,누구와,누구,covered
+S15-25 revised,이야기하고,이야기하다,covered
+S15-25 revised,싶어요,싶다,covered
+S16-01 original,어디에,어디,covered
+S16-01 original,가요,가다,covered
+S16-01 revised,어디에,어디,covered
+S16-01 revised,가요,가다,covered
+S16-02 original,한국에,한국,covered
+S16-02 original,가요,가다,covered
+S16-02 revised,한국에,한국,covered
+S16-02 revised,가요,가다,covered
+S16-03 original,공항에,공항,covered
+S16-03 original,어떻게,어떻게,covered
+S16-03 original,가요,가다,covered
+S16-03 revised,공항에,공항,covered
+S16-03 revised,어떻게,어떻게,covered
+S16-03 revised,가요,가다,covered
+S16-04 original,택시로,택시,covered
+S16-04 original,가요,가다,covered
+S16-04 revised,택시로,택시,covered
+S16-04 revised,가요,가다,covered
+S16-05 original,버스로도,버스,covered
+S16-05 original,갈,가다,covered
+S16-05 original,수,수,covered
+S16-05 original,있어요,있다,covered
+S16-05 revised,버스로도,버스,covered
+S16-05 revised,갈,가다,covered
+S16-05 revised,수,수,covered
+S16-05 revised,있어요,있다,covered
+S16-06 original,비행기로,비행기,covered
+S16-06 original,어디에,어디,covered
+S16-06 original,가요,가다,covered
+S16-06 revised,비행기로,비행기,covered
+S16-06 revised,어디에,어디,covered
+S16-06 revised,가요,가다,covered
+S16-07 original,공항에,공항,covered
+S16-07 original,언제,언제,covered
+S16-07 original,도착해요,도착하다,covered
+S16-07 revised,공항에,공항,covered
+S16-07 revised,언제,언제,covered
+S16-07 revised,도착해요,도착하다,covered
+S16-08 original,공항에서,공항,covered
+S16-08 original,누구를,누구,covered
+S16-08 original,만나요,만나다,covered
+S16-08 revised,공항에서,공항,covered
+S16-08 revised,누구를,누구,covered
+S16-08 revised,만나요,만나다,covered
+S16-09 original,친구도,친구,covered
+S16-09 original,같이,같이,covered
+S16-09 original,가요,가다,covered
+S16-09 revised,친구도,친구,covered
+S16-09 revised,같이,같이,covered
+S16-09 revised,가요,가다,covered
+S16-10 original,혼자,혼자,covered
+S16-10 original,가요,가다,covered
+S16-10 revised,혼자,혼자,covered
+S16-10 revised,가요,가다,covered
+S16-11 original,가방이,가방,covered
+S16-11 original,있어요,있다,covered
+S16-11 revised,가방이,가방,covered
+S16-11 revised,있어요,있다,covered
+S16-12 original,가방,가방,covered
+S16-12 original,안에,안,covered
+S16-12 original,뭐가,뭐,covered
+S16-12 original,있어요,있다,covered
+S16-12 revised,가방,가방,covered
+S16-12 revised,안에,안,covered
+S16-12 revised,뭐가,뭐,covered
+S16-12 revised,있어요,있다,covered
+S16-13 original,휴대폰도,휴대폰,covered
+S16-13 original,있어요,있다,covered
+S16-13 revised,휴대폰도,휴대폰,covered
+S16-13 revised,있어요,있다,covered
+S16-14 original,돈도,돈,covered
+S16-14 original,있어요,있다,covered
+S16-14 revised,돈도,돈,covered
+S16-14 revised,있어요,있다,covered
+S16-15 original,카드만,카드,covered
+S16-15 original,있어요,있다,covered
+S16-15 revised,카드만,카드,covered
+S16-15 revised,있어요,있다,covered
+S16-16 original,여권은,여권,covered
+S16-16 original,어디에,어디,covered
+S16-16 original,있어요,있다,covered
+S16-16 revised,여권은,여권,covered
+S16-16 revised,어디에,어디,covered
+S16-16 revised,있어요,있다,covered
+S16-17 original,공항에서,공항,covered
+S16-17 original,음식도,음식,covered
+S16-17 original,먹어요,먹다,covered
+S16-17 revised,공항에서,공항,covered
+S16-17 revised,음식도,음식,covered
+S16-17 revised,먹어요,먹다,covered
+S16-18 original,누구한테,누구,covered
+S16-18 original,여행,여행,covered
+S16-18 original,소식을,소식,covered
+S16-18 original,보내요,보내다,covered
+S16-18 revised,누구한테,누구,covered
+S16-18 revised,여행,여행,covered
+S16-18 revised,소식을,소식,covered
+S16-18 revised,보내요,보내다,covered
+S16-19 original,가족한테,가족,covered
+S16-19 original,사진을,사진,covered
+S16-19 original,보내요,보내다,covered
+S16-19 revised,가족한테,가족,covered
+S16-19 revised,사진을,사진,covered
+S16-19 revised,보내요,보내다,covered
+S16-20 original,여행지에서,여행지,covered
+S16-20 original,뭐를,뭐,covered
+S16-20 original,하고,[grammar],covered
+S16-20 original,싶어요,싶다,covered
+S16-20 revised,여행지에서,여행지,covered
+S16-20 revised,뭐를,뭐,covered
+S16-20 revised,하고,[grammar],covered
+S16-20 revised,싶어요,싶다,covered
+S17-01 original,뭐가,뭐,covered
+S17-01 original,없어요,없다,covered
+S17-01 revised,뭐가,뭐,covered
+S17-01 revised,없어요,없다,covered
+S17-02 original,휴대폰이,휴대폰,covered
+S17-02 original,없어요,없다,covered
+S17-02 revised,휴대폰이,휴대폰,covered
+S17-02 revised,없어요,없다,covered
+S17-03 original,지갑이,지갑,covered
+S17-03 original,없어요,없다,covered
+S17-03 revised,지갑이,지갑,covered
+S17-03 revised,없어요,없다,covered
+S17-04 original,열쇠를,열쇠,covered
+S17-04 original,잃어버렸어요,잃어버리다,covered
+S17-04 revised,열쇠를,열쇠,covered
+S17-04 revised,잃어버렸어요,잃어버리다,covered
+S17-05 original,어디에서,어디,covered
+S17-05 original,잃어버렸어요,잃어버리다,covered
+S17-05 revised,어디에서,어디,covered
+S17-05 revised,잃어버렸어요,잃어버리다,covered
+S17-06 original,카페에서,카페,covered
+S17-06 original,잃어버렸어요,잃어버리다,covered
+S17-06 revised,카페에서,카페,covered
+S17-06 revised,잃어버렸어요,잃어버리다,covered
+S17-07 original,누구에게,누구,covered
+S17-07 original,물어요,묻다,covered
+S17-07 revised,누구에게,누구,covered
+S17-07 revised,물어요,묻다,covered
+S17-08 original,직원에게,직원,covered
+S17-08 original,물어요,묻다,covered
+S17-08 revised,직원에게,직원,covered
+S17-08 revised,물어요,묻다,covered
+S17-09 original,경찰에게도,경찰,covered
+S17-09 original,물어요,묻다,covered
+S17-09 revised,경찰에게도,경찰,covered
+S17-09 revised,물어요,묻다,covered
+S17-10 original,친구한테,친구,covered
+S17-10 original,전화해요,전화하다,covered
+S17-10 revised,친구한테,친구,covered
+S17-10 revised,전화해요,전화하다,covered
+S17-11 original,친구한테,친구,covered
+S17-11 original,뭐라고,뭐,covered
+S17-11 original,말해요,말하다,covered
+S17-11 revised,친구한테,친구,covered
+S17-11 revised,뭐라고,뭐,covered
+S17-11 revised,말해요,말하다,covered
+S17-12 original,휴대폰이,휴대폰,covered
+S17-12 original,없으면,없다,covered
+S17-12 original,누구의,누구,covered
+S17-12 original,휴대폰을,휴대폰,covered
+S17-12 original,사용해요,사용하다,covered
+S17-12 revised,휴대폰이,휴대폰,covered
+S17-12 revised,없으면,없다,covered
+S17-12 revised,누구의,누구,covered
+S17-12 revised,휴대폰을,휴대폰,covered
+S17-12 revised,사용해요,사용하다,covered
+S17-13 original,친구의,친구,covered
+S17-13 original,휴대폰으로,휴대폰,covered
+S17-13 original,전화해요,전화하다,covered
+S17-13 revised,친구의,친구,covered
+S17-13 revised,휴대폰으로,휴대폰,covered
+S17-13 revised,전화해요,전화하다,covered
+S17-14 original,경찰에게,경찰,covered
+S17-14 original,전화번호를,전화번호,covered
+S17-14 original,알려줘요,알려주다,covered
+S17-14 revised,경찰에게,경찰,covered
+S17-14 revised,전화번호를,전화번호,covered
+S17-14 revised,알려줘요,알려주다,covered
+S17-15 original,주소도,주소,covered
+S17-15 original,알려줘요,알려주다,covered
+S17-15 revised,주소도,주소,covered
+S17-15 revised,알려줘요,알려주다,covered
+S17-16 original,가방,가방,covered
+S17-16 original,안에,안,covered
+S17-16 original,지갑이,지갑,covered
+S17-16 original,있어요,있다,covered
+S17-16 revised,가방,가방,covered
+S17-16 revised,안에,안,covered
+S17-16 revised,지갑이,지갑,covered
+S17-16 revised,있어요,있다,covered
+S17-17 original,책상,책상,covered
+S17-17 original,아래에,아래,covered
+S17-17 original,있어요,있다,covered
+S17-17 revised,책상,책상,covered
+S17-17 revised,아래에,아래,covered
+S17-17 revised,있어요,있다,covered
+S17-18 original,카페,카페,covered
+S17-18 original,밖에,밖,covered
+S17-18 original,있어요,있다,covered
+S17-18 revised,카페,카페,covered
+S17-18 revised,밖에,밖,covered
+S17-18 revised,있어요,있다,covered
+S17-19 original,찾으면,찾다,covered
+S17-19 original,누구에게,누구,covered
+S17-19 original,소식을,소식,covered
+S17-19 original,보내요,보내다,covered
+S17-19 revised,찾으면,찾다,covered
+S17-19 revised,누구에게,누구,covered
+S17-19 revised,소식을,소식,covered
+S17-19 revised,보내요,보내다,covered
+S17-20 original,가족한테도,가족,covered
+S17-20 original,연락해요,연락하다,covered
+S17-20 revised,가족한테도,가족,covered
+S17-20 revised,연락해요,연락하다,covered
+S18-01 original,어디에,어디,covered
+S18-01 original,가요,가다,covered
+S18-01 revised,어디에,어디,covered
+S18-01 revised,가요,가다,covered
+S18-02 original,어떻게,어떻게,covered
+S18-02 original,가요,가다,covered
+S18-02 revised,어떻게,어떻게,covered
+S18-02 revised,가요,가다,covered
+S18-03 original,어디에서,어디,covered
+S18-03 original,공부해요,공부하다,covered
+S18-03 revised,어디에서,어디,covered
+S18-03 revised,공부해요,공부하다,covered
+S18-04 original,뭐를,뭐,covered
+S18-04 original,공부해요,공부하다,covered
+S18-04 revised,뭐를,뭐,covered
+S18-04 revised,공부해요,공부하다,covered
+S18-05 original,누구한테,누구,covered
+S18-05 original,메시지를,메시지,covered
+S18-05 original,보내요,보내다,covered
+S18-05 revised,누구한테,누구,covered
+S18-05 revised,메시지를,메시지,covered
+S18-05 revised,보내요,보내다,covered
+S18-06 original,뭐를,뭐,covered
+S18-06 original,보내요,보내다,covered
+S18-06 revised,뭐를,뭐,covered
+S18-06 revised,보내요,보내다,covered
+S18-07 original,누구한테,누구,covered
+S18-07 original,선물을,선물,covered
+S18-07 original,줘요,주다,covered
+S18-07 revised,누구한테,누구,covered
+S18-07 revised,선물을,선물,covered
+S18-07 revised,줘요,주다,covered
+S18-08 original,어떤,어떤,covered
+S18-08 original,선물이에요,선물,covered
+S18-08 revised,어떤,어떤,covered
+S18-08 revised,선물이에요,선물,covered
+S19-01 original,어디에,어디,covered
+S19-01 original,있어요,있다,covered
+S19-01 revised,어디에,어디,covered
+S19-01 revised,있어요,있다,covered
+S19-02 original,뭐를,뭐,covered
+S19-02 original,마셔요,마시다,covered
+S19-02 revised,뭐를,뭐,covered
+S19-02 revised,마셔요,마시다,covered
+S19-03 original,뭐를,뭐,covered
+S19-03 original,먹어요,먹다,covered
+S19-03 revised,뭐를,뭐,covered
+S19-03 revised,먹어요,먹다,covered
+S19-04 original,어디에서,어디,covered
+S19-04 original,공부해요,공부하다,covered
+S19-04 revised,어디에서,어디,covered
+S19-04 revised,공부해요,공부하다,covered
+S19-05 original,어디에서,어디,covered
+S19-05 original,일해요,일하다,covered
+S19-05 revised,어디에서,어디,covered
+S19-05 revised,일해요,일하다,covered
+S19-06 original,어디에,어디,covered
+S19-06 original,가요,가다,covered
+S19-06 revised,어디에,어디,covered
+S19-06 revised,가요,가다,covered
+S19-07 original,어떻게,어떻게,covered
+S19-07 original,가요,가다,covered
+S19-07 revised,어떻게,어떻게,covered
+S19-07 revised,가요,가다,covered
+S19-08 original,누구를,누구,covered
+S19-08 original,만나요,만나다,covered
+S19-08 revised,누구를,누구,covered
+S19-08 revised,만나요,만나다,covered
+S19-09 original,누구한테,누구,covered
+S19-09 original,전화해요,전화하다,covered
+S19-09 revised,누구한테,누구,covered
+S19-09 revised,전화해요,전화하다,covered
+S19-10 original,누구한테,누구,covered
+S19-10 original,메시지를,메시지,covered
+S19-10 original,보내요,보내다,covered
+S19-10 revised,누구한테,누구,covered
+S19-10 revised,메시지를,메시지,covered
+S19-10 revised,보내요,보내다,covered
+S19-11 original,누구한테,누구,covered
+S19-11 original,선물을,선물,covered
+S19-11 original,줘요,주다,covered
+S19-11 revised,누구한테,누구,covered
+S19-11 revised,선물을,선물,covered
+S19-11 revised,줘요,주다,covered
+S19-12 original,뭐로,뭐,covered
+S19-12 original,사진을,사진,covered
+S19-12 original,찍어요,찍다,covered
+S19-12 revised,뭐로,뭐,covered
+S19-12 revised,사진을,사진,covered
+S19-12 revised,찍어요,찍다,covered
+S19-13 original,뭐로,뭐,covered
+S19-13 original,이름을,이름,covered
+S19-13 original,써요,쓰다,covered
+S19-13 revised,뭐로,뭐,covered
+S19-13 revised,이름을,이름,covered
+S19-13 revised,써요,쓰다,covered
+S19-14 original,뭐로,뭐,covered
+S19-14 original,밥을,밥,covered
+S19-14 original,먹어요,먹다,covered
+S19-14 revised,뭐로,뭐,covered
+S19-14 revised,밥을,밥,covered
+S19-14 revised,먹어요,먹다,covered
+S19-15 original,한국어도,한국어,covered
+S19-15 original,공부해요,공부하다,covered
+S19-15 revised,한국어도,한국어,covered
+S19-15 revised,공부해요,공부하다,covered
+S19-16 original,영어도,영어,covered
+S19-16 original,공부해요,공부하다,covered
+S19-16 revised,영어도,영어,covered
+S19-16 revised,공부해요,공부하다,covered
+S19-17 original,커피만,커피,covered
+S19-17 original,마셔요,마시다,covered
+S19-17 revised,커피만,커피,covered
+S19-17 revised,마셔요,마시다,covered
+S19-18 original,친구도,친구,covered
+S19-18 original,커피를,커피,covered
+S19-18 original,좋아해요,좋아하다,covered
+S19-18 revised,친구도,친구,covered
+S19-18 revised,커피를,커피,covered
+S19-18 revised,좋아해요,좋아하다,covered
+S19-19 original,누구의,누구,covered
+S19-19 original,가방이에요,가방,covered
+S19-19 revised,누구의,누구,covered
+S19-19 revised,가방이에요,가방,covered
+S19-20 original,휴대폰이,휴대폰,covered
+S19-20 original,어디에,어디,covered
+S19-20 original,있어요,있다,covered
+S19-20 revised,휴대폰이,휴대폰,covered
+S19-20 revised,어디에,어디,covered
+S19-20 revised,있어요,있다,covered
+S19-21 original,집에서,집,covered
+S19-21 original,뭐를,뭐,covered
+S19-21 original,해요,하다,covered
+S19-21 revised,집에서,집,covered
+S19-21 revised,뭐를,뭐,covered
+S19-21 revised,해요,하다,covered
+S19-22 original,카페에서,카페,covered
+S19-22 original,뭐를,뭐,covered
+S19-22 original,해요,하다,covered
+S19-22 revised,카페에서,카페,covered
+S19-22 revised,뭐를,뭐,covered
+S19-22 revised,해요,하다,covered
+S19-23 original,공원에서,공원,covered
+S19-23 original,뭐를,뭐,covered
+S19-23 original,해요,하다,covered
+S19-23 revised,공원에서,공원,covered
+S19-23 revised,뭐를,뭐,covered
+S19-23 revised,해요,하다,covered
+S19-24 original,편의점에서,편의점,covered
+S19-24 original,뭐를,뭐,covered
+S19-24 original,사요,사다,covered
+S19-24 revised,편의점에서,편의점,covered
+S19-24 revised,뭐를,뭐,covered
+S19-24 revised,사요,사다,covered
+S19-25 original,한국어가,한국어,covered
+S19-25 original,쉬워요,쉽다,covered
+S19-25 revised,한국어가,한국어,covered
+S19-25 revised,쉬워요,쉽다,covered
+S19-26 original,뭐가,뭐,covered
+S19-26 original,어려워요,어렵다,covered
+S19-26 revised,뭐가,뭐,covered
+S19-26 revised,어려워요,어렵다,covered
+S19-27 original,시간이,시간,covered
+S19-27 original,많아요,많다,covered
+S19-27 revised,시간이,시간,covered
+S19-27 revised,많아요,많다,covered
+S19-28 original,숙제가,숙제,covered
+S19-28 original,있어요,있다,covered
+S19-28 revised,숙제가,숙제,covered
+S19-28 revised,있어요,있다,covered
+S19-29 original,가족이,가족,covered
+S19-29 original,많아요,많다,covered
+S19-29 revised,가족이,가족,covered
+S19-29 revised,많아요,많다,covered
+S19-30 original,친구가,친구,covered
+S19-30 original,많아요,많다,covered
+S19-30 revised,친구가,친구,covered
+S19-30 revised,많아요,많다,covered
+S20-01 original,뭐를,뭐,covered
+S20-01 original,좋아해요,좋아하다,covered
+S20-01 revised,뭐를,뭐,covered
+S20-01 revised,좋아해요,좋아하다,covered
+S20-02 original,뭐를,뭐,covered
+S20-02 original,자주,자주,covered
+S20-02 original,먹어요,먹다,covered
+S20-02 revised,뭐를,뭐,covered
+S20-02 revised,자주,자주,covered
+S20-02 revised,먹어요,먹다,covered
+S20-03 original,뭐를,뭐,covered
+S20-03 original,자주,자주,covered
+S20-03 original,마셔요,마시다,covered
+S20-03 revised,뭐를,뭐,covered
+S20-03 revised,자주,자주,covered
+S20-03 revised,마셔요,마시다,covered
+S20-04 original,뭐를,뭐,covered
+S20-04 original,자주,자주,covered
+S20-04 original,봐요,보다,covered
+S20-04 revised,뭐를,뭐,covered
+S20-04 revised,자주,자주,covered
+S20-04 revised,봐요,보다,covered
+S20-05 original,뭐를,뭐,covered
+S20-05 original,공부해요,공부하다,covered
+S20-05 revised,뭐를,뭐,covered
+S20-05 revised,공부해요,공부하다,covered
+S20-06 original,뭐가,뭐,covered
+S20-06 original,어려워요,어렵다,covered
+S20-06 revised,뭐가,뭐,covered
+S20-06 revised,어려워요,어렵다,covered
+S20-07 original,뭐가,뭐,covered
+S20-07 original,재미있어요,재미있다,covered
+S20-07 revised,뭐가,뭐,covered
+S20-07 revised,재미있어요,재미있다,covered
+S20-08 original,아버지는,아버지,covered
+S20-08 original,커피를,커피,covered
+S20-08 original,좋아해요,좋아하다,covered
+S20-08 revised,아버지는,아버지,covered
+S20-08 revised,커피를,커피,covered
+S20-08 revised,좋아해요,좋아하다,covered
+S20-09 original,어머니도,어머니,covered
+S20-09 original,커피를,커피,covered
+S20-09 original,좋아해요,좋아하다,covered
+S20-09 revised,어머니도,어머니,covered
+S20-09 revised,커피를,커피,covered
+S20-09 revised,좋아해요,좋아하다,covered
+S20-10 original,카페에,카페,covered
+S20-10 original,가요,가다,covered
+S20-10 revised,카페에,카페,covered
+S20-10 revised,가요,가다,covered
+S20-11 original,카페에서,카페,covered
+S20-11 original,뭐를,뭐,covered
+S20-11 original,해요,하다,covered
+S20-11 revised,카페에서,카페,covered
+S20-11 revised,뭐를,뭐,covered
+S20-11 revised,해요,하다,covered
+S20-12 original,도서관에,도서관,covered
+S20-12 original,가요,가다,covered
+S20-12 revised,도서관에,도서관,covered
+S20-12 revised,가요,가다,covered
+S20-13 original,도서관에서,도서관,covered
+S20-13 original,뭐를,뭐,covered
+S20-13 original,해요,하다,covered
+S20-13 revised,도서관에서,도서관,covered
+S20-13 revised,뭐를,뭐,covered
+S20-13 revised,해요,하다,covered
+S20-14 original,공원에,공원,covered
+S20-14 original,가요,가다,covered
+S20-14 revised,공원에,공원,covered
+S20-14 revised,가요,가다,covered
+S20-15 original,공원에서,공원,covered
+S20-15 original,뭐를,뭐,covered
+S20-15 original,해요,하다,covered
+S20-15 revised,공원에서,공원,covered
+S20-15 revised,뭐를,뭐,covered
+S20-15 revised,해요,하다,covered
+S20-16 original,누구하고,누구,covered
+S20-16 original,운동해요,운동하다,covered
+S20-16 revised,누구하고,누구,covered
+S20-16 revised,운동해요,운동하다,covered
+S20-17 original,공원에,공원,covered
+S20-17 original,어떻게,어떻게,covered
+S20-17 original,가요,가다,covered
+S20-17 revised,공원에,공원,covered
+S20-17 revised,어떻게,어떻게,covered
+S20-17 revised,가요,가다,covered
+S20-18 original,운동,운동,covered
+S20-18 original,후에,후,covered
+S20-18 original,뭐를,뭐,covered
+S20-18 original,먹어요,먹다,covered
+S20-18 revised,운동,운동,covered
+S20-18 revised,후에,후,covered
+S20-18 revised,뭐를,뭐,covered
+S20-18 revised,먹어요,먹다,covered
+S20-19 original,친구도,친구,covered
+S20-19 original,같이,같이,covered
+S20-19 original,먹어요,먹다,covered
+S20-19 revised,친구도,친구,covered
+S20-19 revised,같이,같이,covered
+S20-19 revised,먹어요,먹다,covered
+S20-20 original,누구한테,누구,covered
+S20-20 original,사진을,사진,covered
+S20-20 original,보내요,보내다,covered
+S20-20 revised,누구한테,누구,covered
+S20-20 revised,사진을,사진,covered
+S20-20 revised,보내요,보내다,covered
+S21-01 original,오늘,오늘,covered
+S21-01 original,뭐,뭐,covered
+S21-01 original,해요,하다,covered
+S21-01 revised,오늘,오늘,covered
+S21-01 revised,뭐,뭐,covered
+S21-01 revised,해요,하다,covered
+S21-02 original,주말에,주말,covered
+S21-02 original,뭐,뭐,covered
+S21-02 original,해요,하다,covered
+S21-02 revised,주말에,주말,covered
+S21-02 revised,뭐,뭐,covered
+S21-02 revised,해요,하다,covered
+S21-03 original,친구를,친구,covered
+S21-03 original,만나면,만나다,covered
+S21-03 original,뭐,뭐,covered
+S21-03 original,해요,하다,covered
+S21-03 revised,친구를,친구,covered
+S21-03 revised,만나면,만나다,covered
+S21-03 revised,뭐,뭐,covered
+S21-03 revised,해요,하다,covered
+S22-01 original,나무로,나무,covered
+S22-01 original,뭐를,뭐,covered
+S22-01 original,만들어요,만들다,covered
+S22-01 revised,나무로,나무,covered
+S22-01 revised,뭐를,뭐,covered
+S22-01 revised,만들어요,만들다,covered
+S22-02 original,유리로,유리,covered
+S22-02 original,뭐를,뭐,covered
+S22-02 original,만들어요,만들다,covered
+S22-02 revised,유리로,유리,covered
+S22-02 revised,뭐를,뭐,covered
+S22-02 revised,만들어요,만들다,covered
+S22-03 original,플라스틱으로,플라스틱,covered
+S22-03 original,뭐를,뭐,covered
+S22-03 original,만들어요,만들다,covered
+S22-03 revised,플라스틱으로,플라스틱,covered
+S22-03 revised,뭐를,뭐,covered
+S22-03 revised,만들어요,만들다,covered
+S22-04 original,종이로,종이,covered
+S22-04 original,뭐를,뭐,covered
+S22-04 original,만들어요,만들다,covered
+S22-04 revised,종이로,종이,covered
+S22-04 revised,뭐를,뭐,covered
+S22-04 revised,만들어요,만들다,covered
+S22-05 original,쇠로,쇠,covered
+S22-05 original,뭐를,뭐,covered
+S22-05 original,만들어요,만들다,covered
+S22-05 revised,쇠로,쇠,covered
+S22-05 revised,뭐를,뭐,covered
+S22-05 revised,만들어요,만들다,covered
+S22-06 original,중국어로,중국어,covered
+S22-06 original,말해요,말하다,covered
+S22-06 revised,중국어로,중국어,covered
+S22-06 revised,말해요,말하다,covered
+S22-07 original,일본어로,일본어,covered
+S22-07 original,말해요,말하다,covered
+S22-07 revised,일본어로,일본어,covered
+S22-07 revised,말해요,말하다,covered
+S22-08 original,의사로,의사,covered
+S22-08 original,일해요,일하다,covered
+S22-08 revised,의사로,의사,covered
+S22-08 revised,일해요,일하다,covered
+S22-09 original,요리사로,요리사,covered
+S22-09 original,일해요,일하다,covered
+S22-09 revised,요리사로,요리사,covered
+S22-09 revised,일해요,일하다,covered
+S22-10 original,사진을,사진,covered
+S22-10 original,서울로,서울,covered
+S22-10 original,보내요,보내다,covered
+S22-10 revised,사진을,사진,covered
+S22-10 revised,서울로,서울,covered
+S22-10 revised,보내요,보내다,covered
+P01 form,이,이,covered
+P01 form,가,가다,covered
+P01 tip,이,이,covered
+P01 tip,가,가다,covered
+P01 tip,누구,누구,covered
+P01 tip,가,가다,covered
+P01 tip,누가,누구,covered
+P01 tip,저,저,covered
+P01 tip,가,가다,covered
+P01 tip,제가,저,covered
+P01 example,친구가,친구,covered
+P01 example,와요,오다,covered
+P01 example,학생이,학생,covered
+P01 example,책을,책,covered
+P01 example,읽어요,읽다,covered
+P01 example,선생님이,선생님,covered
+P01 example,답을,답,covered
+P01 example,써요,쓰다,covered
+P02 form,이,이,covered
+P02 form,가,가다,covered
+P02 tip,좋다,좋다,covered
+P02 tip,이,이,covered
+P02 tip,가,가다,covered
+P02 tip,좋아하다,좋아하다,covered
+P02 tip,을,[grammar],covered
+P02 tip,를,[grammar],covered
+P02 example,날씨가,날씨,covered
+P02 example,좋아요,좋다,covered
+P02 example,문제가,문제,covered
+P02 example,어려워요,어렵다,covered
+P02 example,한국어가,한국어,covered
+P02 example,재미있어요,재미있다,covered
+P02 example,사람이,사람,covered
+P02 example,많아요,많다,covered
+P03 form,은,[grammar],covered
+P03 form,는,[grammar],covered
+P03 tip,은,[grammar],covered
+P03 tip,는,[grammar],covered
+P03 tip,이,이,covered
+P03 tip,가,가다,covered
+P03 example,저는,저,covered
+P03 example,물을,물,covered
+P03 example,마셔요,마시다,covered
+P03 example,친구는,친구,covered
+P03 example,커피를,커피,covered
+P03 example,마셔요,마시다,covered
+P03 example,오늘은,오늘,covered
+P03 example,시간이,시간,covered
+P03 example,많아요,많다,covered
+P03 example,책은,책,covered
+P03 example,작아요,작다,covered
+P04 form,을,[grammar],covered
+P04 form,를,[grammar],covered
+P04 tip,을,[grammar],covered
+P04 tip,를,[grammar],covered
+P04 example,동생은,동생,covered
+P04 example,밥을,밥,covered
+P04 example,먹어요,먹다,covered
+P04 example,학생은,학생,covered
+P04 example,한국어를,한국어,covered
+P04 example,공부해요,공부하다,covered
+P04 example,가족은,가족,covered
+P04 example,사진을,사진,covered
+P04 example,봐요,보다,covered
+P04 example,선생님은,선생님,covered
+P04 example,답을,답,covered
+P04 example,써요,쓰다,covered
+P05 form,이,이,covered
+P05 form,가,가다,covered
+P05 form,있어요,있다,covered
+P05 form,없어요,없다,covered
+P05 example,시간이,시간,covered
+P05 example,있어요,있다,covered
+P05 example,숙제가,숙제,covered
+P05 example,없어요,없다,covered
+P05 example,가방이,가방,covered
+P05 example,있어요,있다,covered
+P06 form,이에요,이다,covered
+P06 form,예요,이다,covered
+P06 tip,이에요,이다,covered
+P06 tip,예요,이다,covered
+P06 example,저는,저,covered
+P06 example,학생이에요,학생,covered
+P06 example,이건,이것,covered
+P06 example,제,제,covered
+P06 example,가방이에요,가방,covered
+P06 example,이름이,이름,covered
+P06 example,뭐예요,뭐,covered
+P07 form,에,[grammar],covered
+P07 form,있어요,있다,covered
+P07 form,없어요,없다,covered
+P07 example,저는,저,covered
+P07 example,방에,방,covered
+P07 example,있어요,있다,covered
+P07 example,가방은,가방,covered
+P07 example,교실에,교실,covered
+P07 example,있어요,있다,covered
+P07 example,친구는,친구,covered
+P07 example,학교에,학교,covered
+P07 example,있어요,있다,covered
+P08 form,에,[grammar],covered
+P08 form,가요,가다,covered
+P08 form,와요,오다,covered
+P08 form,도착해요,도착하다,covered
+P08 example,친구는,친구,covered
+P08 example,학교에,학교,covered
+P08 example,가요,가다,covered
+P08 example,택시는,택시,covered
+P08 example,공항에,공항,covered
+P08 example,도착해요,도착하다,covered
+P08 example,친구가,친구,covered
+P08 example,집에,집,covered
+P08 example,와요,오다,covered
+P09 form,에서,[grammar],covered
+P09 example,저는,저,covered
+P09 example,도서관에서,도서관,covered
+P09 example,공부해요,공부하다,covered
+P09 example,친구는,친구,covered
+P09 example,카페에서,카페,covered
+P09 example,기다려요,기다리다,covered
+P09 example,학생은,학생,covered
+P09 example,교실에서,교실,covered
+P09 example,한국어를,한국어,covered
+P09 example,배워요,배우다,covered
+P09 example,저는,저,covered
+P09 example,공원에서,공원,covered
+P09 example,운동해요,운동하다,covered
+P10 form,에,[grammar],covered
+P10 form,에서,[grammar],covered
+P10 example,약국은,약국,covered
+P10 example,편의점,편의점,covered
+P10 example,앞에,앞,covered
+P10 example,있어요,있다,covered
+P10 example,휴대폰이,휴대폰,covered
+P10 example,가방,가방,covered
+P10 example,안에,안,covered
+P10 example,있어요,있다,covered
+P10 example,학교,학교,covered
+P10 example,앞에서,앞,covered
+P10 example,만나요,만나다,covered
+P10 example,책이,책,covered
+P10 example,책상,책상,covered
+P10 example,아래에,아래,covered
+P10 example,있어요,있다,covered
+P11 form,에,[grammar],covered
+P11 form,살아요,살다,covered
+P11 form,이,이,covered
+P11 form,에,[grammar],covered
+P11 form,가까워요,가깝다,covered
+P11 tip,살다,살다,covered
+P11 tip,에,[grammar],covered
+P11 tip,에서,[grammar],covered
+P11 tip,에서,[grammar],covered
+P11 example,한국에,한국,covered
+P11 example,살아요,살다,covered
+P11 example,집이,집,covered
+P11 example,역에,역,covered
+P11 example,가까워요,가깝다,covered
+P11 example,회사가,회사,covered
+P11 example,집에서,집,covered
+P11 example,멀어요,멀다,covered
+P11 example,집,집,covered
+P11 example,근처에,근처,covered
+P11 example,카페가,카페,covered
+P11 example,있어요,있다,covered
+P12 form,으,[grammar],covered
+P12 form,로,[grammar],covered
+P12 form,에,[grammar],covered
+P12 form,가요,가다,covered
+P12 tip,으로,[grammar],covered
+P12 tip,로,[grammar],covered
+P12 tip,버스로,버스,covered
+P12 tip,지하철로,지하철,covered
+P12 tip,자동차로,자동차,covered
+P12 example,저는,저,covered
+P12 example,버스로,버스,covered
+P12 example,가요,가다,covered
+P12 example,친구는,친구,covered
+P12 example,지하철로,지하철,covered
+P12 example,와요,오다,covered
+P12 example,자전거로,자전거,covered
+P12 example,학교에,학교,covered
+P12 example,가요,가다,covered
+P12 example,비행기로,비행기,covered
+P12 example,한국에,한국,covered
+P12 example,가요,가다,covered
+P13 form,으,[grammar],covered
+P13 form,로,[grammar],covered
+P13 form,가요,가다,covered
+P13 tip,에,[grammar],covered
+P13 tip,으,[grammar],covered
+P13 tip,로,[grammar],covered
+P13 tip,가세요,가다,covered
+P13 example,오른쪽으로,오른쪽,covered
+P13 example,가요,가다,covered
+P13 example,왼쪽으로,왼쪽,covered
+P13 example,천천히,천천히,covered
+P13 example,가요,가다,covered
+P13 example,동쪽으로,동쪽,covered
+P13 example,가요,가다,covered
+P13 example,서울로,서울,covered
+P13 example,보내요,보내다,covered
+P14 form,으,[grammar],covered
+P14 form,로,[grammar],covered
+P14 form,을,[grammar],covered
+P14 form,를,[grammar],covered
+P14 example,볼펜으로,볼펜,covered
+P14 example,이름을,이름,covered
+P14 example,써요,쓰다,covered
+P14 example,종이를,종이,covered
+P14 example,가위로,가위,covered
+P14 example,잘라요,자르다,covered
+P14 example,카메라로,카메라,covered
+P14 example,사진을,사진,covered
+P14 example,찍어요,찍다,covered
+P14 example,컴퓨터로,컴퓨터,covered
+P14 example,파일을,파일,covered
+P14 example,보내요,보내다,covered
+P14 example,카드로,카드,covered
+P14 example,선물을,선물,covered
+P14 example,사요,사다,covered
+P15 form,으,[grammar],covered
+P15 form,로,[grammar],covered
+P15 form,을,[grammar],covered
+P15 form,를,[grammar],covered
+P15 form,만들어요,만들다,covered
+P15 example,나무로,나무,covered
+P15 example,책상을,책상,covered
+P15 example,만들어요,만들다,covered
+P15 example,종이로,종이,covered
+P15 example,선물을,선물,covered
+P15 example,만들어요,만들다,covered
+P15 example,유리로,유리,covered
+P15 example,컵을,컵,covered
+P15 example,만들어요,만들다,covered
+P15 example,플라스틱으로,플라스틱,covered
+P15 example,컵을,컵,covered
+P15 example,만들어요,만들다,covered
+P16 form,으,[grammar],covered
+P16 form,로,[grammar],covered
+P16 form,말해요,말하다,covered
+P16 form,바꿔요,바꾸다,covered
+P16 example,영어로,영어,covered
+P16 example,말해요,말하다,covered
+P16 example,한국어로,한국어,covered
+P16 example,말해요,말하다,covered
+P16 example,한국어로,한국어,covered
+P16 example,바꿔요,바꾸다,covered
+P17 form,으,[grammar],covered
+P17 form,로,[grammar],covered
+P17 form,일해요,일하다,covered
+P17 example,의사로,의사,covered
+P17 example,일해요,일하다,covered
+P17 example,요리사로,요리사,covered
+P17 example,일해요,일하다,covered
+P17 example,직원으로,직원,covered
+P17 example,일해요,일하다,covered
+P18 form,도,[grammar],covered
+P18 tip,도,[grammar],covered
+P18 tip,이,이,covered
+P18 tip,가,가다,covered
+P18 tip,은,[grammar],covered
+P18 tip,는,[grammar],covered
+P18 tip,을,[grammar],covered
+P18 tip,를,[grammar],covered
+P18 tip,집에서도,집,covered
+P18 tip,친구한테도,친구,covered
+P18 example,저도,저,covered
+P18 example,학생이에요,학생,covered
+P18 example,동생도,동생,covered
+P18 example,빵을,빵,covered
+P18 example,먹어요,먹다,covered
+P18 example,가방도,가방,covered
+P18 example,필요해요,필요하다,covered
+P18 example,우유도,우유,covered
+P18 example,있어요,있다,covered
+P19 form,만,[grammar],covered
+P19 tip,저만,저,covered
+P19 tip,커피를,커피,covered
+P19 tip,마셔요,마시다,covered
+P19 tip,저는,저,covered
+P19 tip,커피만,커피,covered
+P19 tip,마셔요,마시다,covered
+P19 example,저는,저,covered
+P19 example,커피만,커피,covered
+P19 example,마셔요,마시다,covered
+P19 example,친구는,친구,covered
+P19 example,빵만,빵,covered
+P19 example,먹어요,먹다,covered
+P19 example,이,이,covered
+P19 example,가방만,가방,covered
+P19 example,비싸요,비싸다,covered
+P19 example,오늘은,오늘,covered
+P19 example,수업만,수업,covered
+P19 example,있어요,있다,covered
+P19 example,저는,저,covered
+P19 example,이,이,covered
+P19 example,단어만,단어,covered
+P19 example,외워요,외우다,covered
+P20 form,의,[grammar],covered
+P20 tip,저의,저,covered
+P20 tip,제,제,covered
+P20 tip,의,[grammar],covered
+P20 tip,한국어,한국어,covered
+P20 tip,단어,단어,covered
+P20 tip,한국어의,한국어,covered
+P20 tip,단어,단어,covered
+P20 example,어머니의,어머니,covered
+P20 example,우산이에요,우산,covered
+P20 example,친구의,친구,covered
+P20 example,이름을,이름,covered
+P20 example,써요,쓰다,covered
+P20 example,선생님의,선생님,covered
+P20 example,책이에요,책,covered
+P20 example,가족의,가족,covered
+P20 example,사진을,사진,covered
+P20 example,봐요,보다,covered
+P21 form,에게,[grammar],covered
+P21 form,한테,[grammar],covered
+P21 form,을,[grammar],covered
+P21 form,를,[grammar],covered
+P21 form,줘요,주다,covered
+P21 tip,한테,[grammar],covered
+P21 tip,에게,[grammar],covered
+P21 tip,에,[grammar],covered
+P21 example,친구한테,친구,covered
+P21 example,선물을,선물,covered
+P21 example,줘요,주다,covered
+P21 example,아기한테,아기,covered
+P21 example,우유를,우유,covered
+P21 example,줘요,주다,covered
+P21 example,강아지한테,강아지,covered
+P21 example,물을,물,covered
+P21 example,줘요,주다,covered
+P21 example,손님에게,손님,covered
+P21 example,정보를,정보,covered
+P21 example,줘요,주다,covered
+P22 form,에게,[grammar],covered
+P22 form,한테,[grammar],covered
+P22 form,을,[grammar],covered
+P22 form,를,[grammar],covered
+P22 form,보내요,보내다,covered
+P22 example,친구한테,친구,covered
+P22 example,편지를,편지,covered
+P22 example,보내요,보내다,covered
+P22 example,동료한테,동료,covered
+P22 example,메시지를,메시지,covered
+P22 example,보내요,보내다,covered
+P22 example,교수님에게,교수,covered
+P22 example,이메일을,이메일,covered
+P22 example,보내요,보내다,covered
+P22 example,가족한테,가족,covered
+P22 example,사진을,사진,covered
+P22 example,보내요,보내다,covered
+P23 form,에게,[grammar],covered
+P23 form,한테,[grammar],covered
+P23 example,저는,저,covered
+P23 example,아내한테,아내,covered
+P23 example,전화해요,전화하다,covered
+P23 example,학생은,학생,covered
+P23 example,선생님에게,선생님,covered
+P23 example,대답해요,대답하다,covered
+P23 example,이웃한테,이웃,covered
+P23 example,도움을,도움,covered
+P23 example,부탁해요,부탁하다,covered
+P23 example,친척한테,친척,covered
+P23 example,소식을,소식,covered
+P23 example,전해요,전하다,covered
+P24 form,에게,[grammar],covered
+P24 form,한테,[grammar],covered
+P24 form,을,[grammar],covered
+P24 form,를,[grammar],covered
+P24 example,간호사에게,간호사,covered
+P24 example,주소를,주소,covered
+P24 example,알려줘요,알려주다,covered
+P24 example,후배에게,후배,covered
+P24 example,전화번호를,전화번호,covered
+P24 example,알려줘요,알려주다,covered
+P24 example,외국인에게,외국인,covered
+P24 example,한국어를,한국어,covered
+P24 example,가르쳐요,가르치다,covered
+P24 example,경찰에게,경찰,covered
+P24 example,길을,길,covered
+P24 example,물어요,묻다,covered
+P25 form,에게,[grammar],covered
+P25 form,한테,[grammar],covered
+P25 example,선배에게,선배,covered
+P25 example,고마워요,고맙다,covered
+P25 example,손님에게,손님,covered
+P25 example,친절해요,친절하다,covered
+P25 example,직장인에게,직장인,covered
+P25 example,시간이,시간,covered
+P25 example,필요해요,필요하다,covered
+P26 example,저는,저,covered
+P26 example,버스로,버스,covered
+P26 example,카페에,카페,covered
+P26 example,가요,가다,covered
+P26 example,카페에서,카페,covered
+P26 example,친구를,친구,covered
+P26 example,만나요,만나다,covered
+P26 example,친구도,친구,covered
+P26 example,커피를,커피,covered
+P26 example,좋아해요,좋아하다,covered
+P26 example,친구한테,친구,covered
+P26 example,선물을,선물,covered
+P26 example,줘요,주다,covered
+source-0,친구가,친구,covered
+source-0,와요,오다,covered
+source-1,학생이,학생,covered
+source-1,공부해요,공부하다,covered
+source-2,아이가,아이,covered
+source-2,밥을,밥,covered
+source-2,먹어요,먹다,covered
+source-3,선생님이,선생님,covered
+source-3,책을,책,covered
+source-3,읽어요,읽다,covered
+source-4,학교가,학교,covered
+source-4,커요,크다,covered
+source-5,저는,저,covered
+source-5,한국어를,한국어,covered
+source-5,공부해요,공부하다,covered
+source-6,친구는,친구,covered
+source-6,커피를,커피,covered
+source-6,좋아해요,좋아하다,covered
+source-7,한국어는,한국어,covered
+source-7,재미있어요,재미있다,covered
+source-8,물을,물,covered
+source-8,마셔요,마시다,covered
+source-9,밥을,밥,covered
+source-9,먹어요,먹다,covered
+source-10,책을,책,covered
+source-10,읽어요,읽다,covered
+source-11,사진을,사진,covered
+source-11,봐요,보다,covered
+source-12,한국어를,한국어,covered
+source-12,공부해요,공부하다,covered
+source-13,숙제를,숙제,covered
+source-13,해요,하다,covered
+source-14,저는,저,covered
+source-14,커피를,커피,covered
+source-14,마셔요,마시다,covered
+source-15,친구는,친구,covered
+source-15,영화를,영화,covered
+source-15,봐요,보다,covered
+source-16,동생이,동생,covered
+source-16,밥을,밥,covered
+source-16,먹어요,먹다,covered
+source-17,저는,저,covered
+source-17,집에,집,covered
+source-17,있어요,있다,covered
+source-18,학교에,학교,covered
+source-18,가요,가다,covered
+source-19,공항에,공항,covered
+source-19,도착해요,도착하다,covered
+source-20,병원에,병원,covered
+source-20,가요,가다,covered
+source-21,카페에서,카페,covered
+source-21,공부해요,공부하다,covered
+source-22,식당에서,식당,covered
+source-22,밥을,밥,covered
+source-22,먹어요,먹다,covered
+source-23,사무실에서,사무실,covered
+source-23,일해요,일하다,covered
+source-24,도서관에서,도서관,covered
+source-24,책을,책,covered
+source-24,읽어요,읽다,covered
+source-25,집에,집,covered
+source-25,있어요,있다,covered
+source-26,집에,집,covered
+source-26,가요,가다,covered
+source-27,집에서,집,covered
+source-27,공부해요,공부하다,covered
+source-28,지하철로,지하철,covered
+source-28,회사에,회사,covered
+source-28,가요,가다,covered
+source-29,택시로,택시,covered
+source-29,병원에,병원,covered
+source-29,가요,가다,covered
+source-30,왼쪽으로,왼쪽,covered
+source-30,가요,가다,covered
+source-31,천천히,천천히,covered
+source-31,오른쪽으로,오른쪽,covered
+source-31,가요,가다,covered
+source-32,가위로,가위,covered
+source-32,종이를,종이,covered
+source-32,잘라요,자르다,covered
+source-33,컴퓨터로,컴퓨터,covered
+source-33,이메일을,이메일,covered
+source-33,보내요,보내다,covered
+source-34,젓가락으로,젓가락,covered
+source-34,밥을,밥,covered
+source-34,먹어요,먹다,covered
+source-35,종이로,종이,covered
+source-35,만들어요,만들다,covered
+source-36,나무로,나무,covered
+source-36,만들어요,만들다,covered
+source-37,유리로,유리,covered
+source-37,만들어요,만들다,covered
+source-38,플라스틱으로,플라스틱,covered
+source-38,만들어요,만들다,covered
+source-39,친구도,친구,covered
+source-39,와요,오다,covered
+source-40,커피도,커피,covered
+source-40,좋아해요,좋아하다,covered
+source-41,빵도,빵,covered
+source-41,먹어요,먹다,covered
+source-42,영화도,영화,covered
+source-42,봐요,보다,covered
+source-43,커피를,커피,covered
+source-43,마셔요,마시다,covered
+source-44,차도,차,covered
+source-44,마셔요,마시다,covered
+source-45,커피만,커피,covered
+source-45,마셔요,마시다,covered
+source-46,빵만,빵,covered
+source-46,먹어요,먹다,covered
+source-47,한국어만,한국어,covered
+source-47,공부해요,공부하다,covered
+source-48,휴대폰만,휴대폰,covered
+source-48,있어요,있다,covered
+source-49,어머니의,어머니,covered
+source-49,휴대폰이에요,휴대폰,covered
+source-50,친구의,친구,covered
+source-50,책이에요,책,covered
+source-51,선생님의,선생님,covered
+source-51,가방이에요,가방,covered
+source-52,강아지한테,강아지,covered
+source-52,밥을,밥,covered
+source-52,줘요,주다,covered
+source-53,친구한테,친구,covered
+source-53,문자를,문자,covered
+source-53,보내요,보내다,covered
+source-54,동료에게,동료,covered
+source-54,이메일을,이메일,covered
+source-54,보내요,보내다,covered
+source-55,친구한테,친구,covered
+source-55,전화해요,전화하다,covered
+source-56,사장님에게,사장님,covered
+source-56,연락해요,연락하다,covered
+source-57,선생님에게,선생님,covered
+source-57,질문해요,질문하다,covered
+source-58,경찰에게,경찰,covered
+source-58,물어요,묻다,covered
+source-59,선배한테,선배,covered
+source-59,부탁해요,부탁하다,covered
+source-60,후배에게,후배,covered
+source-60,알려줘요,알려주다,covered
+source-61,저는,저,covered
+source-61,카페에서,카페,covered
+source-61,커피를,커피,covered
+source-61,마셔요,마시다,covered
+source-62,저는,저,covered
+source-62,카페에서,카페,covered
+source-62,친구를,친구,covered
+source-62,만나요,만나다,covered
+source-63,저는,저,covered
+source-63,친구한테,친구,covered
+source-63,선물을,선물,covered
+source-63,줘요,주다,covered
+source-64,저는,저,covered
+source-64,오늘,오늘,covered
+source-64,버스로,버스,covered
+source-64,카페에,카페,covered
+source-64,가요,가다,covered
+source-65,저는,저,covered
+source-65,커피만,커피,covered
+source-65,마셔요,마시다,covered
+source-66,저는,저,covered
+source-66,버스로,버스,covered
+source-66,학교에,학교,covered
+source-66,가요,가다,covered
+source-67,저는,저,covered
+source-67,도서관에서,도서관,covered
+source-67,책을,책,covered
+source-67,읽어요,읽다,covered
+source-68,저는,저,covered
+source-68,친구한테,친구,covered
+source-68,사진을,사진,covered
+source-68,보내요,보내다,covered
+source-69,네,네,covered
+source-69,아버지는,아버지,covered
+source-69,커피를,커피,covered
+source-69,좋아해요,좋아하다,covered
+source-70,아니요,아니요,covered
+source-70,어머니는,어머니,covered
+source-70,차만,차,covered
+source-70,마셔요,마시다,covered
+source-71,네,네,covered
+source-71,카페에,카페,covered
+source-71,가요,가다,covered
+source-72,카페에,카페,covered
+source-72,가요,가다,covered
+source-73,버스로,버스,covered
+source-73,가요,가다,covered
+source-74,버스로,버스,covered
+source-74,카페에,카페,covered
+source-74,가요,가다,covered
+source-75,도서관에서,도서관,covered
+source-75,공부해요,공부하다,covered
+source-76,도서관에서,도서관,covered
+source-76,한국어를,한국어,covered
+source-76,공부해요,공부하다,covered
+source-77,친구한테,친구,covered
+source-77,보내요,보내다,covered
+source-78,사진을,사진,covered
+source-78,보내요,보내다,covered
+source-79,친구한테,친구,covered
+source-79,사진을,사진,covered
+source-79,보내요,보내다,covered
+source-80,어머니한테,어머니,covered
+source-80,줘요,주다,covered
+source-81,꽃이에요,꽃,covered
+source-82,어머니한테,어머니,covered
+source-82,꽃을,꽃,covered
+source-82,줘요,주다,covered
+source-83,오늘,오늘,covered
+source-83,학교에,학교,covered
+source-83,가요,가다,covered
+source-84,버스로,버스,covered
+source-84,학교에,학교,covered
+source-84,가요,가다,covered
+source-85,학교에서,학교,covered
+source-85,한국어를,한국어,covered
+source-85,공부해요,공부하다,covered
+source-86,공원에,공원,covered
+source-86,가요,가다,covered
+source-87,자전거로,자전거,covered
+source-87,공원에,공원,covered
+source-87,가요,가다,covered
+source-88,공원에서,공원,covered
+source-88,친구를,친구,covered
+source-88,만나요,만나다,covered
+source-89,친구한테,친구,covered
+source-89,사진을,사진,covered
+source-89,보여줘요,보여주다,covered
+source-90,저는,저,covered
+source-90,학생이에요,학생,covered
+source-91,카페에서,카페,covered
+source-91,커피를,커피,covered
+source-91,마셔요,마시다,covered
+source-92,빵도,빵,covered
+source-92,먹어요,먹다,covered
+source-93,이건,이것,covered
+source-93,제,제,covered
+source-93,가방이에요,가방,covered
+source-94,친구한테,친구,covered
+source-94,메시지를,메시지,covered
+source-94,보내요,보내다,covered
+source-95,친구한테,친구,covered
+source-95,사진도,사진,covered
+source-95,보내요,보내다,covered
+source-96,친구도,친구,covered
+source-96,한국어를,한국어,covered
+source-96,공부해요,공부하다,covered
+source-97,공원에서,공원,covered
+source-97,운동해요,운동하다,covered
+source-98,학교,학교,covered
+source-99,오른쪽으로,오른쪽,covered
+source-99,가세요,가다,covered
+source-100,한국어의,한국어,covered
+source-100,단어가,단어,covered
+source-100,재미있어요,재미있다,covered
+source-101,커피도,커피,covered
+source-101,커피만,커피,covered
+source-102,한국어도,한국어,covered
+source-102,한국어만,한국어,covered
+source-103,친구도,친구,covered
+source-103,친구만,친구,covered
+source-104,영화도,영화,covered
+source-104,영화만,영화,covered
+source-105,빵도,빵,covered
+source-105,빵만,빵,covered
+W001-A-01,저,저,covered
+W001-A-02,나,나,covered
+W001-A-03,친구,친구,covered
+W001-A-04,학생,학생,covered
+W001-A-05,선생님,선생님,covered
+W001-A-06,사람,사람,covered
+W001-A-07,가족,가족,covered
+W001-A-08,아이,아이,covered
+W001-C-01,는,[grammar],covered
+W001-C-01,물을,물,covered
+W001-C-01,마셔요,마시다,covered
+W001-C-01,저,저,covered
+W001-C-01,가족,가족,covered
+W001-C-01,책,책,covered
+W001-C-02,는,[grammar],covered
+W001-C-02,밥을,밥,covered
+W001-C-02,먹어요,먹다,covered
+W001-C-02,나,나,covered
+W001-C-02,아이,아이,covered
+W001-C-02,공책,공책,covered
+W001-C-03,가,가다,covered
+W001-C-03,와요,오다,covered
+W001-C-03,친구,친구,covered
+W001-C-03,부모님,부모님,covered
+W001-C-03,연필,연필,covered
+W001-C-04,은,[grammar],covered
+W001-C-04,공부해요,공부하다,covered
+W001-C-04,학생,학생,covered
+W001-C-04,동생,동생,covered
+W001-C-04,가방,가방,covered
+W001-C-05,이,이,covered
+W001-C-05,답을,답,covered
+W001-C-05,써요,쓰다,covered
+W001-C-05,선생님,선생님,covered
+W001-C-05,이름,이름,covered
+W001-C-05,사진,사진,covered
+W001-C-06,이,이,covered
+W001-C-06,많아요,많다,covered
+W001-C-06,사람,사람,covered
+W001-C-06,책,책,covered
+W001-C-06,숙제,숙제,covered
+W001-D-01,를,[grammar],covered
+W001-D-01,해요,하다,covered
+W001-D-02,을,[grammar],covered
+W001-D-02,마셔요,마시다,covered
+W001-D-03,을,[grammar],covered
+W001-D-03,먹어요,먹다,covered
+W001-D-04,를,[grammar],covered
+W001-D-04,마셔요,마시다,covered
+W001-D-05,이,이,covered
+W001-D-05,좋아요,좋다,covered
+W001-D-06,가,가다,covered
+W001-D-06,커요,크다,covered
+W001-D-07,는,[grammar],covered
+W001-D-07,커요,크다,covered
+W001-D-08,은,[grammar],covered
+W001-D-08,좋아요,좋다,covered
+W002-A-01,방,방,covered
+W002-A-02,교실,교실,covered
+W002-A-03,식당,식당,covered
+W002-A-04,카페,카페,covered
+W002-A-05,가게,가게,covered
+W002-A-06,병원,병원,covered
+W002-A-07,공원,공원,covered
+W002-A-08,도서관,도서관,covered
+W002-C-01,에,[grammar],covered
+W002-C-01,있어요,있다,covered
+W002-C-01,방,방,covered
+W002-C-01,공원,공원,covered
+W002-C-01,우체국,우체국,covered
+W002-C-02,에서,[grammar],covered
+W002-C-02,공부해요,공부하다,covered
+W002-C-02,교실,교실,covered
+W002-C-02,도서관,도서관,covered
+W002-C-02,역,역,covered
+W002-C-03,에서,[grammar],covered
+W002-C-03,먹어요,먹다,covered
+W002-C-03,식당,식당,covered
+W002-C-03,편의점,편의점,covered
+W002-C-03,공항,공항,covered
+W002-C-04,에서,[grammar],covered
+W002-C-04,만나요,만나다,covered
+W002-C-04,카페,카페,covered
+W002-C-04,은행,은행,covered
+W002-C-04,화장실,화장실,covered
+W002-C-05,에서,[grammar],covered
+W002-C-05,물을,물,covered
+W002-C-05,사요,사다,covered
+W002-C-05,가게,가게,covered
+W002-C-05,약국,약국,covered
+W002-C-05,시장,시장,covered
+W002-C-06,에,[grammar],covered
+W002-C-06,가요,가다,covered
+W002-C-06,병원,병원,covered
+W002-C-06,우체국,우체국,covered
+W002-C-06,미용실,미용실,covered
+W002-D-01,에,[grammar],covered
+W002-D-01,가요,가다,covered
+W002-D-02,에서,[grammar],covered
+W002-D-02,책을,책,covered
+W002-D-02,사요,사다,covered
+W002-D-03,에서,[grammar],covered
+W002-D-03,봐요,보다,covered
+W002-D-04,에서,[grammar],covered
+W002-D-04,물을,물,covered
+W002-D-04,마셔요,마시다,covered
+W002-D-05,에서,[grammar],covered
+W002-D-05,쉬어요,쉬다,covered
+W002-D-06,에,[grammar],covered
+W002-D-06,있어요,있다,covered
+W002-D-07,에서,[grammar],covered
+W002-D-07,일해요,일하다,covered
+W002-D-08,에서,[grammar],covered
+W002-D-08,만나요,만나다,covered
+W003-A-01,버스,버스,covered
+W003-A-02,지하철,지하철,covered
+W003-A-03,택시,택시,covered
+W003-A-04,자동차,자동차,covered
+W003-A-05,자전거,자전거,covered
+W003-A-06,기차,기차,covered
+W003-A-07,비행기,비행기,covered
+W003-A-08,배,배,covered
+W003-C-01,로,[grammar],covered
+W003-C-01,학교에,학교,covered
+W003-C-01,가요,가다,covered
+W003-C-01,버스,버스,covered
+W003-C-01,비행기,비행기,covered
+W003-C-01,동쪽,동쪽,covered
+W003-C-02,로,[grammar],covered
+W003-C-02,회사에,회사,covered
+W003-C-02,가요,가다,covered
+W003-C-02,지하철,지하철,covered
+W003-C-02,배,배,covered
+W003-C-02,서쪽,서쪽,covered
+W003-C-03,로,[grammar],covered
+W003-C-03,병원에,병원,covered
+W003-C-03,가요,가다,covered
+W003-C-03,택시,택시,covered
+W003-C-03,오토바이,오토바이,covered
+W003-C-03,남쪽,남쪽,covered
+W003-C-04,로,[grammar],covered
+W003-C-04,공항에,공항,covered
+W003-C-04,가요,가다,covered
+W003-C-04,자동차,자동차,covered
+W003-C-04,오른쪽,오른쪽,covered
+W003-C-04,북쪽,북쪽,covered
+W003-C-05,로,[grammar],covered
+W003-C-05,공원에,공원,covered
+W003-C-05,가요,가다,covered
+W003-C-05,자전거,자전거,covered
+W003-C-05,왼쪽,왼쪽,covered
+W003-C-05,펜,펜,covered
+W003-C-06,로,[grammar],covered
+W003-C-06,가요,가다,covered
+W003-C-06,기차,기차,covered
+W003-C-06,동쪽,동쪽,covered
+W003-C-06,볼펜,볼펜,covered
+W003-D-01,으로,[grammar],covered
+W003-D-01,이름을,이름,covered
+W003-D-01,써요,쓰다,covered
+W003-D-02,로,[grammar],covered
+W003-D-02,만들어요,만들다,covered
+W003-D-03,로,[grammar],covered
+W003-D-03,잘라요,자르다,covered
+W003-D-04,로,[grammar],covered
+W003-D-04,잘라요,자르다,covered
+W003-D-05,으로,[grammar],covered
+W003-D-05,먹어요,먹다,covered
+W003-D-06,으로,[grammar],covered
+W003-D-06,먹어요,먹다,covered
+W003-D-07,으로,[grammar],covered
+W003-D-07,물을,물,covered
+W003-D-07,마셔요,마시다,covered
+W003-D-08,로,[grammar],covered
+W003-D-08,사진을,사진,covered
+W003-D-08,찍어요,찍다,covered
+W004-A-01,아버지,아버지,covered
+W004-A-02,어머니,어머니,covered
+W004-A-03,형,형,covered
+W004-A-04,누나,누나,covered
+W004-A-05,언니,언니,covered
+W004-A-06,오빠,오빠,covered
+W004-A-07,할머니,할머니,covered
+W004-A-08,할아버지,할아버지,covered
+W004-C-01,의,[grammar],covered
+W004-C-01,시계예요,시계,covered
+W004-C-01,아버지,아버지,covered
+W004-C-01,할머니,할머니,covered
+W004-C-01,지갑,지갑,covered
+W004-C-02,의,[grammar],covered
+W004-C-02,휴대폰이에요,휴대폰,covered
+W004-C-02,어머니,어머니,covered
+W004-C-02,할아버지,할아버지,covered
+W004-C-02,돈,돈,covered
+W004-C-03,도,[grammar],covered
+W004-C-03,학생이에요,학생,covered
+W004-C-03,형,형,covered
+W004-C-03,남자,남자,covered
+W004-C-03,열쇠,열쇠,covered
+W004-C-04,도,[grammar],covered
+W004-C-04,와요,오다,covered
+W004-C-04,누나,누나,covered
+W004-C-04,여자,여자,covered
+W004-C-04,시계,시계,covered
+W004-C-05,의,[grammar],covered
+W004-C-05,선물이에요,선물,covered
+W004-C-05,언니,언니,covered
+W004-C-05,휴대폰,휴대폰,covered
+W004-C-05,옷,옷,covered
+W004-C-06,만,[grammar],covered
+W004-C-06,와요,오다,covered
+W004-C-06,오빠,오빠,covered
+W004-C-06,지갑,지갑,covered
+W004-C-06,신발,신발,covered
+W004-D-01,만,[grammar],covered
+W004-D-01,사요,사다,covered
+W004-D-02,도,[grammar],covered
+W004-D-02,써요,쓰다,covered
+W004-D-03,만,[grammar],covered
+W004-D-03,써요,쓰다,covered
+W004-D-04,도,[grammar],covered
+W004-D-04,있어요,있다,covered
+W004-D-05,만,[grammar],covered
+W004-D-05,줘요,주다,covered
+W004-D-06,도,[grammar],covered
+W004-D-06,좋아해요,좋아하다,covered
+W004-D-07,도,[grammar],covered
+W004-D-07,좋아해요,좋아하다,covered
+W004-D-08,만,[grammar],covered
+W004-D-08,먹어요,먹다,covered
+W005-A-01,손님,손님,covered
+W005-A-02,사장님,사장님,covered
+W005-A-03,경찰,경찰,covered
+W005-A-04,간호사,간호사,covered
+W005-A-05,남편,남편,covered
+W005-A-06,아내,아내,covered
+W005-A-07,아들,아들,covered
+W005-A-08,딸,딸,covered
+W005-C-01,한테,[grammar],covered
+W005-C-01,물을,물,covered
+W005-C-01,줘요,주다,covered
+W005-C-01,손님,손님,covered
+W005-C-01,아들,아들,covered
+W005-C-01,친척,친척,covered
+W005-C-02,에게,[grammar],covered
+W005-C-02,연락해요,연락하다,covered
+W005-C-02,사장님,사장님,covered
+W005-C-02,딸,딸,covered
+W005-C-02,이웃,이웃,covered
+W005-C-03,에게,[grammar],covered
+W005-C-03,말해요,말하다,covered
+W005-C-03,경찰,경찰,covered
+W005-C-03,아기,아기,covered
+W005-C-03,동료,동료,covered
+W005-C-04,에게,[grammar],covered
+W005-C-04,질문해요,질문하다,covered
+W005-C-04,간호사,간호사,covered
+W005-C-04,어린이,어린이,covered
+W005-C-04,선배,선배,covered
+W005-C-05,한테,[grammar],covered
+W005-C-05,전화해요,전화하다,covered
+W005-C-05,남편,남편,covered
+W005-C-05,어른,어른,covered
+W005-C-05,후배,후배,covered
+W005-C-06,에게,[grammar],covered
+W005-C-06,선물을,선물,covered
+W005-C-06,줘요,주다,covered
+W005-C-06,아내,아내,covered
+W005-C-06,친척,친척,covered
+W005-C-06,교수,교수,covered
+W005-D-01,님에게,[grammar],covered
+W005-D-01,질문해요,질문하다,covered
+W005-D-02,에게,[grammar],covered
+W005-D-02,시간이,시간,covered
+W005-D-02,필요해요,필요하다,covered
+W005-D-03,에게,[grammar],covered
+W005-D-03,한국어를,한국어,covered
+W005-D-03,가르쳐요,가르치다,covered
+W005-D-04,한테,[grammar],covered
+W005-D-04,물어봐요,물어보다,covered
+W005-D-05,에게,[grammar],covered
+W005-D-05,말해요,말하다,covered
+W005-D-06,한테,[grammar],covered
+W005-D-06,줘요,주다,covered
+W005-D-07,한테,[grammar],covered
+W005-D-07,물을,물,covered
+W005-D-07,줘요,주다,covered
+W005-D-08,한테,[grammar],covered
+W005-D-08,밥을,밥,covered
+W005-D-08,줘요,주다,covered
+P01-1 model,친구가,친구,covered
+P01-1 model,와요,오다,covered
+P01-2 model,학생이,학생,covered
+P01-2 model,책을,책,covered
+P01-2 model,읽어요,읽다,covered
+P02-1 model,날씨가,날씨,covered
+P02-1 model,좋아요,좋다,covered
+P02-2 model,문제가,문제,covered
+P02-2 model,어려워요,어렵다,covered
+P03-1 model,저는,저,covered
+P03-1 model,물을,물,covered
+P03-1 model,마셔요,마시다,covered
+P03-2 model,친구는,친구,covered
+P03-2 model,커피를,커피,covered
+P03-2 model,마셔요,마시다,covered
+P04-1 model,동생은,동생,covered
+P04-1 model,밥을,밥,covered
+P04-1 model,먹어요,먹다,covered
+P04-2 model,학생은,학생,covered
+P04-2 model,한국어를,한국어,covered
+P04-2 model,공부해요,공부하다,covered
+P05-1 model,시간이,시간,covered
+P05-1 model,있어요,있다,covered
+P05-2 model,숙제가,숙제,covered
+P05-2 model,없어요,없다,covered
+P06-1 model,저는,저,covered
+P06-1 model,학생이에요,학생,covered
+P06-2 model,이건,이것,covered
+P06-2 model,제,제,covered
+P06-2 model,가방이에요,가방,covered
+P07-1 model,저는,저,covered
+P07-1 model,방에,방,covered
+P07-1 model,있어요,있다,covered
+P07-2 model,가방은,가방,covered
+P07-2 model,교실에,교실,covered
+P07-2 model,있어요,있다,covered
+P08-1 model,친구는,친구,covered
+P08-1 model,학교에,학교,covered
+P08-1 model,가요,가다,covered
+P08-2 model,택시는,택시,covered
+P08-2 model,공항에,공항,covered
+P08-2 model,도착해요,도착하다,covered
+P09-1 model,저는,저,covered
+P09-1 model,도서관에서,도서관,covered
+P09-1 model,공부해요,공부하다,covered
+P09-2 model,친구는,친구,covered
+P09-2 model,카페에서,카페,covered
+P09-2 model,기다려요,기다리다,covered
+P10-1 model,약국은,약국,covered
+P10-1 model,편의점,편의점,covered
+P10-1 model,앞에,앞,covered
+P10-1 model,있어요,있다,covered
+P10-2 model,휴대폰이,휴대폰,covered
+P10-2 model,가방,가방,covered
+P10-2 model,안에,안,covered
+P10-2 model,있어요,있다,covered
+P11-1 model,한국에,한국,covered
+P11-1 model,살아요,살다,covered
+P11-2 model,집이,집,covered
+P11-2 model,역에,역,covered
+P11-2 model,가까워요,가깝다,covered
+P12-1 model,저는,저,covered
+P12-1 model,버스로,버스,covered
+P12-1 model,가요,가다,covered
+P12-2 model,친구는,친구,covered
+P12-2 model,지하철로,지하철,covered
+P12-2 model,와요,오다,covered
+P13-1 model,오른쪽으로,오른쪽,covered
+P13-1 model,가요,가다,covered
+P13-2 model,왼쪽으로,왼쪽,covered
+P13-2 model,천천히,천천히,covered
+P13-2 model,가요,가다,covered
+P14-1 model,볼펜으로,볼펜,covered
+P14-1 model,이름을,이름,covered
+P14-1 model,써요,쓰다,covered
+P14-2 model,종이를,종이,covered
+P14-2 model,가위로,가위,covered
+P14-2 model,잘라요,자르다,covered
+P15-1 model,나무로,나무,covered
+P15-1 model,책상을,책상,covered
+P15-1 model,만들어요,만들다,covered
+P15-2 model,종이로,종이,covered
+P15-2 model,선물을,선물,covered
+P15-2 model,만들어요,만들다,covered
+P16-1 model,영어로,영어,covered
+P16-1 model,말해요,말하다,covered
+P16-2 model,한국어로,한국어,covered
+P16-2 model,말해요,말하다,covered
+P17-1 model,의사로,의사,covered
+P17-1 model,일해요,일하다,covered
+P17-2 model,요리사로,요리사,covered
+P17-2 model,일해요,일하다,covered
+P18-1 model,저도,저,covered
+P18-1 model,학생이에요,학생,covered
+P18-2 model,동생도,동생,covered
+P18-2 model,빵을,빵,covered
+P18-2 model,먹어요,먹다,covered
+P19-1 model,저는,저,covered
+P19-1 model,커피만,커피,covered
+P19-1 model,마셔요,마시다,covered
+P19-2 model,친구는,친구,covered
+P19-2 model,빵만,빵,covered
+P19-2 model,먹어요,먹다,covered
+P20-1 model,어머니의,어머니,covered
+P20-1 model,우산이에요,우산,covered
+P20-2 model,친구의,친구,covered
+P20-2 model,이름을,이름,covered
+P20-2 model,써요,쓰다,covered
+P21-1 model,친구한테,친구,covered
+P21-1 model,선물을,선물,covered
+P21-1 model,줘요,주다,covered
+P21-2 model,아기한테,아기,covered
+P21-2 model,우유를,우유,covered
+P21-2 model,줘요,주다,covered
+P22-1 model,친구한테,친구,covered
+P22-1 model,편지를,편지,covered
+P22-1 model,보내요,보내다,covered
+P22-2 model,동료한테,동료,covered
+P22-2 model,메시지를,메시지,covered
+P22-2 model,보내요,보내다,covered
+P23-1 model,저는,저,covered
+P23-1 model,아내한테,아내,covered
+P23-1 model,전화해요,전화하다,covered
+P23-2 model,학생은,학생,covered
+P23-2 model,선생님에게,선생님,covered
+P23-2 model,대답해요,대답하다,covered
+P24-1 model,간호사에게,간호사,covered
+P24-1 model,주소를,주소,covered
+P24-1 model,알려줘요,알려주다,covered
+P24-2 model,후배에게,후배,covered
+P24-2 model,전화번호를,전화번호,covered
+P24-2 model,알려줘요,알려주다,covered
+P25-1 model,선배에게,선배,covered
+P25-1 model,고마워요,고맙다,covered
+P25-2 model,손님에게,손님,covered
+P25-2 model,친절해요,친절하다,covered
+P26-1 model,저는,저,covered
+P26-1 model,버스로,버스,covered
+P26-1 model,카페에,카페,covered
+P26-1 model,가요,가다,covered
+P26-2 model,카페에서,카페,covered
+P26-2 model,친구를,친구,covered
+P26-2 model,만나요,만나다,covered

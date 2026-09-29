@@ -1,0 +1,1352 @@
+[
+  {
+    "id": "W001-A-01",
+    "ch": 1,
+    "part": "A",
+    "ko": "저",
+    "instruction": "Say the English meaning. Then use the Korean word in a short sentence.",
+    "kind": "word-test",
+    "extension": false
+  },
+  {
+    "id": "W001-A-02",
+    "ch": 1,
+    "part": "A",
+    "ko": "나",
+    "instruction": "Say the English meaning. Then use the Korean word in a short sentence.",
+    "kind": "word-test",
+    "extension": false
+  },
+  {
+    "id": "W001-A-03",
+    "ch": 1,
+    "part": "A",
+    "ko": "친구",
+    "instruction": "Say the English meaning. Then use the Korean word in a short sentence.",
+    "kind": "word-test",
+    "extension": false
+  },
+  {
+    "id": "W001-A-04",
+    "ch": 1,
+    "part": "A",
+    "ko": "학생",
+    "instruction": "Say the English meaning. Then use the Korean word in a short sentence.",
+    "kind": "word-test",
+    "extension": false
+  },
+  {
+    "id": "W001-A-05",
+    "ch": 1,
+    "part": "A",
+    "ko": "선생님",
+    "instruction": "Say the English meaning. Then use the Korean word in a short sentence.",
+    "kind": "word-test",
+    "extension": false
+  },
+  {
+    "id": "W001-A-06",
+    "ch": 1,
+    "part": "A",
+    "ko": "사람",
+    "instruction": "Say the English meaning. Then use the Korean word in a short sentence.",
+    "kind": "word-test",
+    "extension": false
+  },
+  {
+    "id": "W001-A-07",
+    "ch": 1,
+    "part": "A",
+    "ko": "가족",
+    "instruction": "Say the English meaning. Then use the Korean word in a short sentence.",
+    "kind": "word-test",
+    "extension": false
+  },
+  {
+    "id": "W001-A-08",
+    "ch": 1,
+    "part": "A",
+    "ko": "아이",
+    "instruction": "Say the English meaning. Then use the Korean word in a short sentence.",
+    "kind": "word-test",
+    "extension": false
+  },
+  {
+    "id": "W001-B-01",
+    "ch": 1,
+    "part": "B",
+    "ko": "parents (respectful)",
+    "instruction": "Say the Korean word aloud. No written answer is needed.",
+    "kind": "word-test",
+    "extension": false
+  },
+  {
+    "id": "W001-B-02",
+    "ch": 1,
+    "part": "B",
+    "ko": "younger sibling",
+    "instruction": "Say the Korean word aloud. No written answer is needed.",
+    "kind": "word-test",
+    "extension": false
+  },
+  {
+    "id": "W001-B-03",
+    "ch": 1,
+    "part": "B",
+    "ko": "name",
+    "instruction": "Say the Korean word aloud. No written answer is needed.",
+    "kind": "word-test",
+    "extension": false
+  },
+  {
+    "id": "W001-B-04",
+    "ch": 1,
+    "part": "B",
+    "ko": "book",
+    "instruction": "Say the Korean word aloud. No written answer is needed.",
+    "kind": "word-test",
+    "extension": false
+  },
+  {
+    "id": "W001-B-05",
+    "ch": 1,
+    "part": "B",
+    "ko": "notebook",
+    "instruction": "Say the Korean word aloud. No written answer is needed.",
+    "kind": "word-test",
+    "extension": false
+  },
+  {
+    "id": "W001-B-06",
+    "ch": 1,
+    "part": "B",
+    "ko": "pencil",
+    "instruction": "Say the Korean word aloud. No written answer is needed.",
+    "kind": "word-test",
+    "extension": false
+  },
+  {
+    "id": "W001-B-07",
+    "ch": 1,
+    "part": "B",
+    "ko": "bag",
+    "instruction": "Say the Korean word aloud. No written answer is needed.",
+    "kind": "word-test",
+    "extension": false
+  },
+  {
+    "id": "W001-B-08",
+    "ch": 1,
+    "part": "B",
+    "ko": "photo",
+    "instruction": "Say the Korean word aloud. No written answer is needed.",
+    "kind": "word-test",
+    "extension": false
+  },
+  {
+    "id": "W001-C-01",
+    "ch": 1,
+    "part": "C",
+    "ko": "____는 물을 마셔요. (저 / 가족 / 책)",
+    "instruction": "Choose any suitable option and say the whole sentence. Several choices may work; check the particle too.",
+    "kind": "word-test",
+    "extension": false
+  },
+  {
+    "id": "W001-C-02",
+    "ch": 1,
+    "part": "C",
+    "ko": "____는 밥을 먹어요. (나 / 아이 / 공책)",
+    "instruction": "Choose any suitable option and say the whole sentence. Several choices may work; check the particle too.",
+    "kind": "word-test",
+    "extension": false
+  },
+  {
+    "id": "W001-C-03",
+    "ch": 1,
+    "part": "C",
+    "ko": "____가 와요. (친구 / 부모님 / 연필)",
+    "instruction": "Choose any suitable option and say the whole sentence. Several choices may work; check the particle too.",
+    "kind": "word-test",
+    "extension": false
+  },
+  {
+    "id": "W001-C-04",
+    "ch": 1,
+    "part": "C",
+    "ko": "____은 공부해요. (학생 / 동생 / 가방)",
+    "instruction": "Choose any suitable option and say the whole sentence. Several choices may work; check the particle too.",
+    "kind": "word-test",
+    "extension": false
+  },
+  {
+    "id": "W001-C-05",
+    "ch": 1,
+    "part": "C",
+    "ko": "____이 답을 써요. (선생님 / 이름 / 사진)",
+    "instruction": "Choose any suitable option and say the whole sentence. Several choices may work; check the particle too.",
+    "kind": "word-test",
+    "extension": false
+  },
+  {
+    "id": "W001-C-06",
+    "ch": 1,
+    "part": "C",
+    "ko": "____이 많아요. (사람 / 책 / 숙제)",
+    "instruction": "Choose any suitable option and say the whole sentence. Several choices may work; check the particle too.",
+    "kind": "word-test",
+    "extension": false
+  },
+  {
+    "id": "W001-D-01",
+    "ch": 1,
+    "part": "D",
+    "ko": "____를 해요. [homework]",
+    "instruction": "Complete the blank using the English hint. Say the whole Korean sentence.",
+    "kind": "word-test",
+    "extension": false
+  },
+  {
+    "id": "W001-D-02",
+    "ch": 1,
+    "part": "D",
+    "ko": "____을 마셔요. [water]",
+    "instruction": "Complete the blank using the English hint. Say the whole Korean sentence.",
+    "kind": "word-test",
+    "extension": false
+  },
+  {
+    "id": "W001-D-03",
+    "ch": 1,
+    "part": "D",
+    "ko": "____을 먹어요. [meal]",
+    "instruction": "Complete the blank using the English hint. Say the whole Korean sentence.",
+    "kind": "word-test",
+    "extension": false
+  },
+  {
+    "id": "W001-D-04",
+    "ch": 1,
+    "part": "D",
+    "ko": "____를 마셔요. [coffee]",
+    "instruction": "Complete the blank using the English hint. Say the whole Korean sentence.",
+    "kind": "word-test",
+    "extension": false
+  },
+  {
+    "id": "W001-D-05",
+    "ch": 1,
+    "part": "D",
+    "ko": "____이 좋아요. [home]",
+    "instruction": "Complete the blank using the English hint. Say the whole Korean sentence.",
+    "kind": "word-test",
+    "extension": false
+  },
+  {
+    "id": "W001-D-06",
+    "ch": 1,
+    "part": "D",
+    "ko": "____가 커요. [school]",
+    "instruction": "Complete the blank using the English hint. Say the whole Korean sentence.",
+    "kind": "word-test",
+    "extension": false
+  },
+  {
+    "id": "W001-D-07",
+    "ch": 1,
+    "part": "D",
+    "ko": "____는 커요. [company]",
+    "instruction": "Complete the blank using the English hint. Say the whole Korean sentence.",
+    "kind": "word-test",
+    "extension": false
+  },
+  {
+    "id": "W001-D-08",
+    "ch": 1,
+    "part": "D",
+    "ko": "____은 좋아요. [Korea]",
+    "instruction": "Complete the blank using the English hint. Say the whole Korean sentence.",
+    "kind": "word-test",
+    "extension": false
+  },
+  {
+    "id": "W002-A-01",
+    "ch": 2,
+    "part": "A",
+    "ko": "방",
+    "instruction": "Say the English meaning. Then use the Korean word in a short sentence.",
+    "kind": "word-test",
+    "extension": false
+  },
+  {
+    "id": "W002-A-02",
+    "ch": 2,
+    "part": "A",
+    "ko": "교실",
+    "instruction": "Say the English meaning. Then use the Korean word in a short sentence.",
+    "kind": "word-test",
+    "extension": false
+  },
+  {
+    "id": "W002-A-03",
+    "ch": 2,
+    "part": "A",
+    "ko": "식당",
+    "instruction": "Say the English meaning. Then use the Korean word in a short sentence.",
+    "kind": "word-test",
+    "extension": false
+  },
+  {
+    "id": "W002-A-04",
+    "ch": 2,
+    "part": "A",
+    "ko": "카페",
+    "instruction": "Say the English meaning. Then use the Korean word in a short sentence.",
+    "kind": "word-test",
+    "extension": false
+  },
+  {
+    "id": "W002-A-05",
+    "ch": 2,
+    "part": "A",
+    "ko": "가게",
+    "instruction": "Say the English meaning. Then use the Korean word in a short sentence.",
+    "kind": "word-test",
+    "extension": false
+  },
+  {
+    "id": "W002-A-06",
+    "ch": 2,
+    "part": "A",
+    "ko": "병원",
+    "instruction": "Say the English meaning. Then use the Korean word in a short sentence.",
+    "kind": "word-test",
+    "extension": false
+  },
+  {
+    "id": "W002-A-07",
+    "ch": 2,
+    "part": "A",
+    "ko": "공원",
+    "instruction": "Say the English meaning. Then use the Korean word in a short sentence.",
+    "kind": "word-test",
+    "extension": false
+  },
+  {
+    "id": "W002-A-08",
+    "ch": 2,
+    "part": "A",
+    "ko": "도서관",
+    "instruction": "Say the English meaning. Then use the Korean word in a short sentence.",
+    "kind": "word-test",
+    "extension": false
+  },
+  {
+    "id": "W002-B-01",
+    "ch": 2,
+    "part": "B",
+    "ko": "convenience store",
+    "instruction": "Say the Korean word aloud. No written answer is needed.",
+    "kind": "word-test",
+    "extension": false
+  },
+  {
+    "id": "W002-B-02",
+    "ch": 2,
+    "part": "B",
+    "ko": "bank",
+    "instruction": "Say the Korean word aloud. No written answer is needed.",
+    "kind": "word-test",
+    "extension": false
+  },
+  {
+    "id": "W002-B-03",
+    "ch": 2,
+    "part": "B",
+    "ko": "pharmacy",
+    "instruction": "Say the Korean word aloud. No written answer is needed.",
+    "kind": "word-test",
+    "extension": false
+  },
+  {
+    "id": "W002-B-04",
+    "ch": 2,
+    "part": "B",
+    "ko": "post office",
+    "instruction": "Say the Korean word aloud. No written answer is needed.",
+    "kind": "word-test",
+    "extension": false
+  },
+  {
+    "id": "W002-B-05",
+    "ch": 2,
+    "part": "B",
+    "ko": "station",
+    "instruction": "Say the Korean word aloud. No written answer is needed.",
+    "kind": "word-test",
+    "extension": false
+  },
+  {
+    "id": "W002-B-06",
+    "ch": 2,
+    "part": "B",
+    "ko": "airport",
+    "instruction": "Say the Korean word aloud. No written answer is needed.",
+    "kind": "word-test",
+    "extension": false
+  },
+  {
+    "id": "W002-B-07",
+    "ch": 2,
+    "part": "B",
+    "ko": "restroom / bathroom",
+    "instruction": "Say the Korean word aloud. No written answer is needed.",
+    "kind": "word-test",
+    "extension": false
+  },
+  {
+    "id": "W002-B-08",
+    "ch": 2,
+    "part": "B",
+    "ko": "market",
+    "instruction": "Say the Korean word aloud. No written answer is needed.",
+    "kind": "word-test",
+    "extension": false
+  },
+  {
+    "id": "W002-C-01",
+    "ch": 2,
+    "part": "C",
+    "ko": "____에 있어요. (방 / 공원 / 우체국)",
+    "instruction": "Choose any suitable option and say the whole sentence. Several choices may work; check the particle too.",
+    "kind": "word-test",
+    "extension": false
+  },
+  {
+    "id": "W002-C-02",
+    "ch": 2,
+    "part": "C",
+    "ko": "____에서 공부해요. (교실 / 도서관 / 역)",
+    "instruction": "Choose any suitable option and say the whole sentence. Several choices may work; check the particle too.",
+    "kind": "word-test",
+    "extension": false
+  },
+  {
+    "id": "W002-C-03",
+    "ch": 2,
+    "part": "C",
+    "ko": "____에서 먹어요. (식당 / 편의점 / 공항)",
+    "instruction": "Choose any suitable option and say the whole sentence. Several choices may work; check the particle too.",
+    "kind": "word-test",
+    "extension": false
+  },
+  {
+    "id": "W002-C-04",
+    "ch": 2,
+    "part": "C",
+    "ko": "____에서 만나요. (카페 / 은행 / 화장실)",
+    "instruction": "Choose any suitable option and say the whole sentence. Several choices may work; check the particle too.",
+    "kind": "word-test",
+    "extension": false
+  },
+  {
+    "id": "W002-C-05",
+    "ch": 2,
+    "part": "C",
+    "ko": "____에서 물을 사요. (가게 / 약국 / 시장)",
+    "instruction": "Choose any suitable option and say the whole sentence. Several choices may work; check the particle too.",
+    "kind": "word-test",
+    "extension": false
+  },
+  {
+    "id": "W002-C-06",
+    "ch": 2,
+    "part": "C",
+    "ko": "____에 가요. (병원 / 우체국 / 미용실)",
+    "instruction": "Choose any suitable option and say the whole sentence. Several choices may work; check the particle too.",
+    "kind": "word-test",
+    "extension": false
+  },
+  {
+    "id": "W002-D-01",
+    "ch": 2,
+    "part": "D",
+    "ko": "____에 가요. [hair salon]",
+    "instruction": "Complete the blank using the English hint. Say the whole Korean sentence.",
+    "kind": "word-test",
+    "extension": false
+  },
+  {
+    "id": "W002-D-02",
+    "ch": 2,
+    "part": "D",
+    "ko": "____에서 책을 사요. [bookstore]",
+    "instruction": "Complete the blank using the English hint. Say the whole Korean sentence.",
+    "kind": "word-test",
+    "extension": false
+  },
+  {
+    "id": "W002-D-03",
+    "ch": 2,
+    "part": "D",
+    "ko": "____에서 봐요. [movie theater]",
+    "instruction": "Complete the blank using the English hint. Say the whole Korean sentence.",
+    "kind": "word-test",
+    "extension": false
+  },
+  {
+    "id": "W002-D-04",
+    "ch": 2,
+    "part": "D",
+    "ko": "____에서 물을 마셔요. [kitchen]",
+    "instruction": "Complete the blank using the English hint. Say the whole Korean sentence.",
+    "kind": "word-test",
+    "extension": false
+  },
+  {
+    "id": "W002-D-05",
+    "ch": 2,
+    "part": "D",
+    "ko": "____에서 쉬어요. [living room]",
+    "instruction": "Complete the blank using the English hint. Say the whole Korean sentence.",
+    "kind": "word-test",
+    "extension": false
+  },
+  {
+    "id": "W002-D-06",
+    "ch": 2,
+    "part": "D",
+    "ko": "____에 있어요. [bedroom]",
+    "instruction": "Complete the blank using the English hint. Say the whole Korean sentence.",
+    "kind": "word-test",
+    "extension": false
+  },
+  {
+    "id": "W002-D-07",
+    "ch": 2,
+    "part": "D",
+    "ko": "____에서 일해요. [office]",
+    "instruction": "Complete the blank using the English hint. Say the whole Korean sentence.",
+    "kind": "word-test",
+    "extension": false
+  },
+  {
+    "id": "W002-D-08",
+    "ch": 2,
+    "part": "D",
+    "ko": "____에서 만나요. [meeting room]",
+    "instruction": "Complete the blank using the English hint. Say the whole Korean sentence.",
+    "kind": "word-test",
+    "extension": false
+  },
+  {
+    "id": "W003-A-01",
+    "ch": 3,
+    "part": "A",
+    "ko": "버스",
+    "instruction": "Say the English meaning. Then use the Korean word in a short sentence.",
+    "kind": "word-test",
+    "extension": false
+  },
+  {
+    "id": "W003-A-02",
+    "ch": 3,
+    "part": "A",
+    "ko": "지하철",
+    "instruction": "Say the English meaning. Then use the Korean word in a short sentence.",
+    "kind": "word-test",
+    "extension": false
+  },
+  {
+    "id": "W003-A-03",
+    "ch": 3,
+    "part": "A",
+    "ko": "택시",
+    "instruction": "Say the English meaning. Then use the Korean word in a short sentence.",
+    "kind": "word-test",
+    "extension": false
+  },
+  {
+    "id": "W003-A-04",
+    "ch": 3,
+    "part": "A",
+    "ko": "자동차",
+    "instruction": "Say the English meaning. Then use the Korean word in a short sentence.",
+    "kind": "word-test",
+    "extension": false
+  },
+  {
+    "id": "W003-A-05",
+    "ch": 3,
+    "part": "A",
+    "ko": "자전거",
+    "instruction": "Say the English meaning. Then use the Korean word in a short sentence.",
+    "kind": "word-test",
+    "extension": false
+  },
+  {
+    "id": "W003-A-06",
+    "ch": 3,
+    "part": "A",
+    "ko": "기차",
+    "instruction": "Say the English meaning. Then use the Korean word in a short sentence.",
+    "kind": "word-test",
+    "extension": false
+  },
+  {
+    "id": "W003-A-07",
+    "ch": 3,
+    "part": "A",
+    "ko": "비행기",
+    "instruction": "Say the English meaning. Then use the Korean word in a short sentence.",
+    "kind": "word-test",
+    "extension": false
+  },
+  {
+    "id": "W003-A-08",
+    "ch": 3,
+    "part": "A",
+    "ko": "배",
+    "instruction": "Say the English meaning. Then use the Korean word in a short sentence.",
+    "kind": "word-test",
+    "extension": false
+  },
+  {
+    "id": "W003-B-01",
+    "ch": 3,
+    "part": "B",
+    "ko": "motorcycle",
+    "instruction": "Say the Korean word aloud. No written answer is needed.",
+    "kind": "word-test",
+    "extension": false
+  },
+  {
+    "id": "W003-B-02",
+    "ch": 3,
+    "part": "B",
+    "ko": "right side",
+    "instruction": "Say the Korean word aloud. No written answer is needed.",
+    "kind": "word-test",
+    "extension": false
+  },
+  {
+    "id": "W003-B-03",
+    "ch": 3,
+    "part": "B",
+    "ko": "left side",
+    "instruction": "Say the Korean word aloud. No written answer is needed.",
+    "kind": "word-test",
+    "extension": false
+  },
+  {
+    "id": "W003-B-04",
+    "ch": 3,
+    "part": "B",
+    "ko": "east",
+    "instruction": "Say the Korean word aloud. No written answer is needed.",
+    "kind": "word-test",
+    "extension": false
+  },
+  {
+    "id": "W003-B-05",
+    "ch": 3,
+    "part": "B",
+    "ko": "west",
+    "instruction": "Say the Korean word aloud. No written answer is needed.",
+    "kind": "word-test",
+    "extension": false
+  },
+  {
+    "id": "W003-B-06",
+    "ch": 3,
+    "part": "B",
+    "ko": "south",
+    "instruction": "Say the Korean word aloud. No written answer is needed.",
+    "kind": "word-test",
+    "extension": false
+  },
+  {
+    "id": "W003-B-07",
+    "ch": 3,
+    "part": "B",
+    "ko": "north",
+    "instruction": "Say the Korean word aloud. No written answer is needed.",
+    "kind": "word-test",
+    "extension": false
+  },
+  {
+    "id": "W003-B-08",
+    "ch": 3,
+    "part": "B",
+    "ko": "pen",
+    "instruction": "Say the Korean word aloud. No written answer is needed.",
+    "kind": "word-test",
+    "extension": false
+  },
+  {
+    "id": "W003-C-01",
+    "ch": 3,
+    "part": "C",
+    "ko": "____로 학교에 가요. (버스 / 비행기 / 동쪽)",
+    "instruction": "Choose any suitable option and say the whole sentence. Several choices may work; check the particle too.",
+    "kind": "word-test",
+    "extension": false
+  },
+  {
+    "id": "W003-C-02",
+    "ch": 3,
+    "part": "C",
+    "ko": "____로 회사에 가요. (지하철 / 배 / 서쪽)",
+    "instruction": "Choose any suitable option and say the whole sentence. Several choices may work; check the particle too.",
+    "kind": "word-test",
+    "extension": false
+  },
+  {
+    "id": "W003-C-03",
+    "ch": 3,
+    "part": "C",
+    "ko": "____로 병원에 가요. (택시 / 오토바이 / 남쪽)",
+    "instruction": "Choose any suitable option and say the whole sentence. Several choices may work; check the particle too.",
+    "kind": "word-test",
+    "extension": false
+  },
+  {
+    "id": "W003-C-04",
+    "ch": 3,
+    "part": "C",
+    "ko": "____로 공항에 가요. (자동차 / 오른쪽 / 북쪽)",
+    "instruction": "Choose any suitable option and say the whole sentence. Several choices may work; check the particle too.",
+    "kind": "word-test",
+    "extension": false
+  },
+  {
+    "id": "W003-C-05",
+    "ch": 3,
+    "part": "C",
+    "ko": "____로 공원에 가요. (자전거 / 왼쪽 / 펜)",
+    "instruction": "Choose any suitable option and say the whole sentence. Several choices may work; check the particle too.",
+    "kind": "word-test",
+    "extension": false
+  },
+  {
+    "id": "W003-C-06",
+    "ch": 3,
+    "part": "C",
+    "ko": "____로 가요. (기차 / 동쪽 / 볼펜)",
+    "instruction": "Choose any suitable option and say the whole sentence. Several choices may work; check the particle too.",
+    "kind": "word-test",
+    "extension": false
+  },
+  {
+    "id": "W003-D-01",
+    "ch": 3,
+    "part": "D",
+    "ko": "____으로 이름을 써요. [ballpoint pen]",
+    "instruction": "Complete the blank using the English hint. Say the whole Korean sentence.",
+    "kind": "word-test",
+    "extension": false
+  },
+  {
+    "id": "W003-D-02",
+    "ch": 3,
+    "part": "D",
+    "ko": "____로 만들어요. [paper]",
+    "instruction": "Complete the blank using the English hint. Say the whole Korean sentence.",
+    "kind": "word-test",
+    "extension": false
+  },
+  {
+    "id": "W003-D-03",
+    "ch": 3,
+    "part": "D",
+    "ko": "____로 잘라요. [knife]",
+    "instruction": "Complete the blank using the English hint. Say the whole Korean sentence.",
+    "kind": "word-test",
+    "extension": false
+  },
+  {
+    "id": "W003-D-04",
+    "ch": 3,
+    "part": "D",
+    "ko": "____로 잘라요. [scissors]",
+    "instruction": "Complete the blank using the English hint. Say the whole Korean sentence.",
+    "kind": "word-test",
+    "extension": false
+  },
+  {
+    "id": "W003-D-05",
+    "ch": 3,
+    "part": "D",
+    "ko": "____으로 먹어요. [spoon]",
+    "instruction": "Complete the blank using the English hint. Say the whole Korean sentence.",
+    "kind": "word-test",
+    "extension": false
+  },
+  {
+    "id": "W003-D-06",
+    "ch": 3,
+    "part": "D",
+    "ko": "____으로 먹어요. [chopsticks]",
+    "instruction": "Complete the blank using the English hint. Say the whole Korean sentence.",
+    "kind": "word-test",
+    "extension": false
+  },
+  {
+    "id": "W003-D-07",
+    "ch": 3,
+    "part": "D",
+    "ko": "____으로 물을 마셔요. [cup]",
+    "instruction": "Complete the blank using the English hint. Say the whole Korean sentence.",
+    "kind": "word-test",
+    "extension": false
+  },
+  {
+    "id": "W003-D-08",
+    "ch": 3,
+    "part": "D",
+    "ko": "____로 사진을 찍어요. [camera]",
+    "instruction": "Complete the blank using the English hint. Say the whole Korean sentence.",
+    "kind": "word-test",
+    "extension": false
+  },
+  {
+    "id": "W004-A-01",
+    "ch": 4,
+    "part": "A",
+    "ko": "아버지",
+    "instruction": "Say the English meaning. Then use the Korean word in a short sentence.",
+    "kind": "word-test",
+    "extension": false
+  },
+  {
+    "id": "W004-A-02",
+    "ch": 4,
+    "part": "A",
+    "ko": "어머니",
+    "instruction": "Say the English meaning. Then use the Korean word in a short sentence.",
+    "kind": "word-test",
+    "extension": false
+  },
+  {
+    "id": "W004-A-03",
+    "ch": 4,
+    "part": "A",
+    "ko": "형",
+    "instruction": "Say the English meaning. Then use the Korean word in a short sentence.",
+    "kind": "word-test",
+    "extension": false
+  },
+  {
+    "id": "W004-A-04",
+    "ch": 4,
+    "part": "A",
+    "ko": "누나",
+    "instruction": "Say the English meaning. Then use the Korean word in a short sentence.",
+    "kind": "word-test",
+    "extension": false
+  },
+  {
+    "id": "W004-A-05",
+    "ch": 4,
+    "part": "A",
+    "ko": "언니",
+    "instruction": "Say the English meaning. Then use the Korean word in a short sentence.",
+    "kind": "word-test",
+    "extension": false
+  },
+  {
+    "id": "W004-A-06",
+    "ch": 4,
+    "part": "A",
+    "ko": "오빠",
+    "instruction": "Say the English meaning. Then use the Korean word in a short sentence.",
+    "kind": "word-test",
+    "extension": false
+  },
+  {
+    "id": "W004-A-07",
+    "ch": 4,
+    "part": "A",
+    "ko": "할머니",
+    "instruction": "Say the English meaning. Then use the Korean word in a short sentence.",
+    "kind": "word-test",
+    "extension": false
+  },
+  {
+    "id": "W004-A-08",
+    "ch": 4,
+    "part": "A",
+    "ko": "할아버지",
+    "instruction": "Say the English meaning. Then use the Korean word in a short sentence.",
+    "kind": "word-test",
+    "extension": false
+  },
+  {
+    "id": "W004-B-01",
+    "ch": 4,
+    "part": "B",
+    "ko": "man",
+    "instruction": "Say the Korean word aloud. No written answer is needed.",
+    "kind": "word-test",
+    "extension": false
+  },
+  {
+    "id": "W004-B-02",
+    "ch": 4,
+    "part": "B",
+    "ko": "woman",
+    "instruction": "Say the Korean word aloud. No written answer is needed.",
+    "kind": "word-test",
+    "extension": false
+  },
+  {
+    "id": "W004-B-03",
+    "ch": 4,
+    "part": "B",
+    "ko": "mobile phone",
+    "instruction": "Say the Korean word aloud. No written answer is needed.",
+    "kind": "word-test",
+    "extension": false
+  },
+  {
+    "id": "W004-B-04",
+    "ch": 4,
+    "part": "B",
+    "ko": "wallet",
+    "instruction": "Say the Korean word aloud. No written answer is needed.",
+    "kind": "word-test",
+    "extension": false
+  },
+  {
+    "id": "W004-B-05",
+    "ch": 4,
+    "part": "B",
+    "ko": "money",
+    "instruction": "Say the Korean word aloud. No written answer is needed.",
+    "kind": "word-test",
+    "extension": false
+  },
+  {
+    "id": "W004-B-06",
+    "ch": 4,
+    "part": "B",
+    "ko": "key",
+    "instruction": "Say the Korean word aloud. No written answer is needed.",
+    "kind": "word-test",
+    "extension": false
+  },
+  {
+    "id": "W004-B-07",
+    "ch": 4,
+    "part": "B",
+    "ko": "watch / clock",
+    "instruction": "Say the Korean word aloud. No written answer is needed.",
+    "kind": "word-test",
+    "extension": false
+  },
+  {
+    "id": "W004-B-08",
+    "ch": 4,
+    "part": "B",
+    "ko": "clothes",
+    "instruction": "Say the Korean word aloud. No written answer is needed.",
+    "kind": "word-test",
+    "extension": false
+  },
+  {
+    "id": "W004-C-01",
+    "ch": 4,
+    "part": "C",
+    "ko": "____의 시계예요. (아버지 / 할머니 / 지갑)",
+    "instruction": "Choose any suitable option and say the whole sentence. Several choices may work; check the particle too.",
+    "kind": "word-test",
+    "extension": false
+  },
+  {
+    "id": "W004-C-02",
+    "ch": 4,
+    "part": "C",
+    "ko": "____의 휴대폰이에요. (어머니 / 할아버지 / 돈)",
+    "instruction": "Choose any suitable option and say the whole sentence. Several choices may work; check the particle too.",
+    "kind": "word-test",
+    "extension": false
+  },
+  {
+    "id": "W004-C-03",
+    "ch": 4,
+    "part": "C",
+    "ko": "____도 학생이에요. (형 / 남자 / 열쇠)",
+    "instruction": "Choose any suitable option and say the whole sentence. Several choices may work; check the particle too.",
+    "kind": "word-test",
+    "extension": false
+  },
+  {
+    "id": "W004-C-04",
+    "ch": 4,
+    "part": "C",
+    "ko": "____도 와요. (누나 / 여자 / 시계)",
+    "instruction": "Choose any suitable option and say the whole sentence. Several choices may work; check the particle too.",
+    "kind": "word-test",
+    "extension": false
+  },
+  {
+    "id": "W004-C-05",
+    "ch": 4,
+    "part": "C",
+    "ko": "____의 선물이에요. (언니 / 휴대폰 / 옷)",
+    "instruction": "Choose any suitable option and say the whole sentence. Several choices may work; check the particle too.",
+    "kind": "word-test",
+    "extension": false
+  },
+  {
+    "id": "W004-C-06",
+    "ch": 4,
+    "part": "C",
+    "ko": "____만 와요. (오빠 / 지갑 / 신발)",
+    "instruction": "Choose any suitable option and say the whole sentence. Several choices may work; check the particle too.",
+    "kind": "word-test",
+    "extension": false
+  },
+  {
+    "id": "W004-D-01",
+    "ch": 4,
+    "part": "D",
+    "ko": "____만 사요. [shoes]",
+    "instruction": "Complete the blank using the English hint. Say the whole Korean sentence.",
+    "kind": "word-test",
+    "extension": false
+  },
+  {
+    "id": "W004-D-02",
+    "ch": 4,
+    "part": "D",
+    "ko": "____도 써요. [hat]",
+    "instruction": "Complete the blank using the English hint. Say the whole Korean sentence.",
+    "kind": "word-test",
+    "extension": false
+  },
+  {
+    "id": "W004-D-03",
+    "ch": 4,
+    "part": "D",
+    "ko": "____만 써요. [glasses]",
+    "instruction": "Complete the blank using the English hint. Say the whole Korean sentence.",
+    "kind": "word-test",
+    "extension": false
+  },
+  {
+    "id": "W004-D-04",
+    "ch": 4,
+    "part": "D",
+    "ko": "____도 있어요. [umbrella]",
+    "instruction": "Complete the blank using the English hint. Say the whole Korean sentence.",
+    "kind": "word-test",
+    "extension": false
+  },
+  {
+    "id": "W004-D-05",
+    "ch": 4,
+    "part": "D",
+    "ko": "____만 줘요. [gift]",
+    "instruction": "Complete the blank using the English hint. Say the whole Korean sentence.",
+    "kind": "word-test",
+    "extension": false
+  },
+  {
+    "id": "W004-D-06",
+    "ch": 4,
+    "part": "D",
+    "ko": "____도 좋아해요. [flower]",
+    "instruction": "Complete the blank using the English hint. Say the whole Korean sentence.",
+    "kind": "word-test",
+    "extension": false
+  },
+  {
+    "id": "W004-D-07",
+    "ch": 4,
+    "part": "D",
+    "ko": "____도 좋아해요. [food]",
+    "instruction": "Complete the blank using the English hint. Say the whole Korean sentence.",
+    "kind": "word-test",
+    "extension": false
+  },
+  {
+    "id": "W004-D-08",
+    "ch": 4,
+    "part": "D",
+    "ko": "____만 먹어요. [apple]",
+    "instruction": "Complete the blank using the English hint. Say the whole Korean sentence.",
+    "kind": "word-test",
+    "extension": false
+  },
+  {
+    "id": "W005-A-01",
+    "ch": 5,
+    "part": "A",
+    "ko": "손님",
+    "instruction": "Say the English meaning. Then use the Korean word in a short sentence.",
+    "kind": "word-test",
+    "extension": false
+  },
+  {
+    "id": "W005-A-02",
+    "ch": 5,
+    "part": "A",
+    "ko": "사장님",
+    "instruction": "Say the English meaning. Then use the Korean word in a short sentence.",
+    "kind": "word-test",
+    "extension": false
+  },
+  {
+    "id": "W005-A-03",
+    "ch": 5,
+    "part": "A",
+    "ko": "경찰",
+    "instruction": "Say the English meaning. Then use the Korean word in a short sentence.",
+    "kind": "word-test",
+    "extension": false
+  },
+  {
+    "id": "W005-A-04",
+    "ch": 5,
+    "part": "A",
+    "ko": "간호사",
+    "instruction": "Say the English meaning. Then use the Korean word in a short sentence.",
+    "kind": "word-test",
+    "extension": false
+  },
+  {
+    "id": "W005-A-05",
+    "ch": 5,
+    "part": "A",
+    "ko": "남편",
+    "instruction": "Say the English meaning. Then use the Korean word in a short sentence.",
+    "kind": "word-test",
+    "extension": false
+  },
+  {
+    "id": "W005-A-06",
+    "ch": 5,
+    "part": "A",
+    "ko": "아내",
+    "instruction": "Say the English meaning. Then use the Korean word in a short sentence.",
+    "kind": "word-test",
+    "extension": false
+  },
+  {
+    "id": "W005-A-07",
+    "ch": 5,
+    "part": "A",
+    "ko": "아들",
+    "instruction": "Say the English meaning. Then use the Korean word in a short sentence.",
+    "kind": "word-test",
+    "extension": false
+  },
+  {
+    "id": "W005-A-08",
+    "ch": 5,
+    "part": "A",
+    "ko": "딸",
+    "instruction": "Say the English meaning. Then use the Korean word in a short sentence.",
+    "kind": "word-test",
+    "extension": false
+  },
+  {
+    "id": "W005-B-01",
+    "ch": 5,
+    "part": "B",
+    "ko": "baby",
+    "instruction": "Say the Korean word aloud. No written answer is needed.",
+    "kind": "word-test",
+    "extension": false
+  },
+  {
+    "id": "W005-B-02",
+    "ch": 5,
+    "part": "B",
+    "ko": "child / children (neutral-polite term)",
+    "instruction": "Say the Korean word aloud. No written answer is needed.",
+    "kind": "word-test",
+    "extension": false
+  },
+  {
+    "id": "W005-B-03",
+    "ch": 5,
+    "part": "B",
+    "ko": "adult / grown-up",
+    "instruction": "Say the Korean word aloud. No written answer is needed.",
+    "kind": "word-test",
+    "extension": false
+  },
+  {
+    "id": "W005-B-04",
+    "ch": 5,
+    "part": "B",
+    "ko": "relative",
+    "instruction": "Say the Korean word aloud. No written answer is needed.",
+    "kind": "word-test",
+    "extension": false
+  },
+  {
+    "id": "W005-B-05",
+    "ch": 5,
+    "part": "B",
+    "ko": "neighbor",
+    "instruction": "Say the Korean word aloud. No written answer is needed.",
+    "kind": "word-test",
+    "extension": false
+  },
+  {
+    "id": "W005-B-06",
+    "ch": 5,
+    "part": "B",
+    "ko": "colleague / coworker",
+    "instruction": "Say the Korean word aloud. No written answer is needed.",
+    "kind": "word-test",
+    "extension": false
+  },
+  {
+    "id": "W005-B-07",
+    "ch": 5,
+    "part": "B",
+    "ko": "senior / more experienced peer",
+    "instruction": "Say the Korean word aloud. No written answer is needed.",
+    "kind": "word-test",
+    "extension": false
+  },
+  {
+    "id": "W005-B-08",
+    "ch": 5,
+    "part": "B",
+    "ko": "junior / less experienced peer",
+    "instruction": "Say the Korean word aloud. No written answer is needed.",
+    "kind": "word-test",
+    "extension": false
+  },
+  {
+    "id": "W005-C-01",
+    "ch": 5,
+    "part": "C",
+    "ko": "____한테 물을 줘요. (손님 / 아들 / 친척)",
+    "instruction": "Choose any suitable option and say the whole sentence. Several choices may work; check the particle too.",
+    "kind": "word-test",
+    "extension": false
+  },
+  {
+    "id": "W005-C-02",
+    "ch": 5,
+    "part": "C",
+    "ko": "____에게 연락해요. (사장님 / 딸 / 이웃)",
+    "instruction": "Choose any suitable option and say the whole sentence. Several choices may work; check the particle too.",
+    "kind": "word-test",
+    "extension": false
+  },
+  {
+    "id": "W005-C-03",
+    "ch": 5,
+    "part": "C",
+    "ko": "____에게 말해요. (경찰 / 아기 / 동료)",
+    "instruction": "Choose any suitable option and say the whole sentence. Several choices may work; check the particle too.",
+    "kind": "word-test",
+    "extension": false
+  },
+  {
+    "id": "W005-C-04",
+    "ch": 5,
+    "part": "C",
+    "ko": "____에게 질문해요. (간호사 / 어린이 / 선배)",
+    "instruction": "Choose any suitable option and say the whole sentence. Several choices may work; check the particle too.",
+    "kind": "word-test",
+    "extension": false
+  },
+  {
+    "id": "W005-C-05",
+    "ch": 5,
+    "part": "C",
+    "ko": "____한테 전화해요. (남편 / 어른 / 후배)",
+    "instruction": "Choose any suitable option and say the whole sentence. Several choices may work; check the particle too.",
+    "kind": "word-test",
+    "extension": false
+  },
+  {
+    "id": "W005-C-06",
+    "ch": 5,
+    "part": "C",
+    "ko": "____에게 선물을 줘요. (아내 / 친척 / 교수)",
+    "instruction": "Choose any suitable option and say the whole sentence. Several choices may work; check the particle too.",
+    "kind": "word-test",
+    "extension": false
+  },
+  {
+    "id": "W005-D-01",
+    "ch": 5,
+    "part": "D",
+    "ko": "____님에게 질문해요. [professor]",
+    "instruction": "Complete the blank using the English hint. Say the whole Korean sentence.",
+    "kind": "word-test",
+    "extension": false
+  },
+  {
+    "id": "W005-D-02",
+    "ch": 5,
+    "part": "D",
+    "ko": "____에게 시간이 필요해요. [working adult]",
+    "instruction": "Complete the blank using the English hint. Say the whole Korean sentence.",
+    "kind": "word-test",
+    "extension": false
+  },
+  {
+    "id": "W005-D-03",
+    "ch": 5,
+    "part": "D",
+    "ko": "____에게 한국어를 가르쳐요. [foreigner]",
+    "instruction": "Complete the blank using the English hint. Say the whole Korean sentence.",
+    "kind": "word-test",
+    "extension": false
+  },
+  {
+    "id": "W005-D-04",
+    "ch": 5,
+    "part": "D",
+    "ko": "____한테 물어봐요. [Korean person]",
+    "instruction": "Complete the blank using the English hint. Say the whole Korean sentence.",
+    "kind": "word-test",
+    "extension": false
+  },
+  {
+    "id": "W005-D-05",
+    "ch": 5,
+    "part": "D",
+    "ko": "____에게 말해요. [you all]",
+    "instruction": "Complete the blank using the English hint. Say the whole Korean sentence.",
+    "kind": "word-test",
+    "extension": false
+  },
+  {
+    "id": "W005-D-06",
+    "ch": 5,
+    "part": "D",
+    "ko": "____한테 줘요? [who]",
+    "instruction": "Complete the blank using the English hint. Say the whole Korean sentence.",
+    "kind": "word-test",
+    "extension": false
+  },
+  {
+    "id": "W005-D-07",
+    "ch": 5,
+    "part": "D",
+    "ko": "____한테 물을 줘요. [animal]",
+    "instruction": "Complete the blank using the English hint. Say the whole Korean sentence.",
+    "kind": "word-test",
+    "extension": false
+  },
+  {
+    "id": "W005-D-08",
+    "ch": 5,
+    "part": "D",
+    "ko": "____한테 밥을 줘요. [puppy]",
+    "instruction": "Complete the blank using the English hint. Say the whole Korean sentence.",
+    "kind": "word-test",
+    "extension": false
+  }
+]

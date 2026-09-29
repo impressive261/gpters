@@ -1,0 +1,106 @@
+# One sheet per day
+
+- pdfs/01_Daily_Conversation/S01_CORE_01.pdf: About me / 1
+- pdfs/01_Daily_Conversation/S01_CORE_02.pdf: About me / 2
+- pdfs/01_Daily_Conversation/S01_CORE_03.pdf: About me / 3
+- pdfs/01_Daily_Conversation/S02_CORE_01.pdf: Family and people / 1
+- pdfs/01_Daily_Conversation/S02_CORE_02.pdf: Family and people / 2
+- pdfs/01_Daily_Conversation/S02_CORE_03.pdf: Family and people / 3
+- pdfs/02_Optional_Extension/S02_EXT_01.pdf: Family and people / 1
+- pdfs/01_Daily_Conversation/S03_CORE_01.pdf: Home and location / 1
+- pdfs/01_Daily_Conversation/S03_CORE_02.pdf: Home and location / 2
+- pdfs/01_Daily_Conversation/S03_CORE_03.pdf: Home and location / 3
+- pdfs/01_Daily_Conversation/S04_CORE_01.pdf: My neighborhood / 1
+- pdfs/01_Daily_Conversation/S04_CORE_02.pdf: My neighborhood / 2
+- pdfs/01_Daily_Conversation/S04_CORE_03.pdf: My neighborhood / 3
+- pdfs/02_Optional_Extension/S04_EXT_01.pdf: My neighborhood / 1
+- pdfs/01_Daily_Conversation/S05_CORE_01.pdf: Transportation / 1
+- pdfs/01_Daily_Conversation/S05_CORE_02.pdf: Transportation / 2
+- pdfs/02_Optional_Extension/S05_EXT_01.pdf: Transportation / 1
+- pdfs/01_Daily_Conversation/S06_CORE_01.pdf: Directions / 1
+- pdfs/01_Daily_Conversation/S06_CORE_02.pdf: Directions / 2
+- pdfs/02_Optional_Extension/S06_EXT_01.pdf: Directions / 1
+- pdfs/01_Daily_Conversation/S07_CORE_01.pdf: Tools and everyday actions / 1
+- pdfs/01_Daily_Conversation/S07_CORE_02.pdf: Tools and everyday actions / 2
+- pdfs/01_Daily_Conversation/S07_CORE_03.pdf: Tools and everyday actions / 3
+- pdfs/01_Daily_Conversation/S08_CORE_01.pdf: Also and only / 1
+- pdfs/01_Daily_Conversation/S08_CORE_02.pdf: Also and only / 2
+- pdfs/01_Daily_Conversation/S08_CORE_03.pdf: Also and only / 3
+- pdfs/02_Optional_Extension/S08_EXT_01.pdf: Also and only / 1
+- pdfs/01_Daily_Conversation/S09_CORE_01.pdf: Whose is it? / 1
+- pdfs/01_Daily_Conversation/S09_CORE_02.pdf: Whose is it? / 2
+- pdfs/01_Daily_Conversation/S10_CORE_01.pdf: Giving and sending / 1
+- pdfs/01_Daily_Conversation/S10_CORE_02.pdf: Giving and sending / 2
+- pdfs/01_Daily_Conversation/S10_CORE_03.pdf: Giving and sending / 3
+- pdfs/02_Optional_Extension/S10_EXT_01.pdf: Giving and sending / 1
+- pdfs/01_Daily_Conversation/S11_CORE_01.pdf: Communication / 1
+- pdfs/01_Daily_Conversation/S11_CORE_02.pdf: Communication / 2
+- pdfs/01_Daily_Conversation/S11_CORE_03.pdf: Communication / 3
+- pdfs/02_Optional_Extension/S11_EXT_01.pdf: Communication / 1
+- pdfs/01_Daily_Conversation/S12_CORE_01.pdf: One day in my life / 1
+- pdfs/01_Daily_Conversation/S12_CORE_02.pdf: One day in my life / 2
+- pdfs/01_Daily_Conversation/S12_CORE_03.pdf: One day in my life / 3
+- pdfs/02_Optional_Extension/S12_EXT_01.pdf: One day in my life / 1
+- pdfs/01_Daily_Conversation/S13_CORE_01.pdf: At a cafe / 1
+- pdfs/01_Daily_Conversation/S13_CORE_02.pdf: At a cafe / 2
+- pdfs/01_Daily_Conversation/S13_CORE_03.pdf: At a cafe / 3
+- pdfs/02_Optional_Extension/S13_EXT_01.pdf: At a cafe / 1
+- pdfs/01_Daily_Conversation/S14_CORE_01.pdf: Shopping / 1
+- pdfs/01_Daily_Conversation/S14_CORE_02.pdf: Shopping / 2
+- pdfs/01_Daily_Conversation/S14_CORE_03.pdf: Shopping / 3
+- pdfs/02_Optional_Extension/S14_EXT_01.pdf: Shopping / 1
+- pdfs/01_Daily_Conversation/S15_CORE_01.pdf: Korean class / 1
+- pdfs/01_Daily_Conversation/S15_CORE_02.pdf: Korean class / 2
+- pdfs/01_Daily_Conversation/S15_CORE_03.pdf: Korean class / 3
+- pdfs/02_Optional_Extension/S15_EXT_01.pdf: Korean class / 1
+- pdfs/01_Daily_Conversation/S16_CORE_01.pdf: Travel / 1
+- pdfs/01_Daily_Conversation/S16_CORE_02.pdf: Travel / 2
+- pdfs/01_Daily_Conversation/S16_CORE_03.pdf: Travel / 3
+- pdfs/02_Optional_Extension/S16_EXT_01.pdf: Travel / 1
+- pdfs/01_Daily_Conversation/S17_CORE_01.pdf: A missing item / 1
+- pdfs/01_Daily_Conversation/S17_CORE_02.pdf: A missing item / 2
+- pdfs/02_Optional_Extension/S17_EXT_01.pdf: A missing item / 1
+- pdfs/01_Daily_Conversation/S18_CORE_01.pdf: Add one more detail / 1
+- pdfs/01_Daily_Conversation/S19_CORE_01.pdf: Quick speaking review / 1
+- pdfs/01_Daily_Conversation/S19_CORE_02.pdf: Quick speaking review / 2
+- pdfs/01_Daily_Conversation/S19_CORE_03.pdf: Quick speaking review / 3
+- pdfs/01_Daily_Conversation/S19_CORE_04.pdf: Quick speaking review / 4
+- pdfs/01_Daily_Conversation/S20_CORE_01.pdf: Follow-up questions / 1
+- pdfs/01_Daily_Conversation/S20_CORE_02.pdf: Follow-up questions / 2
+- pdfs/01_Daily_Conversation/S20_CORE_03.pdf: Follow-up questions / 3
+- pdfs/02_Optional_Extension/S20_EXT_01.pdf: Follow-up questions / 1
+- pdfs/01_Daily_Conversation/S21_CORE_01.pdf: One question, three sentences / 1
+- pdfs/02_Optional_Extension/S21_EXT_01.pdf: One question, three sentences / 1
+- pdfs/01_Daily_Conversation/S22_CORE_01.pdf: Materials, languages and jobs / 1
+- pdfs/01_Daily_Conversation/S22_CORE_02.pdf: Materials, languages and jobs / 2
+- pdfs/03_Sentence_Practice/CH001_Sentences_01.pdf: Chapter 001 / Build a sentence 1
+- pdfs/03_Sentence_Practice/CH001_Sentences_02.pdf: Chapter 001 / Build a sentence 2
+- pdfs/04_Word_Review/CH001_Words_A.pdf: Chapter 001 / Word review A
+- pdfs/04_Word_Review/CH001_Words_B.pdf: Chapter 001 / Word review B
+- pdfs/04_Word_Review/CH001_Words_C.pdf: Chapter 001 / Word review C
+- pdfs/04_Word_Review/CH001_Words_D.pdf: Chapter 001 / Word review D
+- pdfs/03_Sentence_Practice/CH002_Sentences_01.pdf: Chapter 002 / Build a sentence 1
+- pdfs/03_Sentence_Practice/CH002_Sentences_02.pdf: Chapter 002 / Build a sentence 2
+- pdfs/04_Word_Review/CH002_Words_A.pdf: Chapter 002 / Word review A
+- pdfs/04_Word_Review/CH002_Words_B.pdf: Chapter 002 / Word review B
+- pdfs/04_Word_Review/CH002_Words_C.pdf: Chapter 002 / Word review C
+- pdfs/04_Word_Review/CH002_Words_D.pdf: Chapter 002 / Word review D
+- pdfs/03_Sentence_Practice/CH003_Sentences_01.pdf: Chapter 003 / Build a sentence 1
+- pdfs/03_Sentence_Practice/CH003_Sentences_02.pdf: Chapter 003 / Build a sentence 2
+- pdfs/04_Word_Review/CH003_Words_A.pdf: Chapter 003 / Word review A
+- pdfs/04_Word_Review/CH003_Words_B.pdf: Chapter 003 / Word review B
+- pdfs/04_Word_Review/CH003_Words_C.pdf: Chapter 003 / Word review C
+- pdfs/04_Word_Review/CH003_Words_D.pdf: Chapter 003 / Word review D
+- pdfs/03_Sentence_Practice/CH004_Sentences_01.pdf: Chapter 004 / Build a sentence 1
+- pdfs/04_Word_Review/CH004_Words_A.pdf: Chapter 004 / Word review A
+- pdfs/04_Word_Review/CH004_Words_B.pdf: Chapter 004 / Word review B
+- pdfs/04_Word_Review/CH004_Words_C.pdf: Chapter 004 / Word review C
+- pdfs/04_Word_Review/CH004_Words_D.pdf: Chapter 004 / Word review D
+- pdfs/03_Sentence_Practice/CH005_Sentences_01.pdf: Chapter 005 / Build a sentence 1
+- pdfs/03_Sentence_Practice/CH005_Sentences_02.pdf: Chapter 005 / Build a sentence 2
+- pdfs/04_Word_Review/CH005_Words_A.pdf: Chapter 005 / Word review A
+- pdfs/04_Word_Review/CH005_Words_B.pdf: Chapter 005 / Word review B
+- pdfs/04_Word_Review/CH005_Words_C.pdf: Chapter 005 / Word review C
+- pdfs/04_Word_Review/CH005_Words_D.pdf: Chapter 005 / Word review D
+- pdfs/03_Sentence_Practice/Final_Speaking_Mission.pdf: Your day / One connected story
+- pdfs/03_Sentence_Practice/Also_Only_Contrast.pdf: Also or only / Change the meaning

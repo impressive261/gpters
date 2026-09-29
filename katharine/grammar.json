@@ -1,0 +1,167 @@
+[
+  {
+    "ko": "이/가",
+    "en": "subject particle",
+    "level": "Core"
+  },
+  {
+    "ko": "은/는",
+    "en": "topic / contrast particle",
+    "level": "Core"
+  },
+  {
+    "ko": "을/를",
+    "en": "object particle",
+    "level": "Core"
+  },
+  {
+    "ko": "에",
+    "en": "location / destination; time in extensions",
+    "level": "Core"
+  },
+  {
+    "ko": "에서",
+    "en": "action location; source/reference point",
+    "level": "Core"
+  },
+  {
+    "ko": "(으)로",
+    "en": "means / direction / material / language / role",
+    "level": "Core"
+  },
+  {
+    "ko": "도",
+    "en": "also / too",
+    "level": "Core"
+  },
+  {
+    "ko": "만",
+    "en": "only",
+    "level": "Core"
+  },
+  {
+    "ko": "의",
+    "en": "possession / relationship",
+    "level": "Core"
+  },
+  {
+    "ko": "에게/한테",
+    "en": "recipient / person addressed",
+    "level": "Core"
+  },
+  {
+    "ko": "-아요/-어요/-해요",
+    "en": "polite present-style ending",
+    "level": "Core"
+  },
+  {
+    "ko": "이에요/예요",
+    "en": "polite forms of 이다",
+    "level": "Core"
+  },
+  {
+    "ko": "-요",
+    "en": "politeness ending/particle in relevant forms",
+    "level": "Core"
+  },
+  {
+    "ko": "와/과",
+    "en": "and / with after nouns",
+    "level": "Extension"
+  },
+  {
+    "ko": "하고/(이)랑",
+    "en": "and / with, conversational",
+    "level": "Extension"
+  },
+  {
+    "ko": "까지",
+    "en": "up to / as far as",
+    "level": "Extension"
+  },
+  {
+    "ko": "-고",
+    "en": "and / linking verbs",
+    "level": "Extension"
+  },
+  {
+    "ko": "-고 있다",
+    "en": "ongoing action / resulting state in selected verbs",
+    "level": "Extension"
+  },
+  {
+    "ko": "-고 싶다",
+    "en": "want to do",
+    "level": "Extension"
+  },
+  {
+    "ko": "-(으)면",
+    "en": "if / when",
+    "level": "Extension"
+  },
+  {
+    "ko": "-는",
+    "en": "present action modifying a noun",
+    "level": "Extension"
+  },
+  {
+    "ko": "-(으)ㄴ",
+    "en": "adjective or completed-action modifier",
+    "level": "Extension"
+  },
+  {
+    "ko": "-(으)ㄹ",
+    "en": "prospective modifier",
+    "level": "Extension"
+  },
+  {
+    "ko": "-았-/-었-",
+    "en": "past-tense marker",
+    "level": "Extension"
+  },
+  {
+    "ko": "-(으)ㄹ 수 있다",
+    "en": "can / be able to",
+    "level": "Extension"
+  },
+  {
+    "ko": "-(으)ㄴ 적이 있다",
+    "en": "have ever done",
+    "level": "Extension"
+  },
+  {
+    "ko": "-(으)세요",
+    "en": "polite request or honorific present form",
+    "level": "Extension"
+  },
+  {
+    "ko": "-(으)시-",
+    "en": "subject honorific marker",
+    "level": "Extension"
+  },
+  {
+    "ko": "(이)라고",
+    "en": "quotation particle, including 뭐라고",
+    "level": "Extension"
+  },
+  {
+    "ko": "-게",
+    "en": "adverb-forming ending",
+    "level": "Teacher-only"
+  },
+  {
+    "ko": "-도록",
+    "en": "so that / instruction purpose",
+    "level": "Teacher-only"
+  },
+  {
+    "ko": "-보다",
+    "en": "comparison pattern in teacher notes",
+    "level": "Teacher-only"
+  },
+  {
+    "ko": "-님",
+    "en": "respectful suffix for a person or title",
+    "level": "Core"
+  }
+]

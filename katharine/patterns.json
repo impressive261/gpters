@@ -1,0 +1,654 @@
+[
+  {
+    "id": "P01",
+    "ch": 1,
+    "title": "Who or what?",
+    "form": "N이/가 + verb",
+    "en": "Name the person or thing doing an action.",
+    "examples": [
+      {
+        "ko": "친구가 와요.",
+        "en": "A friend is coming."
+      },
+      {
+        "ko": "학생이 책을 읽어요.",
+        "en": "The student reads a book."
+      },
+      {
+        "ko": "선생님이 답을 써요.",
+        "en": "The teacher writes the answer."
+      }
+    ],
+    "tip": "이 follows a final consonant; 가 follows a vowel. 누구 + 가 becomes 누가; 저 + 가 becomes 제가."
+  },
+  {
+    "id": "P02",
+    "ch": 1,
+    "title": "Describe something",
+    "form": "N이/가 + adjective",
+    "en": "Say what something is like.",
+    "examples": [
+      {
+        "ko": "날씨가 좋아요.",
+        "en": "The weather is good."
+      },
+      {
+        "ko": "문제가 어려워요.",
+        "en": "The question is difficult."
+      },
+      {
+        "ko": "한국어가 재미있어요.",
+        "en": "Korean is interesting."
+      },
+      {
+        "ko": "사람이 많아요.",
+        "en": "There are many people."
+      }
+    ],
+    "tip": "좋다 uses 이/가 for what is good; 좋아하다 takes 을/를 for what you like."
+  },
+  {
+    "id": "P03",
+    "ch": 1,
+    "title": "Set a topic",
+    "form": "N은/는 + information",
+    "en": "Give information about a topic or make a contrast.",
+    "examples": [
+      {
+        "ko": "저는 물을 마셔요.",
+        "en": "I drink water."
+      },
+      {
+        "ko": "친구는 커피를 마셔요.",
+        "en": "My friend drinks coffee."
+      },
+      {
+        "ko": "오늘은 시간이 많아요.",
+        "en": "I have a lot of time today."
+      },
+      {
+        "ko": "책은 작아요.",
+        "en": "The book is small."
+      }
+    ],
+    "tip": "은 follows a final consonant; 는 follows a vowel. A topic is not automatically the subject. 이/가 is not limited to new information."
+  },
+  {
+    "id": "P04",
+    "ch": 1,
+    "title": "Objects of actions",
+    "form": "N을/를 + verb",
+    "en": "Name what you eat, read, watch, write or study.",
+    "examples": [
+      {
+        "ko": "동생은 밥을 먹어요.",
+        "en": "My younger sibling eats a meal."
+      },
+      {
+        "ko": "학생은 한국어를 공부해요.",
+        "en": "The student studies Korean."
+      },
+      {
+        "ko": "가족은 사진을 봐요.",
+        "en": "My family looks at photos."
+      },
+      {
+        "ko": "선생님은 답을 써요.",
+        "en": "The teacher writes the answer."
+      }
+    ],
+    "tip": "을 follows a final consonant; 를 follows a vowel."
+  },
+  {
+    "id": "P05",
+    "ch": 1,
+    "title": "Have or do not have",
+    "form": "N이/가 있어요 / 없어요",
+    "en": "Say what exists or what you have.",
+    "examples": [
+      {
+        "ko": "시간이 있어요.",
+        "en": "I have time."
+      },
+      {
+        "ko": "숙제가 없어요.",
+        "en": "I do not have homework."
+      },
+      {
+        "ko": "가방이 있어요.",
+        "en": "I have a bag."
+      }
+    ],
+    "tip": ""
+  },
+  {
+    "id": "P06",
+    "ch": 1,
+    "title": "Names and identities",
+    "form": "N이에요 / 예요",
+    "en": "Say what something or someone is.",
+    "examples": [
+      {
+        "ko": "저는 학생이에요.",
+        "en": "I am a student."
+      },
+      {
+        "ko": "이건 제 가방이에요.",
+        "en": "This is my bag."
+      },
+      {
+        "ko": "이름이 뭐예요?",
+        "en": "What is your name?"
+      }
+    ],
+    "tip": "이에요 follows a final consonant; 예요 follows a vowel. These forms already appeared in the source."
+  },
+  {
+    "id": "P07",
+    "ch": 2,
+    "title": "Where something is",
+    "form": "Place에 있어요 / 없어요",
+    "en": "Locate a person or thing.",
+    "examples": [
+      {
+        "ko": "저는 방에 있어요.",
+        "en": "I am in the room."
+      },
+      {
+        "ko": "가방은 교실에 있어요.",
+        "en": "The bag is in the classroom."
+      },
+      {
+        "ko": "친구는 학교에 있어요.",
+        "en": "My friend is at school."
+      }
+    ],
+    "tip": ""
+  },
+  {
+    "id": "P08",
+    "ch": 2,
+    "title": "Destinations and arrival",
+    "form": "Place에 가요 / 와요 / 도착해요",
+    "en": "Name a destination.",
+    "examples": [
+      {
+        "ko": "친구는 학교에 가요.",
+        "en": "My friend goes to school."
+      },
+      {
+        "ko": "택시는 공항에 도착해요.",
+        "en": "The taxi arrives at the airport."
+      },
+      {
+        "ko": "친구가 집에 와요.",
+        "en": "My friend comes to my home."
+      }
+    ],
+    "tip": ""
+  },
+  {
+    "id": "P09",
+    "ch": 2,
+    "title": "Where an action happens",
+    "form": "Place에서 + action",
+    "en": "Say where you study, eat, work or meet.",
+    "examples": [
+      {
+        "ko": "저는 도서관에서 공부해요.",
+        "en": "I study at the library."
+      },
+      {
+        "ko": "친구는 카페에서 기다려요.",
+        "en": "My friend waits at the cafe."
+      },
+      {
+        "ko": "학생은 교실에서 한국어를 배워요.",
+        "en": "The student learns Korean in the classroom."
+      },
+      {
+        "ko": "저는 공원에서 운동해요.",
+        "en": "I exercise at the park."
+      }
+    ],
+    "tip": ""
+  },
+  {
+    "id": "P10",
+    "ch": 2,
+    "title": "Relative positions",
+    "form": "N + position + 에 / 에서",
+    "en": "Use a location noun before the place particle.",
+    "examples": [
+      {
+        "ko": "약국은 편의점 앞에 있어요.",
+        "en": "The pharmacy is in front of the convenience store."
+      },
+      {
+        "ko": "휴대폰이 가방 안에 있어요.",
+        "en": "The phone is inside the bag."
+      },
+      {
+        "ko": "학교 앞에서 만나요.",
+        "en": "We meet in front of the school."
+      },
+      {
+        "ko": "책이 책상 아래에 있어요.",
+        "en": "The book is under the desk."
+      }
+    ],
+    "tip": ""
+  },
+  {
+    "id": "P11",
+    "ch": 2,
+    "title": "Home and distance",
+    "form": "Place에 살아요 / N이 place에 가까워요",
+    "en": "Talk about where you live and nearby places.",
+    "examples": [
+      {
+        "ko": "한국에 살아요.",
+        "en": "I live in Korea."
+      },
+      {
+        "ko": "집이 역에 가까워요.",
+        "en": "My home is near the station."
+      },
+      {
+        "ko": "회사가 집에서 멀어요.",
+        "en": "My workplace is far from home."
+      },
+      {
+        "ko": "집 근처에 카페가 있어요.",
+        "en": "There is a cafe near my home."
+      }
+    ],
+    "tip": "살다 can use 에 or 에서. 에서 also marks a reference/source point in the distance example; it is not always an action location."
+  },
+  {
+    "id": "P12",
+    "ch": 3,
+    "title": "Transportation",
+    "form": "Vehicle(으)로 + place에 가요",
+    "en": "Say how you travel.",
+    "examples": [
+      {
+        "ko": "저는 버스로 가요.",
+        "en": "I go by bus."
+      },
+      {
+        "ko": "친구는 지하철로 와요.",
+        "en": "My friend comes by subway."
+      },
+      {
+        "ko": "자전거로 학교에 가요.",
+        "en": "I go to school by bicycle."
+      },
+      {
+        "ko": "비행기로 한국에 가요.",
+        "en": "I go to Korea by plane."
+      }
+    ],
+    "tip": "으로 follows a final consonant except ㄹ. 로 follows a vowel or ㄹ: 버스로, 지하철로, 자동차로."
+  },
+  {
+    "id": "P13",
+    "ch": 3,
+    "title": "Directions and routes",
+    "form": "Direction(으)로 가요",
+    "en": "Say which way to go.",
+    "examples": [
+      {
+        "ko": "오른쪽으로 가요.",
+        "en": "I go to the right."
+      },
+      {
+        "ko": "왼쪽으로 천천히 가요.",
+        "en": "I go slowly to the left."
+      },
+      {
+        "ko": "동쪽으로 가요.",
+        "en": "I go east."
+      },
+      {
+        "ko": "서울로 보내요.",
+        "en": "I send it to Seoul."
+      }
+    ],
+    "tip": "에 emphasizes the destination; (으)로 can emphasize direction. They overlap in some contexts but not everywhere. The original request form 가세요 is listed in the grammar extension."
+  },
+  {
+    "id": "P14",
+    "ch": 3,
+    "title": "Tools and payment",
+    "form": "Tool(으)로 + object을/를 + action",
+    "en": "Say which tool or means you use.",
+    "examples": [
+      {
+        "ko": "볼펜으로 이름을 써요.",
+        "en": "I write my name with a ballpoint pen."
+      },
+      {
+        "ko": "종이를 가위로 잘라요.",
+        "en": "I cut paper with scissors."
+      },
+      {
+        "ko": "카메라로 사진을 찍어요.",
+        "en": "I take photos with a camera."
+      },
+      {
+        "ko": "컴퓨터로 파일을 보내요.",
+        "en": "I send a file using a computer."
+      },
+      {
+        "ko": "카드로 선물을 사요.",
+        "en": "I buy a gift with a card."
+      }
+    ],
+    "tip": ""
+  },
+  {
+    "id": "P15",
+    "ch": 3,
+    "title": "Materials",
+    "form": "Material(으)로 + object을/를 만들어요",
+    "en": "Say what you make something out of.",
+    "examples": [
+      {
+        "ko": "나무로 책상을 만들어요.",
+        "en": "I make a desk out of wood."
+      },
+      {
+        "ko": "종이로 선물을 만들어요.",
+        "en": "I make a gift out of paper."
+      },
+      {
+        "ko": "유리로 컵을 만들어요.",
+        "en": "I make a cup out of glass."
+      },
+      {
+        "ko": "플라스틱으로 컵을 만들어요.",
+        "en": "I make a cup out of plastic."
+      }
+    ],
+    "tip": ""
+  },
+  {
+    "id": "P16",
+    "ch": 3,
+    "title": "Languages",
+    "form": "Language(으)로 말해요 / 바꿔요",
+    "en": "Name the language you use.",
+    "examples": [
+      {
+        "ko": "영어로 말해요.",
+        "en": "I speak in English."
+      },
+      {
+        "ko": "한국어로 말해요.",
+        "en": "I speak in Korean."
+      },
+      {
+        "ko": "한국어로 바꿔요.",
+        "en": "I change it into Korean."
+      }
+    ],
+    "tip": ""
+  },
+  {
+    "id": "P17",
+    "ch": 3,
+    "title": "Roles and jobs",
+    "form": "Job(으)로 일해요",
+    "en": "Say in what role someone works.",
+    "examples": [
+      {
+        "ko": "의사로 일해요.",
+        "en": "I work as a doctor."
+      },
+      {
+        "ko": "요리사로 일해요.",
+        "en": "I work as a chef."
+      },
+      {
+        "ko": "직원으로 일해요.",
+        "en": "I work as an employee."
+      }
+    ],
+    "tip": ""
+  },
+  {
+    "id": "P18",
+    "ch": 4,
+    "title": "Also / too",
+    "form": "N도 + information",
+    "en": "Add another person or thing to the same statement.",
+    "examples": [
+      {
+        "ko": "저도 학생이에요.",
+        "en": "I am a student too."
+      },
+      {
+        "ko": "동생도 빵을 먹어요.",
+        "en": "My younger sibling eats bread too."
+      },
+      {
+        "ko": "가방도 필요해요.",
+        "en": "A bag is also needed."
+      },
+      {
+        "ko": "우유도 있어요.",
+        "en": "There is milk too."
+      }
+    ],
+    "tip": "At this level, 도 replaces 이/가, 은/는 or 을/를. It may follow other particles: 집에서도, 친구한테도. This is not a universal ban on particle combinations."
+  },
+  {
+    "id": "P19",
+    "ch": 4,
+    "title": "Only",
+    "form": "N만 + information",
+    "en": "Limit the statement to a person or thing.",
+    "examples": [
+      {
+        "ko": "저는 커피만 마셔요.",
+        "en": "I drink only coffee."
+      },
+      {
+        "ko": "친구는 빵만 먹어요.",
+        "en": "My friend eats only bread."
+      },
+      {
+        "ko": "이 가방만 비싸요.",
+        "en": "Only this bag is expensive."
+      },
+      {
+        "ko": "오늘은 수업만 있어요.",
+        "en": "Today I only have class."
+      },
+      {
+        "ko": "저는 이 단어만 외워요.",
+        "en": "I memorize only this word."
+      }
+    ],
+    "tip": "Compare the scope: 저만 커피를 마셔요 = only I drink coffee; 저는 커피만 마셔요 = coffee is the only thing I drink in this context."
+  },
+  {
+    "id": "P20",
+    "ch": 4,
+    "title": "Possession",
+    "form": "Owner의 + noun",
+    "en": "Connect an owner or relationship to a noun.",
+    "examples": [
+      {
+        "ko": "어머니의 우산이에요.",
+        "en": "It is my mother’s umbrella."
+      },
+      {
+        "ko": "친구의 이름을 써요.",
+        "en": "I write my friend’s name."
+      },
+      {
+        "ko": "선생님의 책이에요.",
+        "en": "It is the teacher’s book."
+      },
+      {
+        "ko": "가족의 사진을 봐요.",
+        "en": "I look at a family photo."
+      }
+    ],
+    "tip": "저의 often contracts to 제. 의 may be omitted in natural noun combinations: 한국어 단어 is more natural than 한국어의 단어 for Korean vocabulary."
+  },
+  {
+    "id": "P21",
+    "ch": 5,
+    "title": "Give to someone",
+    "form": "Person에게/한테 + object을/를 줘요",
+    "en": "Name the recipient of something.",
+    "examples": [
+      {
+        "ko": "친구한테 선물을 줘요.",
+        "en": "I give my friend a gift."
+      },
+      {
+        "ko": "아기한테 우유를 줘요.",
+        "en": "I give the baby milk."
+      },
+      {
+        "ko": "강아지한테 물을 줘요.",
+        "en": "I give the dog water."
+      },
+      {
+        "ko": "손님에게 정보를 줘요.",
+        "en": "I give the customer information."
+      }
+    ],
+    "tip": "한테 is conversational; 에게 is neutral/written. People and animals normally take these; ordinary places take 에."
+  },
+  {
+    "id": "P22",
+    "ch": 5,
+    "title": "Send to someone",
+    "form": "Person에게/한테 + object을/를 보내요",
+    "en": "Name who receives a message or item.",
+    "examples": [
+      {
+        "ko": "친구한테 편지를 보내요.",
+        "en": "I send a letter to my friend."
+      },
+      {
+        "ko": "동료한테 메시지를 보내요.",
+        "en": "I send a message to my colleague."
+      },
+      {
+        "ko": "교수님에게 이메일을 보내요.",
+        "en": "I send an email to the professor."
+      },
+      {
+        "ko": "가족한테 사진을 보내요.",
+        "en": "I send photos to my family."
+      }
+    ],
+    "tip": ""
+  },
+  {
+    "id": "P23",
+    "ch": 5,
+    "title": "Communicate with someone",
+    "form": "Person에게/한테 + communication verb",
+    "en": "Name who hears the information.",
+    "examples": [
+      {
+        "ko": "저는 아내한테 전화해요.",
+        "en": "I call my wife."
+      },
+      {
+        "ko": "학생은 선생님에게 대답해요.",
+        "en": "The student answers the teacher."
+      },
+      {
+        "ko": "이웃한테 도움을 부탁해요.",
+        "en": "I ask my neighbor for help."
+      },
+      {
+        "ko": "친척한테 소식을 전해요.",
+        "en": "I share news with a relative."
+      }
+    ],
+    "tip": ""
+  },
+  {
+    "id": "P24",
+    "ch": 5,
+    "title": "Tell and teach",
+    "form": "Person에게/한테 + information을/를 + verb",
+    "en": "Add both a recipient and the information.",
+    "examples": [
+      {
+        "ko": "간호사에게 주소를 알려줘요.",
+        "en": "I tell the nurse the address."
+      },
+      {
+        "ko": "후배에게 전화번호를 알려줘요.",
+        "en": "I tell the junior colleague the phone number."
+      },
+      {
+        "ko": "외국인에게 한국어를 가르쳐요.",
+        "en": "I teach Korean to a foreign learner."
+      },
+      {
+        "ko": "경찰에게 길을 물어요.",
+        "en": "I ask a police officer for directions."
+      }
+    ],
+    "tip": ""
+  },
+  {
+    "id": "P25",
+    "ch": 5,
+    "title": "Attitudes toward people",
+    "form": "Person에게/한테 + adjective",
+    "en": "Say who you feel thankful toward or treat kindly.",
+    "examples": [
+      {
+        "ko": "선배에게 고마워요.",
+        "en": "I am grateful to my senior colleague."
+      },
+      {
+        "ko": "손님에게 친절해요.",
+        "en": "I am kind to customers."
+      },
+      {
+        "ko": "직장인에게 시간이 필요해요.",
+        "en": "Working people need time."
+      }
+    ],
+    "tip": ""
+  },
+  {
+    "id": "P26",
+    "ch": 5,
+    "title": "One connected story",
+    "form": "Destination → action location → recipient",
+    "en": "Use several short sentences instead of one overloaded sentence.",
+    "examples": [
+      {
+        "ko": "저는 버스로 카페에 가요.",
+        "en": "I go to the cafe by bus."
+      },
+      {
+        "ko": "카페에서 친구를 만나요.",
+        "en": "I meet a friend at the cafe."
+      },
+      {
+        "ko": "친구도 커피를 좋아해요.",
+        "en": "My friend likes coffee too."
+      },
+      {
+        "ko": "친구한테 선물을 줘요.",
+        "en": "I give my friend a gift."
+      }
+    ],
+    "tip": ""
+  }
+]
