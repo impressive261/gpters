@@ -12,7 +12,7 @@ on:
       - '.github/workflows/katharine-app.yml'
 concurrency:
   group: katharine-material-build
-  cancel-in-progress: false
+  cancel-in-progress: true
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -33,11 +33,7 @@ jobs:
           python -m playwright install --with-deps chromium
       - name: Build complete bilingual data and printable materials
         run: |
-          python katharine-src/enrich.py
-          python katharine-src/questions.py
-          python katharine-src/patterns.py
-          python katharine-src/build.py
-          python katharine-src/assets.py
+          python katharine-src/run.py
           node --check katharine/app.js
           node --check katharine/scheduler.js
           node --check katharine/sw.js
