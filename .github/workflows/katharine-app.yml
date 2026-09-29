@@ -42,7 +42,7 @@ jobs:
           python -m http.server 8765 --bind 127.0.0.1 --directory katharine > /tmp/katharine-http.log 2>&1 &
           SERVER_PID=$!
           trap 'kill $SERVER_PID || true' EXIT
-          python katharine-src/test.py
+          python katharine-src/validate.py
       - name: Record real Pages status without changing administration settings
         env:
           GH_TOKEN: ${{ github.token }}
