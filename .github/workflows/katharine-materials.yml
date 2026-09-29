@@ -1,0 +1,54 @@
+name: Build Katharine Korean materials
+on:
+  push:
+    branches: [main]
+    paths: ['katharine/**', '.github/workflows/katharine-materials.yml']
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: katharine-materials
+  cancel-in-progress: false
+jobs:
+  build:
+    if: "!contains(github.event.head_commit.message, '[katharine-generated]')"
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Check source readiness
+        id: ready
+        run: |
+          if [ -f katharine/data.json ] && [ -f katharine/generate_audio.py ]; then
+            echo 'ready=true' >> "$GITHUB_OUTPUT"
+          else
+            echo 'ready=false' >> "$GITHUB_OUTPUT"
+            echo 'Waiting for the app source commit; no build attempted.'
+          fi
+      - name: Install audio dependency
+        if: steps.ready.outputs.ready == 'true'
+        run: python -m pip install 'edge-tts==7.2.3'
+      - name: Generate Korean neural audio files
+        if: steps.ready.outputs.ready == 'true'
+        run: python katharine/generate_audio.py
+      - name: Publish generated audio to source repository
+        if: steps.ready.outputs.ready == 'true'
+        run: |
+          git config user.name 'Katharine Materials Build'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add katharine/audio katharine/audio-manifest.json
+          if ! git diff --cached --quiet; then
+            git commit -m '[katharine-generated] Add generated Korean pronunciation audio'
+            git pull --rebase origin main
+            git push origin HEAD:main
+          fi
+      - name: Export complete downloadable app
+        if: steps.ready.outputs.ready == 'true'
+        uses: actions/upload-artifact@v4
+        with:
+          name: katharine-korean-app-with-audio
+          path: katharine/
+          retention-days: 30
